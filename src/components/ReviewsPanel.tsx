@@ -5,25 +5,29 @@ import Button from '@mui/material/Button'
 import Card from '@mui/material/Card'
 import Chip from '@mui/material/Chip'
 import Typography from '@mui/material/Typography'
-import { lookup } from '../data/lookup'
-import { accentSx, metaFor } from '../data/subjectMeta'
+import { icons } from '../data/icons'
+import { lookup } from '../data/registry'
 import { dueReviews, type DueReview } from '../domain/tree'
 import type { Progress } from '../domain/types'
+import { accentSx } from './accent'
 
 const LABEL = { d1: '24 horas', d7: '7 dias', d30: '30 dias' }
 const fmt = (d: string) => d.split('-').reverse().slice(0, 2).join('/')
 
 interface Props {
   progress: Progress
+  /** só revisões de folhas visíveis no concurso/emprego atual */
+  include: (leafId: string) => boolean
   onComplete: (leafId: string, key: 'd1' | 'd7' | 'd30') => void
 }
 
 function ReviewCard({ r, onComplete }: { r: DueReview; onComplete: Props['onComplete'] }) {
   const entry = lookup.get(r.leafId)
-  const meta = metaFor(r.leafId)
+  if (!entry) return null
+  const { subject } = entry
   const late = r.due < new Date().toLocaleDateString('sv-SE')
   return (
-    <Card sx={[accentSx(meta), { px: { xs: 1.5, sm: 2 }, py: 1.5, borderRadius: '16px', display: 'flex', alignItems: 'center', gap: { xs: 1.5, sm: 2 } }]}>
+    <Card sx={[accentSx(subject.accent), { px: { xs: 1.5, sm: 2 }, py: 1.5, borderRadius: '16px', display: 'flex', alignItems: 'center', gap: { xs: 1.5, sm: 2 } }]}>
       <Box
         sx={{
           width: 40,
@@ -37,15 +41,15 @@ function ReviewCard({ r, onComplete }: { r: DueReview; onComplete: Props['onComp
           '& svg': { fontSize: 22 },
         }}
       >
-        {meta.icon}
+        {icons[subject.icon]}
       </Box>
       <Box sx={{ flex: 1, minWidth: 0 }}>
         <Typography variant="body2" sx={{ fontWeight: 700, overflowWrap: 'anywhere' }}>
-          {entry?.node.title ?? r.leafId}
+          {entry.node.title}
         </Typography>
         <Typography variant="caption" color="text.secondary" sx={{ display: 'block' }} noWrap>
-          {meta.short}
-          {entry && entry.path.length > 1 ? ` › ${entry.path.slice(1).join(' › ')}` : ''}
+          {subject.short}
+          {entry.path.length > 1 ? ` › ${entry.path.slice(1).join(' › ')}` : ''}
         </Typography>
         <Box sx={{ display: 'flex', gap: 0.75, mt: 0.75, flexWrap: 'wrap' }}>
           <Chip size="small" label={`Revisão de ${LABEL[r.key]}`} sx={{ bgcolor: 'var(--accent-tint)', color: 'var(--accent)' }} />
@@ -83,8 +87,8 @@ function Group({ title, items, onComplete }: { title: string; items: DueReview[]
   )
 }
 
-export function ReviewsPanel({ progress, onComplete }: Props) {
-  const due = dueReviews(progress)
+export function ReviewsPanel({ progress, include, onComplete }: Props) {
+  const due = dueReviews(progress).filter((r) => include(r.leafId))
   const today = new Date().toLocaleDateString('sv-SE')
   return (
     <Box>

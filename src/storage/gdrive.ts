@@ -1,10 +1,12 @@
 import { mergeProgress } from '../domain/merge'
+import { migrateProgress } from '../domain/migrate'
 import type { Progress } from '../domain/types'
 
 export const CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID as string | undefined
 const SCOPE = 'https://www.googleapis.com/auth/drive.appdata'
 const FILE_NAME = 'progress.json'
-const HINT_KEY = 'inss-tracker:gdrive'
+const HINT_KEY = 'trilha:gdrive'
+const LEGACY_HINT_KEY = 'inss-tracker:gdrive'
 
 let token: { value: string; expires: number } | undefined
 
@@ -37,7 +39,7 @@ async function getToken(): Promise<string> {
 
 export const wasConnected = (): boolean => {
   try {
-    return localStorage.getItem(HINT_KEY) === '1'
+    return localStorage.getItem(HINT_KEY) === '1' || localStorage.getItem(LEGACY_HINT_KEY) === '1'
   } catch {
     return false
   }
@@ -50,6 +52,7 @@ export function disconnect(): void {
   token = undefined
   try {
     localStorage.removeItem(HINT_KEY)
+    localStorage.removeItem(LEGACY_HINT_KEY)
   } catch {
     /* ignore */
   }
@@ -76,7 +79,7 @@ export async function sync(local: Progress): Promise<Progress> {
   let merged = local
   if (id) {
     const remote = (await (await api(`https://www.googleapis.com/drive/v3/files/${id}?alt=media`)).json()) as Progress
-    merged = mergeProgress(local, remote)
+    merged = mergeProgress(local, migrateProgress(remote))
   }
   const body = JSON.stringify(merged)
   if (id) {

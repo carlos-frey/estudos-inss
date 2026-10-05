@@ -1,9 +1,8 @@
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
-import { subjects } from '../data/edital-2022'
 import { weightedProgress } from '../domain/progress'
 import { counts } from '../domain/tree'
-import type { Progress } from '../domain/types'
+import type { Concurso, Progress, Subject } from '../domain/types'
 import { ProgressRing } from './ProgressRing'
 
 function Stat({ label, value, bar }: { label: string; value: string; bar?: number }) {
@@ -33,10 +32,21 @@ function Stat({ label, value, bar }: { label: string; value: string; bar?: numbe
   )
 }
 
-export function Hero({ progress, pendingReviews }: { progress: Progress; pendingReviews: number }) {
+interface Props {
+  concurso: Concurso
+  subjects: Subject[]
+  progress: Progress
+  pendingReviews: number
+  /** texto extra sob o anel, ex.: aviso de emprego não escolhido */
+  hint?: string
+  /** subtítulo no lugar do cargo (ex.: emprego escolhido) */
+  cargo?: string
+}
+
+export function Hero({ concurso, subjects, progress, pendingReviews, hint, cargo }: Props) {
   const total = weightedProgress(subjects, progress)
-  const p1 = weightedProgress(subjects, progress, 'P1')
-  const p2 = weightedProgress(subjects, progress, 'P2')
+  const groups = concurso.groups.map((g) => ({ ...g, value: weightedProgress(subjects, progress, g.id) }))
+  const shownWeight = subjects.reduce((a, s) => a + s.weight, 0)
   const c = subjects.reduce(
     (a, s) => {
       const x = counts(s, progress)
@@ -60,8 +70,8 @@ export function Hero({ progress, pendingReviews }: { progress: Progress; pending
         borderRadius: { xs: '24px', sm: '28px' },
         p: { xs: 2.5, sm: 4 },
         color: '#fff',
-        background: 'linear-gradient(135deg, #4338CA 0%, #6D28D9 55%, #A21CAF 100%)',
-        boxShadow: '0 20px 40px -20px rgba(79,70,229,0.55)',
+        background: concurso.look.gradient,
+        boxShadow: `0 20px 40px -20px ${concurso.look.glow}`,
       }}
     >
       <Box
@@ -77,7 +87,7 @@ export function Hero({ progress, pendingReviews }: { progress: Progress; pending
       <Box sx={{ position: 'relative', display: 'flex', flexDirection: { xs: 'column', md: 'row' }, gap: { xs: 3, md: 5 }, alignItems: { md: 'center' } }}>
         <Box sx={{ flex: 1, minWidth: 0 }}>
           <Typography variant="overline" sx={{ opacity: 0.8 }}>
-            INSS · Técnico do Seguro Social
+            {concurso.org} · {cargo ?? concurso.cargo}
           </Typography>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 2.5, mt: 0.5 }}>
             <Box sx={{ display: { xs: 'block', md: 'none' } }}>
@@ -93,8 +103,9 @@ export function Hero({ progress, pendingReviews }: { progress: Progress; pending
             </Box>
           </Box>
           <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr 1fr', sm: 'repeat(4, 1fr)' }, gap: 1.5, mt: 3 }}>
-            <Stat label="P1 · Básicos" value={`${Math.round(p1 * 100)}%`} bar={p1} />
-            <Stat label="P2 · Específicos" value={`${Math.round(p2 * 100)}%`} bar={p2} />
+            {groups.map((g) => (
+              <Stat key={g.id} label={g.label} value={`${Math.round(g.value * 100)}%`} bar={g.value} />
+            ))}
             <Stat label="Tópicos estudados" value={`${c.done}/${c.total}`} />
             <Stat label="Revisões pendentes" value={String(pendingReviews)} />
           </Box>
@@ -107,7 +118,7 @@ export function Hero({ progress, pendingReviews }: { progress: Progress; pending
             </Typography>
           </ProgressRing>
           <Typography variant="caption" sx={{ opacity: 0.7, textAlign: 'center', maxWidth: 180 }}>
-            ponderado pelos 120 itens do edital 2022
+            {hint ?? `ponderado pelos ${shownWeight} ${concurso.unit} do ${concurso.editalLabel.toLowerCase()}`}
           </Typography>
         </Box>
       </Box>

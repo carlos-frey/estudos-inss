@@ -1,5 +1,8 @@
 import { describe, expect, it } from 'vitest'
-import { subjects } from '../data/edital-2022'
+import { concursos, subjectsFor } from '../data/registry'
+import { hemobras } from '../data/concursos/hemobras-2024'
+import { inss } from '../data/concursos/inss-2022'
+import { migrateProgress } from './migrate'
 import { mergeProgress } from './merge'
 import { weightedProgress } from './progress'
 import { checkState, completeReview, dueReviews, fraction, leaves, toggle } from './tree'
@@ -50,17 +53,55 @@ describe('revisões', () => {
 })
 
 describe('peso', () => {
-  it('progresso ponderado pela prova', () => {
-    const es = subjects.find((s) => s.id === 'es')!
+  it('progresso ponderado pelo grupo da prova', () => {
+    const es = inss.subjects.find((s) => s.id === 'inss.es')!
     const p = toggle(es, {}, NOW)
-    expect(weightedProgress(subjects, p, 'P2')).toBe(1)
-    expect(weightedProgress(subjects, p)).toBeCloseTo(70 / 120)
-    expect(weightedProgress(subjects, p, 'P1')).toBe(0)
+    expect(weightedProgress(inss.subjects, p, 'P2')).toBe(1)
+    expect(weightedProgress(inss.subjects, p)).toBeCloseTo(70 / 120)
+    expect(weightedProgress(inss.subjects, p, 'P1')).toBe(0)
   })
-  it('pesos somam 120 e ids são únicos', () => {
-    expect(subjects.reduce((a, s) => a + s.weight, 0)).toBe(120)
-    const ids = subjects.flatMap(leaves).map((l) => l.id)
+  it('INSS soma 120 itens; Hemobrás 40 comuns + 60 do emprego = 100 pontos', () => {
+    const sum = (ss: { weight: number }[]) => ss.reduce((a, s) => a + s.weight, 0)
+    expect(sum(inss.subjects)).toBe(120)
+    expect(sum(hemobras.subjects)).toBe(40)
+    for (const e of hemobras.empregos!) expect(sum(subjectsFor(hemobras, e.id))).toBe(100)
+  })
+})
+
+describe('concursos', () => {
+  it('ids únicos em todos os concursos e empregos, sempre com prefixo do concurso', () => {
+    const all = concursos.flatMap((c) => [...c.subjects, ...(c.empregos ?? []).map((e) => e.subject)])
+    const ids = all.flatMap(function walk(n: TreeNode): string[] {
+      return [n.id, ...(n.children ?? []).flatMap(walk)]
+    })
     expect(new Set(ids).size).toBe(ids.length)
+    for (const id of ids) expect(['inss', 'hemobras']).toContain(id.split('.')[0])
+  })
+  it('Hemobrás: 45 empregos, todos com conteúdo, conforme a Retificação nº 1', () => {
+    const emps = hemobras.empregos!
+    expect(emps).toHaveLength(45)
+    for (const e of emps) expect(leaves(e.subject).length).toBeGreaterThanOrEqual(5)
+    const codes = emps.map((e) => e.code)
+    expect(codes).not.toContain(37)
+    expect(codes).toEqual(expect.arrayContaining([45, 46]))
+    expect(emps.find((e) => e.code === 40)!.title).toBe('Garantia da Qualidade')
+    const cq = emps.find((e) => e.code === 5)!
+    expect(cq.retificado).toBe(true)
+    expect(leaves(cq.subject).some((l) => l.title.includes('Obtenção e controle de água purificada'))).toBe(true)
+  })
+})
+
+describe('migração', () => {
+  it('progresso antigo sem prefixo vira INSS; com prefixo fica igual', () => {
+    const old: Progress = { 'pt.1': { done: true, updatedAt: 1 }, 'hemobras.pt.1': { done: true, updatedAt: 2 } }
+    const m = migrateProgress(old)
+    expect(Object.keys(m).sort()).toEqual(['hemobras.pt.1', 'inss.pt.1'])
+    const already: Progress = { 'inss.pt.1': { done: true, updatedAt: 1 } }
+    expect(migrateProgress(already)).toBe(already)
+  })
+  it('ids migrados existem na árvore do INSS', () => {
+    const subject = inss.subjects.find((s) => s.id === 'inss.pt')!
+    expect(leaves(subject).map((l) => l.id)).toContain('inss.pt.1')
   })
 })
 

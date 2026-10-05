@@ -8,18 +8,18 @@ import Collapse from '@mui/material/Collapse'
 import Divider from '@mui/material/Divider'
 import FormControlLabel from '@mui/material/FormControlLabel'
 import Typography from '@mui/material/Typography'
-import { accentSx, subjectMeta } from '../data/subjectMeta'
+import { icons } from '../data/icons'
 import { checkState, counts, pendingCount } from '../domain/tree'
 import type { Subject } from '../domain/types'
+import { accentSx } from './accent'
 import { ProgressRing } from './ProgressRing'
 import { SimuladoButton } from './SimuladoButton'
 import { accentCheckboxSx, TreeItem, type TreeProps } from './TreeItem'
 
-export function SubjectCard({ subject, ...props }: TreeProps & { subject: Subject }) {
+export function SubjectCard({ subject, groupLabel, unit, ...props }: TreeProps & { subject: Subject; groupLabel: string; unit: string }) {
   const { progress, expanded, visible, onToggleExpand, onToggleCheck } = props
   if (visible && !visible.has(subject.id)) return null
 
-  const meta = subjectMeta[subject.id]
   const open = !!visible || expanded.has(subject.id)
   const { done, total } = counts(subject, progress)
   const pct = Math.round((done / total) * 100)
@@ -29,7 +29,7 @@ export function SubjectCard({ subject, ...props }: TreeProps & { subject: Subjec
   return (
     <Card
       sx={[
-        accentSx(meta),
+        accentSx(subject.accent),
         {
           overflow: 'hidden',
           transition: 'border-color 200ms, box-shadow 200ms',
@@ -71,7 +71,7 @@ export function SubjectCard({ subject, ...props }: TreeProps & { subject: Subjec
             '& svg': { fontSize: { xs: 24, sm: 28 } },
           }}
         >
-          {meta.icon}
+          {icons[subject.icon]}
         </Box>
         <Box sx={{ flex: 1, minWidth: 0 }}>
           <Typography variant="subtitle1" sx={{ lineHeight: 1.3, fontSize: { xs: 15, sm: 17 } }}>
@@ -80,11 +80,11 @@ export function SubjectCard({ subject, ...props }: TreeProps & { subject: Subjec
           <Box sx={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: 1, mt: 0.75 }}>
             <Chip
               size="small"
-              label={subject.prova === 'P1' ? 'P1 · Básicos' : 'P2 · Específicos'}
+              label={groupLabel}
               sx={{ bgcolor: 'var(--accent-tint)', color: 'var(--accent)' }}
             />
             <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 500 }}>
-              {subject.weight} itens · {done}/{total} tópicos
+              {subject.weight} {unit} · {done}/{total} tópicos
             </Typography>
             {pending > 0 && (
               <Chip

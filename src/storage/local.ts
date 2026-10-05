@@ -1,52 +1,64 @@
 import { mergeProgress } from '../domain/merge'
+import { migrateProgress } from '../domain/migrate'
 import type { Progress } from '../domain/types'
 
-const KEY = 'inss-tracker:v1'
-const UI_KEY = 'inss-tracker:expanded'
+const KEY = 'trilha:v1'
+const LEGACY_KEY = 'inss-tracker:v1'
+const UI_KEY = 'trilha:expanded'
+const LEGACY_UI_KEY = 'inss-tracker:expanded'
 
-export function loadProgress(): Progress {
+function read<T>(key: string): T | undefined {
   try {
-    const raw = localStorage.getItem(KEY)
-    return raw ? (JSON.parse(raw) as Progress) : {}
+    const raw = localStorage.getItem(key)
+    return raw ? (JSON.parse(raw) as T) : undefined
   } catch {
-    return {}
+    return undefined
   }
 }
 
-export function saveProgress(p: Progress): void {
+function write(key: string, value: unknown): void {
   try {
-    localStorage.setItem(KEY, JSON.stringify(p))
+    localStorage.setItem(key, JSON.stringify(value))
   } catch {
     /* storage indisponível */
   }
 }
 
-export function loadExpanded(): string[] {
-  try {
-    return JSON.parse(localStorage.getItem(UI_KEY) ?? '[]') as string[]
-  } catch {
-    return []
-  }
+export const hasLegacyProgress = (): boolean => !!read<Progress>(LEGACY_KEY)
+
+export function loadProgress(): Progress {
+  const cur = read<Progress>(KEY) ?? {}
+  const legacy = read<Progress>(LEGACY_KEY)
+  return migrateProgress(legacy ? mergeProgress(migrateProgress(legacy), cur) : cur)
 }
 
-export function saveExpanded(ids: string[]): void {
+export function saveProgress(p: Progress): void {
+  write(KEY, p)
   try {
-    localStorage.setItem(UI_KEY, JSON.stringify(ids))
+    localStorage.removeItem(LEGACY_KEY)
   } catch {
     /* ignore */
   }
 }
 
+export function loadExpanded(): string[] {
+  const cur = read<string[]>(UI_KEY)
+  if (cur) return cur
+  return (read<string[]>(LEGACY_UI_KEY) ?? []).map((id) => `inss.${id}`)
+}
+
+export const saveExpanded = (ids: string[]): void => write(UI_KEY, ids)
+
 export function exportProgress(p: Progress): void {
   const blob = new Blob([JSON.stringify(p, null, 2)], { type: 'application/json' })
   const a = document.createElement('a')
   a.href = URL.createObjectURL(blob)
-  a.download = `inss-tracker-${new Date().toISOString().slice(0, 10)}.json`
+  a.download = `trilha-do-edital-${new Date().toISOString().slice(0, 10)}.json`
   a.click()
   URL.revokeObjectURL(a.href)
 }
 
-/** Lê um .json exportado e faz merge com o progresso atual. */
+/** Lê um .json exportado (inclusive da versão antiga, só INSS) e faz merge com o progresso atual. */
 export async function importProgress(file: File, current: Progress): Promise<Progress> {
   const data = JSON.parse(await file.text()) as unknown
   if (!data || typeof data !== 'object' || Array.isArray(data)) throw new Error('Arquivo inválido')
@@ -55,5 +67,5 @@ export async function importProgress(file: File, current: Progress): Promise<Pro
       throw new Error('Arquivo inválido')
     }
   }
-  return mergeProgress(current, data as Progress)
+  return mergeProgress(current, migrateProgress(data as Progress))
 }

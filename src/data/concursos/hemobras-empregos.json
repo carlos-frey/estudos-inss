@@ -1,0 +1,7689 @@
+[
+ {
+  "code": 1,
+  "title": "Assistente Administrativo",
+  "cargo": "Assistente Industrial e de Gestão Corporativa",
+  "nivel": "medio",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Fundamentos de Administração: conceitos, características e finalidade"
+   },
+   {
+    "title": "Funções administrativas: noções sobre Organização e Estrutura organizacional"
+   },
+   {
+    "title": "Rotinas administrativas",
+    "children": [
+     {
+      "title": "Circulação de documentos oficiais"
+     },
+     {
+      "title": "Protocolo"
+     },
+     {
+      "title": "Técnicas de arquivo"
+     },
+     {
+      "title": "Procedimentos administrativos"
+     }
+    ]
+   },
+   {
+    "title": "Ofícios e memorandos, emissão de relatórios"
+   },
+   {
+    "title": "Noções básicas de administração patrimonial"
+   },
+   {
+    "title": "Noções de administração e controle de estoques"
+   },
+   {
+    "title": "Conhecimentos de Administração Pública: Administração Direta e Indireta"
+   },
+   {
+    "title": "Ato administrativo: conceito"
+   },
+   {
+    "title": "Constituição da República Federativa do Brasil",
+    "children": [
+     {
+      "title": "Organização do Estado"
+     },
+     {
+      "title": "Direitos e garantias fundamentais"
+     },
+     {
+      "title": "Organização dos Poderes"
+     }
+    ]
+   },
+   {
+    "title": "Atendimento ao público"
+   },
+   {
+    "title": "Redação Oficial: memorandos, comunicações internas e requerimentos"
+   },
+   {
+    "title": "Informática",
+    "children": [
+     {
+      "title": "Uso do correio eletrônico"
+     },
+     {
+      "title": "Conhecimentos práticos de Word, Excel e Powerpoint"
+     },
+     {
+      "title": "Navegadores web: Mozilla Firefox e Google Chrome"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 2,
+  "title": "Arquivo",
+  "cargo": "Assistente Industrial e de Gestão Corporativa",
+  "nivel": "medio",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conceitos fundamentais de Arquivologia, finalidade, função, classificação, teorias e princípios. Órgãos de documentação: características dos acervos"
+   },
+   {
+    "title": "Políticas Arquivísticas",
+    "children": [
+     {
+      "title": "Conceitos e cenários (privado, público e nacional)"
+     },
+     {
+      "title": "Conselho Nacional de Arquivos (CONARQ) - Resoluções, Instruções Normativas e Câmaras Técnicas"
+     },
+     {
+      "title": "Sistema Nacional de Arquivos (SINAR)"
+     }
+    ]
+   },
+   {
+    "title": "Legislação Arquivística",
+    "children": [
+     {
+      "title": "Lei de Arquivo (Lei nº 8.159, de 8 de janeiro de 1991 e Decreto nº 4.073, de 03 de janeiro de 2002)"
+     },
+     {
+      "title": "SIGA (Decreto nº 4.915, de 12 de dezembro de 2003)"
+     },
+     {
+      "title": "Decreto nº 10.148, de 2 de dezembro de 2019"
+     },
+     {
+      "title": "Lei de Acesso à Informação (Lei nº 12.527, de 18 de novembro de 2011 e Decreto nº 7.724, de 16 de maio de 2012)"
+     },
+     {
+      "title": "Lei Geral de Proteção de Dados (Lei nº 13.709, de 14 de agosto de 2018)"
+     },
+     {
+      "title": "Documentos arquivísticos digitais e Processo Eletrônico Nacional (Lei nº 12.682, de 09 de julho de 2012 e Decreto nº 8.539, de 08 de outubro de 2015)"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Documentos",
+    "children": [
+     {
+      "title": "Conceitos e aplicações para ambientes analógico e digital"
+     },
+     {
+      "title": "Política e Programa de Gestão de Documentos"
+     },
+     {
+      "title": "Protocolo e fluxo documental"
+     },
+     {
+      "title": "Instrumentos de gestão (plano de classificação e tabela de temporalidade e destinação)"
+     },
+     {
+      "title": "Métodos de Arquivamento"
+     }
+    ]
+   },
+   {
+    "title": "Classificação Arquivística",
+    "children": [
+     {
+      "title": "Conceitos e aplicações"
+     },
+     {
+      "title": "Elaboração e aplicação de Planos de classificação"
+     },
+     {
+      "title": "Contexto de produção documental"
+     }
+    ]
+   },
+   {
+    "title": "Avaliação Arquivística",
+    "children": [
+     {
+      "title": "Conceitos e aplicações"
+     },
+     {
+      "title": "Valor primário e valor secundário"
+     },
+     {
+      "title": "Elaboração e aplicação de Tabela de temporalidade e destinação"
+     },
+     {
+      "title": "Comissão Permanente de Avaliação de Documentos"
+     },
+     {
+      "title": "Eliminação de documentos de arquivo"
+     }
+    ]
+   },
+   {
+    "title": "Descrição Arquivística",
+    "children": [
+     {
+      "title": "Conceitos e aplicações"
+     },
+     {
+      "title": "Política de Descrição"
+     },
+     {
+      "title": "Normas de Descrição (NOBRADE e ISAD(G))"
+     },
+     {
+      "title": "Instrumentos de pesquisa"
+     },
+     {
+      "title": "ICA-AtoM"
+     }
+    ]
+   },
+   {
+    "title": "Diplomática",
+    "children": [
+     {
+      "title": "Conceitos, história e abordagens"
+     },
+     {
+      "title": "Espécie Documental"
+     },
+     {
+      "title": "Tipo Documental"
+     },
+     {
+      "title": "Análise Diplomática e Análise Tipológica"
+     }
+    ]
+   },
+   {
+    "title": "Massa Documental Acumulada",
+    "children": [
+     {
+      "title": "Conceito e tratamento arquivístico"
+     },
+     {
+      "title": "Projeto de Avaliação de Massa Documental Acumulada"
+     },
+     {
+      "title": "Diagnóstico arquivístico"
+     },
+     {
+      "title": "Identificação Arquivística"
+     }
+    ]
+   },
+   {
+    "title": "Conservação, Preservação e Restauração de documentos de arquivo",
+    "children": [
+     {
+      "title": "Conceitos e aplicações"
+     },
+     {
+      "title": "Política e Programa de Preservação"
+     },
+     {
+      "title": "Procedimentos de Conservação: higienização, pequenos reparos e acondicionamento"
+     },
+     {
+      "title": "Fatores e agentes de degradação e deterioração em Arquivos"
+     }
+    ]
+   },
+   {
+    "title": "Tecnologia da informação para Arquivos",
+    "children": [
+     {
+      "title": "Sistemas Informatizado de Gestão Arquivística de Documentos (SIGAD) e e-ARQ Brasil 2.0"
+     },
+     {
+      "title": "Digitalização de documentos"
+     },
+     {
+      "title": "Preservação digital"
+     },
+     {
+      "title": "Repositório Arquivístico Digital Confiável (RDC-Arq)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 3,
+  "title": "Ambiental",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Política Nacional do Meio Ambiente, Política Nacional de Resíduos Sólidos e Política Nacional de Educação Ambiental"
+   },
+   {
+    "title": "Programa Esplanada Sustentável e Agenda Ambiental na Administração Pública"
+   },
+   {
+    "title": "Licenciamento ambiental, avaliação de impacto ambiental, sistemas de gestão ambiental e auditorias ambientais"
+   },
+   {
+    "title": "Riscos ambientais e estratégias de mitigação e redução"
+   },
+   {
+    "title": "Recuperação de Áreas Degradadas"
+   },
+   {
+    "title": "Gerenciamento de resíduos sólidos industriais, tratamento de efluentes, controle de emissões"
+   },
+   {
+    "title": "Ecoeficiência, produção mais limpa e estratégias de prevenção à poluição"
+   },
+   {
+    "title": "Controle integrado de pragas"
+   },
+   {
+    "title": "Sustentabilidade e desenvolvimento sustentável"
+   },
+   {
+    "title": "Qualidade e meio ambiente; Saúde, segurança e meio ambiente"
+   },
+   {
+    "title": "Saúde Pública"
+   },
+   {
+    "title": "Construções sustentáveis e certificações ambientais"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 4,
+  "title": "Automação Industrial",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Princípios básicos de controladores lógicos programáveis - CLP, Variável manipulada e variável controlada"
+   },
+   {
+    "title": "Simbologia de instrumentos e equipamentos"
+   },
+   {
+    "title": "Instrumentos de medição"
+   },
+   {
+    "title": "Microprocessadores e micro controladores"
+   },
+   {
+    "title": "Eletrônica industrial, eletrônica analógica e digital"
+   },
+   {
+    "title": "Dispositivos semicondutores"
+   },
+   {
+    "title": "Microeletrônica, instrumentação eletrônica e processamento de sinais"
+   },
+   {
+    "title": "Automação e controle automático de processos de comunicação de dados"
+   },
+   {
+    "title": "Normas de segurança do trabalho e proteções na área de instalações elétricas"
+   },
+   {
+    "title": "Automação industrial",
+    "children": [
+     {
+      "title": "Instrumentação industrial"
+     },
+     {
+      "title": "Experimentos de instrumentação industrial"
+     },
+     {
+      "title": "Sensor de deformação"
+     },
+     {
+      "title": "Medição de temperatura"
+     },
+     {
+      "title": "Padrões de calibração dos instrumentos"
+     },
+     {
+      "title": "Pressão e vácuo"
+     },
+     {
+      "title": "Termômetros"
+     },
+     {
+      "title": "Pirometria"
+     },
+     {
+      "title": "Instrumentação de nível para sólidos e fluídos"
+     },
+     {
+      "title": "Instrumentação e medição de vazões"
+     },
+     {
+      "title": "Instrumentação industrial analítica"
+     }
+    ]
+   },
+   {
+    "title": "Redes de Computadores e Sistemas distribuídos: Topologias de redes de computadores"
+   },
+   {
+    "title": "Arquitetura e protocolos de redes de comunicação"
+   },
+   {
+    "title": "Tecnologias de redes locais Ethernet/Fast Ethernet/Gigabit Ethernet"
+   },
+   {
+    "title": "Elementos de interconexão de redes de computadores (gateways, hubs, repetidores, bridges, switches, roteadores)"
+   },
+   {
+    "title": "Protocolos de comunicação em redes industriais"
+   },
+   {
+    "title": "Gerenciamento de redes industriais; Conceitos de virtualização: Hiper-V, VMware e Zen"
+   },
+   {
+    "title": "Soluções de Armazenamento RAID, SAN e NAS"
+   },
+   {
+    "title": "Contingência e continuidade de operação"
+   },
+   {
+    "title": "Conceitos de Segurança de redes"
+   },
+   {
+    "title": "Instalação de cabeamento e painéis de PLC"
+   },
+   {
+    "title": "Manutenção preventiva e corretiva em equipamentos industriais automatizados"
+   },
+   {
+    "title": "Qualidade"
+   },
+   {
+    "title": "Saúde"
+   },
+   {
+    "title": "Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Princípios de Validação de Sistemas Informatizados"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 5,
+  "title": "Controle de Qualidade",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": true,
+  "children": [
+   {
+    "title": "Fundamentos",
+    "children": [
+     {
+      "title": "Identificação dos diversos equipamentos de um laboratório"
+     },
+     {
+      "title": "Sua utilização e conservação: balanças"
+     },
+     {
+      "title": "Estufas"
+     },
+     {
+      "title": "Microscópio"
+     },
+     {
+      "title": "Vidraria"
+     }
+    ]
+   },
+   {
+    "title": "Identificação dos métodos mais utilizados na esterilização e desinfecção em laboratório: autoclavação, esterilização em estufa, soluções desinfetantes"
+   },
+   {
+    "title": "Preparação de meios de cultura, soluções, reagentes e corantes"
+   },
+   {
+    "title": "Manuseio e esterilização de material contaminado"
+   },
+   {
+    "title": "Sistema métrico decimal: medidas de massa e volume"
+   },
+   {
+    "title": "Obtenção e controle de água purificada para laboratório"
+   },
+   {
+    "title": "Controle de qualidade físico–químico",
+    "children": [
+     {
+      "title": "Pesagem"
+     },
+     {
+      "title": "Medição de pH"
+     },
+     {
+      "title": "Preparo de soluções"
+     }
+    ]
+   },
+   {
+    "title": "Controle de qualidade microbiológico: técnicas de semeadura, cultivo e identificação de microrganismos"
+   },
+   {
+    "title": "Legislação sanitária e profissional"
+   },
+   {
+    "title": "Conduta ética dos profissionais da área de saúde"
+   },
+   {
+    "title": "Princípios gerais de segurança no trabalho"
+   },
+   {
+    "title": "Prevenção e causas dos acidentes do trabalho"
+   },
+   {
+    "title": "Princípios de ergonomia no trabalho"
+   },
+   {
+    "title": "Códigos e símbolos específicos de Saúde e Segurança no Trabalho"
+   }
+  ]
+ },
+ {
+  "code": 6,
+  "title": "Elétrica",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Eletricidade básica"
+   },
+   {
+    "title": "Eletrônica básica"
+   },
+   {
+    "title": "Geração, transmissão e distribuição de energia elétrica"
+   },
+   {
+    "title": "Sistemas elétricos e eletrônicos de redes de distribuições"
+   },
+   {
+    "title": "Eficiência energética dos equipamentos e instalações"
+   },
+   {
+    "title": "Qualidade, Saúde, Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Leitura e Interpretação de Desenho Técnico"
+   },
+   {
+    "title": "Gestão da Manutenção",
+    "children": [
+     {
+      "title": "Instalações e Manutenções Preventiva e Corretiva elétricas industrial"
+     },
+     {
+      "title": "De sistemas elétricos"
+     },
+     {
+      "title": "Eletrônicos de redes de distribuições"
+     }
+    ]
+   },
+   {
+    "title": "Sistemas Elétricos Industriais",
+    "children": [
+     {
+      "title": "Eletropneumática e Eletrohidráulica"
+     },
+     {
+      "title": "Instalações Elétricas Industriais"
+     }
+    ]
+   },
+   {
+    "title": "Sistemas Elétricos de Potência: Instalações de Sistema Elétrico de Potência - SEP"
+   },
+   {
+    "title": "Manutenções e Operações de Sistema Elétrico de Potência - SEP"
+   },
+   {
+    "title": "Instrumentos e equipamentos de trabalho da área"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 7,
+  "title": "Fracionamento do Plasma",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Soluções Químicas",
+    "children": [
+     {
+      "title": "Concentração em massa x volume"
+     },
+     {
+      "title": "Titulação"
+     },
+     {
+      "title": "Molaridade"
+     },
+     {
+      "title": "Normalidade"
+     },
+     {
+      "title": "Titulometria"
+     }
+    ]
+   },
+   {
+    "title": "Reações químicas, estequiometria"
+   },
+   {
+    "title": "Cinética química"
+   },
+   {
+    "title": "Funções químicas"
+   },
+   {
+    "title": "Conhecimentos de Bioquímica: Aminoácidos, peptídeos, proteínas, carboidratos, lipídios"
+   },
+   {
+    "title": "Classificação e princípios de funcionamento de medidores de temperatura, pressão, vazão, nível, pH, condutividade, concentração"
+   },
+   {
+    "title": "Princípios básicos automação utilização controladores lógicos programáveis - CLP"
+   },
+   {
+    "title": "Variável manipulada e variável controlada"
+   },
+   {
+    "title": "Simbologia de instrumentos e equipamentos"
+   },
+   {
+    "title": "Princípios teóricos de destilação simples"
+   },
+   {
+    "title": "Destilação fracionada"
+   },
+   {
+    "title": "Extração por refluxo"
+   },
+   {
+    "title": "Extração líquido-líquido"
+   },
+   {
+    "title": "Recristalização"
+   },
+   {
+    "title": "Evaporação"
+   },
+   {
+    "title": "Filtração e sublimação"
+   },
+   {
+    "title": "Princípios teóricos e técnicas para a realização de análises por cromatografia gasosa e líquida"
+   },
+   {
+    "title": "Técnicas de determinação da precisão de um conjunto de dados"
+   },
+   {
+    "title": "Construção de curvas para análises espectroscópicas"
+   },
+   {
+    "title": "Plano de amostragem"
+   },
+   {
+    "title": "Cabines de amostragem"
+   },
+   {
+    "title": "Pesagem de substâncias com precisão de três e quatro casas decimais"
+   },
+   {
+    "title": "Limpeza e Desinfecção de equipamentos e materiais"
+   },
+   {
+    "title": "Esterilização por calor úmido"
+   },
+   {
+    "title": "Monitoramento da Qualidade da Água Purificada e efluente"
+   },
+   {
+    "title": "Manipulação em ambiente asséptico"
+   },
+   {
+    "title": "Riscos químicos, Classificação CTNBio Classificação de resíduos"
+   },
+   {
+    "title": "Tratamento e disposição final de efluentes de resíduos"
+   },
+   {
+    "title": "Formas de tratamentos de efluentes de processos"
+   },
+   {
+    "title": "Tipos de tratamento e descarte de resíduos gerados em indústrias farmoquímicas"
+   },
+   {
+    "title": "Métodos de produção: Produção por lote/batelada"
+   },
+   {
+    "title": "Controle Estatístico de Processo"
+   },
+   {
+    "title": "Utilização da documentação de qualidade: Procedimentos Operacional Padrão"
+   },
+   {
+    "title": "Registro de Processos"
+   },
+   {
+    "title": "Conhecimentos de biossegurança, utilização de EPI Planejamento de manutenção"
+   },
+   {
+    "title": "Propriedades e aplicações de lubrificantes"
+   },
+   {
+    "title": "Programa de manutenção"
+   },
+   {
+    "title": "Arquivo de equipamentos"
+   },
+   {
+    "title": "Listagem e codificação de equipamentos"
+   },
+   {
+    "title": "Fichas de paredes de equipamentos"
+   },
+   {
+    "title": "Danos e falhas nas máquinas; Erros de fabricação"
+   },
+   {
+    "title": "Instalações impróprias, manutenções impróprias, operações impróprias"
+   },
+   {
+    "title": "Lubrificação: conceito e norma"
+   },
+   {
+    "title": "Propriedades de lubrificantes e suas aplicações: Óleos e graxas"
+   },
+   {
+    "title": "Aditivos"
+   },
+   {
+    "title": "Propriedades toxicológicas dos materiais manuseados"
+   },
+   {
+    "title": "Normas de Segurança relativas a um almoxarifado de produtos químico; Classificar as formas de transmissão de calor"
+   },
+   {
+    "title": "Transmissão de calor por condução, convenção, radiação"
+   },
+   {
+    "title": "Classificar e dimensionar permutadores de calor"
+   },
+   {
+    "title": "Classificar e descrever o funcionamento dos condensadores"
+   },
+   {
+    "title": "Classificar e descrever funcionamento de torres e tanques de resfriamento de água"
+   },
+   {
+    "title": "Classificar e descrever a operação dos geradores de vapor e seus principais acessórios"
+   },
+   {
+    "title": "Conhecimentos de Boas Práticas de Fabricação aplicadas à produção de medicamentos"
+   },
+   {
+    "title": "Biossegurança"
+   },
+   {
+    "title": "Saneantes: tipos e manejo"
+   },
+   {
+    "title": "O sangue e seus componentes"
+   },
+   {
+    "title": "Calibrações",
+    "children": [
+     {
+      "title": "Exatidão"
+     },
+     {
+      "title": "Precisão"
+     },
+     {
+      "title": "Sensibilidade"
+     },
+     {
+      "title": "Especificidade"
+     },
+     {
+      "title": "Conceitos e aplicações"
+     }
+    ]
+   },
+   {
+    "title": "A célula: organização celular e conhecimentos de biologia molecular"
+   }
+  ]
+ },
+ {
+  "code": 8,
+  "title": "Logística",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Administração Pública: Lei 13.303/2016"
+   },
+   {
+    "title": "Logística: Gestão e Planejamento de Estoques"
+   },
+   {
+    "title": "Sistema de Gerenciamento de Armazéns (WMS): Gerenciamento de estoques, picking, consolidação de cargas e cross-docking, Plano de gerenciamento de resíduos"
+   },
+   {
+    "title": "Segurança de materiais"
+   },
+   {
+    "title": "Rastreabilidade de transporte e no armazenamento de produtos"
+   },
+   {
+    "title": "Classificação e codificação de materiais"
+   },
+   {
+    "title": "Inventário"
+   },
+   {
+    "title": "Boas Práticas de Armazenamento, Transporte e Distribuição de insumos químicos ou farmoquímicos e medicamentos"
+   },
+   {
+    "title": "Boas Práticas de Fabricação"
+   },
+   {
+    "title": "Auditorias e inspeções: medição, análise e ações para melhoria"
+   },
+   {
+    "title": "Inglês técnico"
+   },
+   {
+    "title": "Noções de saúde pública"
+   }
+  ]
+ },
+ {
+  "code": 9,
+  "title": "Mecânica",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Instrumentos de medição mecânicos"
+   },
+   {
+    "title": "Ajustagem e calibração de instrumentos e máquinas"
+   },
+   {
+    "title": "Desenho técnico mecânico"
+   },
+   {
+    "title": "Materiais de construção mecânica (metálicos e não metálicos)"
+   },
+   {
+    "title": "Elementos de máquinas"
+   },
+   {
+    "title": "Ensaios mecânico e metalúrgico"
+   },
+   {
+    "title": "Conhecimentos de soldagem mecânica"
+   },
+   {
+    "title": "Sistemas hidráulicos e pneumáticos"
+   },
+   {
+    "title": "Lubrificação"
+   },
+   {
+    "title": "Noções básicas de bombas industriais, turbinas a vapor e compressores"
+   },
+   {
+    "title": "Alinhamento e balanceamento de máquinas"
+   },
+   {
+    "title": "Princípios de funcionamento mecânico em linhas de envase (lavadoras, túnel, envasadora e recravadora) e de embalagem"
+   },
+   {
+    "title": "Conhecimentos de Qualidade"
+   },
+   {
+    "title": "Saúde"
+   },
+   {
+    "title": "Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Gestão da Manutenção: Instalações e Manutenções Preventiva e Corretiva em equipamentos mecânico industriais"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 10,
+  "title": "Refrigeração",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Cargas Térmicas de Climatização",
+    "children": [
+     {
+      "title": "Coeficientes de Transmissão de Calor"
+     },
+     {
+      "title": "Superfícies opacas"
+     },
+     {
+      "title": "Coeficientes de convecção"
+     },
+     {
+      "title": "Resistências internas de condução"
+     },
+     {
+      "title": "Superfícies translúcidas"
+     },
+     {
+      "title": "Carga de Resfriamento de Ar Condicionado"
+     },
+     {
+      "title": "Calores Externos"
+     },
+     {
+      "title": "Forros Ensolarados"
+     },
+     {
+      "title": "Paredes Externas"
+     },
+     {
+      "title": "Janelas, Insolação e Condução"
+     },
+     {
+      "title": "Ar de Renovação"
+     },
+     {
+      "title": "Superfícies Internas"
+     },
+     {
+      "title": "Calores Internos"
+     },
+     {
+      "title": "Pessoas"
+     },
+     {
+      "title": "Lâmpadas"
+     },
+     {
+      "title": "Equipamentos"
+     },
+     {
+      "title": "Moto-ventilador"
+     },
+     {
+      "title": "Carga Total"
+     },
+     {
+      "title": "Programas Computacionais para Cálculo de Cargas Térmicas"
+     }
+    ]
+   },
+   {
+    "title": "Ciclos de Refrigeração",
+    "children": [
+     {
+      "title": "Ciclo de Refrigeração"
+     },
+     {
+      "title": "Ciclo de Refrigeração Real por Compressão de Vapor"
+     },
+     {
+      "title": "Tipos de Ar Condicionado"
+     }
+    ]
+   },
+   {
+    "title": "Difusão de Ar",
+    "children": [
+     {
+      "title": "Princípio da Difusão de Ar"
+     },
+     {
+      "title": "Difusores"
+     },
+     {
+      "title": "Tipos de Difusores"
+     },
+     {
+      "title": "Difusores Comerciais"
+     },
+     {
+      "title": "Interligação dos Difusores"
+     }
+    ]
+   },
+   {
+    "title": "Dutos de Distribuição de Ar",
+    "children": [
+     {
+      "title": "Pressões Existentes"
+     },
+     {
+      "title": "Fricção"
+     },
+     {
+      "title": "Duto com Difusores"
+     },
+     {
+      "title": "Fricção Constante"
+     },
+     {
+      "title": "Definição das Dimensões"
+     },
+     {
+      "title": "Isolamento Espessura das Chapas"
+     },
+     {
+      "title": "Estimativas"
+     }
+    ]
+   },
+   {
+    "title": "Riscos dos sistemas de refrigeração gestão segura de sistema de refrigeração instalações: Chillers com Trocadores a Placas aplicações em Refrigeração Industrial"
+   },
+   {
+    "title": "Operação e Manutenção: Óleo em Instalações"
+   },
+   {
+    "title": "Ar em Instalações"
+   },
+   {
+    "title": "Água em Instalações"
+   },
+   {
+    "title": "Equipamentos e materiais",
+    "children": [
+     {
+      "title": "Equipamentos (Compressores, Condensadores, Evaporadores)"
+     },
+     {
+      "title": "Procedimentos de Operação, Manutenção e Testes na Instalação"
+     }
+    ]
+   },
+   {
+    "title": "Gestão da Manutenção: Instalações e Manutenções Preventiva e Corretiva de refrigeração industrial"
+   },
+   {
+    "title": "Medidas de proteção"
+   },
+   {
+    "title": "Normas de referência da área"
+   },
+   {
+    "title": "Leitura e Interpretação de Desenho Técnico, Qualidade, Saúde, Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 11,
+  "title": "Segurança do Trabalho",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Normas Regulamentadoras (atualizadas) da Portaria MTE nº 3.214/1978"
+   },
+   {
+    "title": "Acidente de Trabalho: conceito técnico e legal"
+   },
+   {
+    "title": "Dos princípios de prevenção e controle de riscos em máquinas, equipamentos e instalações"
+   },
+   {
+    "title": "Dos elementos da Higiene Ocupacional, Riscos ambientais",
+    "children": [
+     {
+      "title": "Físico"
+     },
+     {
+      "title": "Químico"
+     },
+     {
+      "title": "Biológico"
+     },
+     {
+      "title": "Ergonômico"
+     }
+    ]
+   },
+   {
+    "title": "Da investigação e da análise de acidentes"
+   },
+   {
+    "title": "Da estatística de acidentes (Taxa de Frequência e Taxa de Gravidade)"
+   },
+   {
+    "title": "Equipamento de Proteção Individual e Coletivo - EPIs/EPC - (seleção, avaliação)"
+   },
+   {
+    "title": "Atividades e Operações Insalubres/periculosa"
+   },
+   {
+    "title": "Proteção contra incêndio (indicação, solicitação e inspeção dos extintores de incêndio) e explosão"
+   },
+   {
+    "title": "Condições sanitárias e de conforto nos locais de trabalho"
+   },
+   {
+    "title": "Sinalização de Segurança"
+   },
+   {
+    "title": "Do Programa de Prevenção a Riscos Ambientais - PPRA"
+   },
+   {
+    "title": "Do Laudo Técnico de Condições Ambientais do Trabalho - LTCAT Noções básicas de biossegurança: conceito, objetivos"
+   },
+   {
+    "title": "Das técnicas de análise de risco"
+   },
+   {
+    "title": "Do PCMSO - Programa de Controle Médico de Saúde Ocupacional"
+   },
+   {
+    "title": "Do Suporte básico a vida"
+   },
+   {
+    "title": "Das atribuições do SESMT - Serviço Especializado e Segurança e Medicina do Trabalho e da CIPA - Comissão Interna de Prevenção de Acidentes"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 12,
+  "title": "Tecnologia da Informação e Operação",
+  "cargo": "Técnico Industrial e de Gestão Corporativa",
+  "nivel": "tecnico",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Princípios básicos de controladores lógicos programáveis - CLP, Variável manipulada e variável controlada"
+   },
+   {
+    "title": "Simbologia de instrumentos e equipamentos"
+   },
+   {
+    "title": "Instrumentos de medição"
+   },
+   {
+    "title": "Microprocessadores e micro controladores"
+   },
+   {
+    "title": "Eletrônica industrial, eletrônica analógica e digital"
+   },
+   {
+    "title": "Dispositivos semicondutores"
+   },
+   {
+    "title": "Microeletrônica, instrumentação eletrônica e processamento de sinais"
+   },
+   {
+    "title": "Automação e controle automático de processos de comunicação de dados"
+   },
+   {
+    "title": "Normas de segurança do trabalho e proteções na área de instalações elétricas"
+   },
+   {
+    "title": "Automação industrial",
+    "children": [
+     {
+      "title": "Instrumentação industrial"
+     },
+     {
+      "title": "Experimentos de instrumentação industrial"
+     },
+     {
+      "title": "Sensor de deformação"
+     },
+     {
+      "title": "Medição de temperatura"
+     },
+     {
+      "title": "Padrões de calibração dos instrumentos"
+     },
+     {
+      "title": "Pressão e vácuo"
+     },
+     {
+      "title": "Termômetros"
+     },
+     {
+      "title": "Pirometria"
+     },
+     {
+      "title": "Instrumentação de nível para sólidos e fluídos"
+     },
+     {
+      "title": "Instrumentação e medição de vazões"
+     },
+     {
+      "title": "Instrumentação industrial analítica"
+     }
+    ]
+   },
+   {
+    "title": "Fundamentos de computação"
+   },
+   {
+    "title": "Organização e arquitetura de computadores"
+   },
+   {
+    "title": "Componentes de um computador (hardware e software)"
+   },
+   {
+    "title": "Sistemas de entrada, saída e armazenamento"
+   },
+   {
+    "title": "Aplicações de informática e microinformática"
+   },
+   {
+    "title": "Ambiente Windows e Linux"
+   },
+   {
+    "title": "Conceitos de Bancos de Dados"
+   },
+   {
+    "title": "Banco de Dados textuais"
+   },
+   {
+    "title": "Linguagens de programação"
+   },
+   {
+    "title": "Tipos de dados elementares e estruturados"
+   },
+   {
+    "title": "Funções e procedimentos"
+   },
+   {
+    "title": "Estruturas de controle de fluxo"
+   },
+   {
+    "title": "Caracterização das linguagens de programação Java, PHP, DotNet e Delphi"
+   },
+   {
+    "title": "Ambientes de desenvolvimento visual (Delphi, DotNet, PHP e Java)"
+   },
+   {
+    "title": "Linguagens de programação orientada a objetos (Delphi, DotNet, PHP e Java)"
+   },
+   {
+    "title": "Programação PHP (ambiente Joomla)"
+   },
+   {
+    "title": "Portais corporativos",
+    "children": [
+     {
+      "title": "Conceitos básicos e aplicações"
+     },
+     {
+      "title": "Portlets"
+     },
+     {
+      "title": "RSS"
+     }
+    ]
+   },
+   {
+    "title": "Redes de computadores"
+   },
+   {
+    "title": "Fundamentos de comunicação de dados"
+   },
+   {
+    "title": "Meios físicos de transmissão"
+   },
+   {
+    "title": "Redes de Computadores e Sistemas distribuídos: Topologias de redes de computadores"
+   },
+   {
+    "title": "Arquitetura e protocolos de redes de comunicação"
+   },
+   {
+    "title": "Tecnologias de redes locais Ethernet/Fast Ethernet/Gigabit Ethernet"
+   },
+   {
+    "title": "Elementos de interconexão de redes de computadores (gateways, hubs, repetidores, bridges, switches, roteadores)"
+   },
+   {
+    "title": "Estações e servidores"
+   },
+   {
+    "title": "Tecnologias de redes locais e de longa distância"
+   },
+   {
+    "title": "Arquitetura, protocolos e serviços de redes industriais"
+   },
+   {
+    "title": "Gerenciamento de redes industriais; Conceitos de virtualização: Hiper-V, VMware e Zen"
+   },
+   {
+    "title": "Soluções de Armazenamento RAID, SAN e NAS"
+   },
+   {
+    "title": "Contingência e continuidade de operação"
+   },
+   {
+    "title": "Conceitos de Segurança de redes"
+   },
+   {
+    "title": "Instalação de cabeamento e painéis de PLC"
+   },
+   {
+    "title": "Manutenção preventiva e corretiva em equipamentos industriais automatizados"
+   },
+   {
+    "title": "Qualidade"
+   },
+   {
+    "title": "Saúde"
+   },
+   {
+    "title": "Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Princípios de Validação de Sistemas Informatizados"
+   },
+   {
+    "title": "Arquitetura TCP/IP"
+   },
+   {
+    "title": "Arquitetura cliente-servidor"
+   },
+   {
+    "title": "Conceitos de Internet e Intranet, conhecimento básico em IoT (internet das coisas)"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 13,
+  "title": "Administração de Pessoal",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conhecimento de Direito Constitucional",
+    "children": [
+     {
+      "title": "Direitos e garantias fundamentais, direitos e deveres individuais e coletivos, direito social, da administração pública, dos servidores públicos civis"
+     },
+     {
+      "title": "Da seguridade social"
+     }
+    ]
+   },
+   {
+    "title": "Conhecimento de Direito Administrativo",
+    "children": [
+     {
+      "title": "Organização administrativa brasileira"
+     },
+     {
+      "title": "Princípios fundamentais"
+     },
+     {
+      "title": "Administração direta, administração indireta e fundacional"
+     },
+     {
+      "title": "Atos administrativos"
+     },
+     {
+      "title": "Contratos administrativos"
+     },
+     {
+      "title": "Processo de licitação"
+     },
+     {
+      "title": "Concessão de serviços públicos"
+     },
+     {
+      "title": "Autorização e permissão"
+     },
+     {
+      "title": "Poderes administrativos: vinculado, discricionário, regulamentar, disciplinar e de polícia"
+     },
+     {
+      "title": "Regime dos servidores públicos federais, admissão, concurso público, estágio probatório, remuneração, licença, aposentadoria"
+     },
+     {
+      "title": "Processo disciplinar"
+     },
+     {
+      "title": "Acumulação de cargos públicos"
+     }
+    ]
+   },
+   {
+    "title": "Conhecimento de Direito do Trabalho",
+    "children": [
+     {
+      "title": "Conceito de empregado e empregador"
+     },
+     {
+      "title": "Contrato individual de trabalho por prazo determinado e indeterminado"
+     },
+     {
+      "title": "Interrupção"
+     },
+     {
+      "title": "Suspensão e extinção de contrato de trabalho"
+     },
+     {
+      "title": "Contrato de trabalho interminente"
+     },
+     {
+      "title": "Teletrabalho x homeoffice"
+     },
+     {
+      "title": "Alterações no contrato de trabalho"
+     },
+     {
+      "title": "Transferência de empregados"
+     },
+     {
+      "title": "Trabalho em condições insalubres"
+     },
+     {
+      "title": "Periculosas"
+     },
+     {
+      "title": "Trabalho noturno"
+     },
+     {
+      "title": "Jornada de trabalho"
+     },
+     {
+      "title": "Acordos e convenções coletivas de trabalho"
+     },
+     {
+      "title": "Férias"
+     },
+     {
+      "title": "Licença paternidade e maternidade"
+     },
+     {
+      "title": "Proteção do trabalho da mulher e do menor"
+     },
+     {
+      "title": "Repouso semanal remunerado"
+     },
+     {
+      "title": "O trabalho temporário"
+     },
+     {
+      "title": "Seguro desemprego"
+     },
+     {
+      "title": "13.º salário"
+     },
+     {
+      "title": "Gestão de planos de cargos e salários"
+     },
+     {
+      "title": "Benefícios previdenciários de empregados"
+     },
+     {
+      "title": "Normas e procedimentos para o tratamento do absenteísmo"
+     },
+     {
+      "title": "Procedimentos para cumprimento das seguintes exigências legais: INSS"
+     },
+     {
+      "title": "FGTS"
+     },
+     {
+      "title": "Férias"
+     },
+     {
+      "title": "13° Salário"
+     },
+     {
+      "title": "PIS/PASEP"
+     },
+     {
+      "title": "RAIS"
+     },
+     {
+      "title": "CAGED"
+     },
+     {
+      "title": "DIRF e GFIP"
+     },
+     {
+      "title": "E-Social"
+     },
+     {
+      "title": "Conectividade Social"
+     },
+     {
+      "title": "Seguro Desemprego"
+     },
+     {
+      "title": "Procedimentos para elaboração da folha de pagamentos"
+     },
+     {
+      "title": "Procedimentos para rescisão de contrato de trabalho e para contratação de novos empregados"
+     },
+     {
+      "title": "Jovens aprendizes e estagiários"
+     },
+     {
+      "title": "Normas e procedimentos para admissão"
+     },
+     {
+      "title": "Registro e dispensa de empregados e jovens aprendizes"
+     },
+     {
+      "title": "Cálculos necessários para a rescisão de contratos de trabalho"
+     },
+     {
+      "title": "Obrigações do empregador em relação aos livros de registro de empregados e à carteira de trabalho e previdência social"
+     },
+     {
+      "title": "Normas e procedimentos para a contratação de estagiários"
+     },
+     {
+      "title": "Normas e procedimentos para registro eletrônico de ponto"
+     },
+     {
+      "title": "Orçamento de pessoal"
+     },
+     {
+      "title": "Consolidações das Leis do Trabalho",
+      "children": [
+       {
+        "title": "Das Normas Gerais de Tutela do Trabalho"
+       },
+       {
+        "title": "Das Normas Especiais de Tutela do Trabalho (Capítulo III e IV)"
+       },
+       {
+        "title": "Do Contrato Individual do Trabalho"
+       },
+       {
+        "title": "Da organização sindical"
+       },
+       {
+        "title": "Das Convenções Coletivas de Trabalho"
+       }
+      ]
+     },
+     {
+      "title": "Reforma Trabalhista de 2017 - Lei nº 13.467"
+     },
+     {
+      "title": "De 13 De Julho De 2017"
+     },
+     {
+      "title": "Lei nº 8.112"
+     },
+     {
+      "title": "De 11 de dezembro de 1990 - Dispõe sobre o regime jurídico dos servidores públicos civis da União"
+     },
+     {
+      "title": "Das autarquias e das fundações públicas federais"
+     }
+    ]
+   },
+   {
+    "title": "Legislação Previdenciária",
+    "children": [
+     {
+      "title": "Regime Geral de Previdência Social"
+     },
+     {
+      "title": "Segurados obrigatórios"
+     },
+     {
+      "title": "Filiação e inscrição"
+     },
+     {
+      "title": "Conceito, características e abrangência: empregado, empregado doméstico, empresário, contribuinte individual, trabalhador avulso, segurado especial"
+     },
+     {
+      "title": "Trabalhadores excluídos do Regime Geral"
+     },
+     {
+      "title": "Segurados do RGPS e RPPS"
+     },
+     {
+      "title": "Contribuição previdenciária dos segurados empregados"
+     },
+     {
+      "title": "Contribuição previdenciária patronal, Lei nº 13.303/2016, Lei nº 14.133/2021, Lei nº 13.709/2018"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 14,
+  "title": "Analista de Contrato",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conhecimento de Gestão e Fiscalização de contratos administrativos"
+   },
+   {
+    "title": "Licitações e contratos administrativos"
+   },
+   {
+    "title": "Contratos administrativos: Natureza e características dos contratos administrativos e as prerrogativas da Administração Pública"
+   },
+   {
+    "title": "Vigência, eficácia e prorrogação dos contratos: premissas legais"
+   },
+   {
+    "title": "Objeto e duração dos contratos",
+    "children": [
+     {
+      "title": "Execução"
+     },
+     {
+      "title": "Prorrogação"
+     },
+     {
+      "title": "Repactuação/Reajuste/Reequilíbrio"
+     },
+     {
+      "title": "Inexecução e Rescisão dos Contratos"
+     }
+    ]
+   },
+   {
+    "title": "Equilíbrio econômico-financeiro"
+   },
+   {
+    "title": "Garantia contratual"
+   },
+   {
+    "title": "Alteração do objeto"
+   },
+   {
+    "title": "Prorrogação do prazo de vigência e de execução"
+   },
+   {
+    "title": "Contratos nacionais e internacionais",
+    "children": [
+     {
+      "title": "Objetivos do contrato"
+     },
+     {
+      "title": "Requisitos"
+     },
+     {
+      "title": "Prazos de duração e cláusulas de renovação/prorrogação"
+     },
+     {
+      "title": "Cláusulas de pagamento: valores e datas"
+     },
+     {
+      "title": "Cláusulas de reajuste"
+     },
+     {
+      "title": "Cláusulas de multas e penalidades"
+     },
+     {
+      "title": "Itens de risco"
+     }
+    ]
+   },
+   {
+    "title": "Elaboração de Termo de Referência/Projeto Básico para aquisição de Bens e Serviços e obras e serviços de engenharia"
+   },
+   {
+    "title": "Terceirização de Serviços na administração pública"
+   },
+   {
+    "title": "Aspectos orçamentários e financeiros da execução do contrato"
+   },
+   {
+    "title": "Responsabilização do contratado e da Administração Pública na execução do contrato administrativo"
+   },
+   {
+    "title": "Sanções Administrativas, Crimes e Penas"
+   },
+   {
+    "title": "Conhecimento de Direito Constitucional, Direito Administrativo e de Direito Civil aplicados a contratos"
+   },
+   {
+    "title": "Requisitos, Prazos, Condições de pagamento"
+   },
+   {
+    "title": "Vigência e eficácia"
+   },
+   {
+    "title": "Conhecimento de Direito Administrativo: Conceito de Administração Pública"
+   },
+   {
+    "title": "Princípios básicos"
+   },
+   {
+    "title": "Diferenças entre Governo e Administração"
+   },
+   {
+    "title": "Administração Direta e Indireta; Administração Pública Indireta: autarquias, fundações públicas, sociedades de economia mista e empresas públicas"
+   },
+   {
+    "title": "Concessionárias e permissionárias"
+   },
+   {
+    "title": "Agências Executivas e Reguladoras"
+   },
+   {
+    "title": "Parcerias (PPP)"
+   },
+   {
+    "title": "Supremacia do Interesse Público"
+   },
+   {
+    "title": "Princípios Básicos da Administração Pública"
+   },
+   {
+    "title": "Legalidade, impessoalidade, moralidade, publicidade e eficiência"
+   },
+   {
+    "title": "Aplicação dos princípios constitucionais e dos demais princípios norteadores da Administração Pública"
+   },
+   {
+    "title": "Atos Administrativos",
+    "children": [
+     {
+      "title": "Conceito, requisitos, atributos, discricionariedade e vinculação"
+     },
+     {
+      "title": "Classificação"
+     },
+     {
+      "title": "Espécies, motivação, anulação, revogação, extinção, convalidação"
+     }
+    ]
+   },
+   {
+    "title": "Poderes administrativos",
+    "children": [
+     {
+      "title": "Poder hierárquico"
+     },
+     {
+      "title": "Poder disciplinar"
+     },
+     {
+      "title": "Poder regulamentar"
+     },
+     {
+      "title": "Poder de polícia"
+     }
+    ]
+   },
+   {
+    "title": "Agentes públicos"
+   },
+   {
+    "title": "Regime jurídico-constitucional, art. 37 a 41 da Constituição Federal"
+   },
+   {
+    "title": "Processo administrativo",
+    "children": [
+     {
+      "title": "Conceito"
+     },
+     {
+      "title": "Requisitos"
+     },
+     {
+      "title": "Objetivos"
+     },
+     {
+      "title": "Fases"
+     },
+     {
+      "title": "Espécies"
+     },
+     {
+      "title": "Princípios do processo administrativo"
+     }
+    ]
+   },
+   {
+    "title": "Licitação e contratos administrativos"
+   },
+   {
+    "title": "Improbidade Administrativa"
+   },
+   {
+    "title": "Lei Federal n.º 8.429/1992 das sanções aplicáveis a agentes públicos"
+   },
+   {
+    "title": "Lei Federal 13.303/2016, Decreto 8.945/2016, Regulamento de Licitações e Contratos da Hemobrás (disponível em www.hemobras.gov.br)"
+   },
+   {
+    "title": "Decreto 9.507/18"
+   },
+   {
+    "title": "Instrução Normativa MPDG/SEGES nº 05/2017"
+   },
+   {
+    "title": "Lei Complementar nº 123/2006"
+   },
+   {
+    "title": "Lei de Responsabilidade Fiscal: seus princípios, e sua observância nos procedimentos de compras"
+   },
+   {
+    "title": "Processo administrativo (Lei nº 9.784/1999): das disposições gerais; dos direitos e deveres dos administrados"
+   },
+   {
+    "title": "Lei nº 12.846/2013 (Lei Anticorrupção)"
+   },
+   {
+    "title": "Lei nº 8.429/1992 (Lei de Improbidade Administrativa): das disposições gerais; dos atos de improbidade administrativa"
+   },
+   {
+    "title": "Lei nº 11.079/2004 (Lei das Parcerias Público Privadas)"
+   },
+   {
+    "title": "Jurisprudências relacionadas a contratos da Administração Pública, exaradas pelos Órgãos de Controle (TCU e CGU) e do STJ e STF"
+   }
+  ]
+ },
+ {
+  "code": 15,
+  "title": "Analista Jurídico",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Direito Constitucional",
+    "children": [
+     {
+      "title": "Constituição",
+      "children": [
+       {
+        "title": "Conceito"
+       },
+       {
+        "title": "Origens"
+       },
+       {
+        "title": "Conteúdo"
+       },
+       {
+        "title": "Estrutura e classificação"
+       }
+      ]
+     },
+     {
+      "title": "Evolução Constitucional do Brasil"
+     },
+     {
+      "title": "Supremacia da Constituição"
+     },
+     {
+      "title": "Poder constituinte"
+     },
+     {
+      "title": "Interpretação e aplicabilidade das normas constitucionais"
+     },
+     {
+      "title": "Princípios constitucionais"
+     },
+     {
+      "title": "Controle da constitucionalidade das leis"
+     },
+     {
+      "title": "Normas constitucionais e inconstitucionais"
+     },
+     {
+      "title": "Emenda, reforma e revisão constitucional"
+     },
+     {
+      "title": "Ação direta de declaração de inconstitucionalidade"
+     },
+     {
+      "title": "Ação direta de constitucionalidade"
+     },
+     {
+      "title": "Arguição de descumprimento de preceito fundamental"
+     },
+     {
+      "title": "Origem, evolução e estado atual"
+     },
+     {
+      "title": "Direitos e garantias fundamentais"
+     },
+     {
+      "title": "Direitos e deveres individuais difusos e coletivos"
+     },
+     {
+      "title": "Direitos sociais"
+     },
+     {
+      "title": "Organização do Estado Brasileiro"
+     },
+     {
+      "title": "Divisão espacial do poder"
+     },
+     {
+      "title": "Estado Federal"
+     },
+     {
+      "title": "União"
+     },
+     {
+      "title": "Estados Federados"
+     },
+     {
+      "title": "Distrito Federal"
+     },
+     {
+      "title": "Municípios"
+     },
+     {
+      "title": "Intervenção federal"
+     },
+     {
+      "title": "Repartição de competências"
+     },
+     {
+      "title": "Intervenção estadual"
+     },
+     {
+      "title": "Poder Legislativo"
+     },
+     {
+      "title": "Organização"
+     },
+     {
+      "title": "Funcionamento"
+     },
+     {
+      "title": "Atribuições"
+     },
+     {
+      "title": "Processo legislativo"
+     },
+     {
+      "title": "Fiscalização Contábil, Financeira e Orçamentária"
+     },
+     {
+      "title": "Tribunais de Contas"
+     },
+     {
+      "title": "Poder Executivo"
+     },
+     {
+      "title": "Presidente, Vice-Presidente da República e Ministros de Estado"
+     },
+     {
+      "title": "Atribuições e responsabilidades"
+     },
+     {
+      "title": "Poder regulamentar e medidas provisórias"
+     },
+     {
+      "title": "Poder Judiciário"
+     },
+     {
+      "title": "Garantias"
+     },
+     {
+      "title": "Jurisdição"
+     },
+     {
+      "title": "Organização"
+     },
+     {
+      "title": "Órgãos e competência"
+     },
+     {
+      "title": "Supremo Tribunal Federal"
+     },
+     {
+      "title": "Conselho Nacional de Justiça"
+     },
+     {
+      "title": "Superior Tribunal de Justiça"
+     },
+     {
+      "title": "Tribunais Regionais Federais e juízes federais; garantias da magistratura"
+     },
+     {
+      "title": "Dos Tribunais e Juízes dos Estados"
+     },
+     {
+      "title": "Funções essenciais à Justiça"
+     },
+     {
+      "title": "Ministério Público"
+     },
+     {
+      "title": "Natureza"
+     },
+     {
+      "title": "Função"
+     },
+     {
+      "title": "Autonomia"
+     },
+     {
+      "title": "Atribuições e vedações constitucionais de seus membros"
+     },
+     {
+      "title": "Conselho Nacional do Ministério Público"
+     },
+     {
+      "title": "Da Administração Pública"
+     },
+     {
+      "title": "Estruturas básicas"
+     },
+     {
+      "title": "Servidores públicos"
+     },
+     {
+      "title": "Princípios constitucionais"
+     },
+     {
+      "title": "Advocacia Geral da União"
+     },
+     {
+      "title": "Sistema Tributário Nacional"
+     },
+     {
+      "title": "Finanças públicas; normas gerais; orçamento público"
+     },
+     {
+      "title": "Ordem econômica e financeira"
+     },
+     {
+      "title": "Atividade econômica do Estado"
+     },
+     {
+      "title": "Princípios das atividades econômicas, propriedades da ordem econômica"
+     },
+     {
+      "title": "Sistema Financeiro Nacional"
+     },
+     {
+      "title": "Seguridade Social"
+     },
+     {
+      "title": "Da saúde"
+     },
+     {
+      "title": "Previdência Social"
+     },
+     {
+      "title": "Comunicação social"
+     },
+     {
+      "title": "Meio Ambiente"
+     }
+    ]
+   },
+   {
+    "title": "Direito Administrativo",
+    "children": [
+     {
+      "title": "Conceito, objeto e fontes do Direito Administrativo"
+     },
+     {
+      "title": "Princípios do Direito Administrativo brasileiro"
+     },
+     {
+      "title": "Organização da Administração Pública: Princípios da Administração Pública"
+     },
+     {
+      "title": "Atos, poderes e processos administrativos"
+     },
+     {
+      "title": "Administração direta e indireta; autarquias; fundações públicas; empresas públicas; sociedades de economia mista; entidades do terceiro setor"
+     },
+     {
+      "title": "Atos administrativos",
+      "children": [
+       {
+        "title": "Conceito, requisitos, elementos, pressupostos e classificação"
+       },
+       {
+        "title": "Atributos do ato administrativo"
+       },
+       {
+        "title": "Vinculação e discricionariedade"
+       },
+       {
+        "title": "Revogação, invalidação e convalidação"
+       }
+      ]
+     },
+     {
+      "title": "Agentes Públicos",
+      "children": [
+       {
+        "title": "Servidores públicos"
+       },
+       {
+        "title": "Organização do serviço público"
+       },
+       {
+        "title": "Normas constitucionais concernentes aos servidores públicos"
+       },
+       {
+        "title": "Direitos e deveres dos servidores públicos"
+       },
+       {
+        "title": "Responsabilidades dos servidores públicos"
+       },
+       {
+        "title": "Serviços públicos: conceito e classificação"
+       },
+       {
+        "title": "Regulamentação e controle"
+       },
+       {
+        "title": "Requisitos do serviço e direitos do usuário"
+       },
+       {
+        "title": "Competências para prestação do serviço"
+       },
+       {
+        "title": "Serviços delegados a particulares"
+       },
+       {
+        "title": "Concessões, permissões e autorizações"
+       },
+       {
+        "title": "Convênios e consórcios administrativos"
+       }
+      ]
+     },
+     {
+      "title": "Domínio público",
+      "children": [
+       {
+        "title": "Conceito e classificação dos bens públicos"
+       },
+       {
+        "title": "Administração, utilização e alienação dos bens públicos"
+       },
+       {
+        "title": "Imprescritibilidade, impenhorabilidade e não oneração dos bens públicos"
+       },
+       {
+        "title": "Aquisição de bens pela Administração"
+       }
+      ]
+     },
+     {
+      "title": "Desapropriação"
+     },
+     {
+      "title": "Processo Administrativo; normas básicas no âmbito da Administração Pública"
+     },
+     {
+      "title": "Poderes e Deveres do Administrador Público"
+     },
+     {
+      "title": "Improbidade Administrativa. (Lei Federal nº 8.429/1992)"
+     }
+    ]
+   },
+   {
+    "title": "Direito Civil",
+    "children": [
+     {
+      "title": "Lei"
+     },
+     {
+      "title": "Vigência"
+     },
+     {
+      "title": "Aplicação da lei no tempo e no espaço"
+     },
+     {
+      "title": "Integração e interpretação da lei"
+     },
+     {
+      "title": "Lei de Introdução às normas do Direito Brasileiro"
+     },
+     {
+      "title": "Pessoas naturais e jurídicas, personalidade, capacidade, direitos de personalidade"
+     },
+     {
+      "title": "Domicílio civil"
+     },
+     {
+      "title": "Bens"
+     },
+     {
+      "title": "Fatos, atos jurídicos e negócios jurídicos",
+      "children": [
+       {
+        "title": "Modalidades"
+       },
+       {
+        "title": "Forma"
+       },
+       {
+        "title": "Prova"
+       },
+       {
+        "title": "Defeitos e nulidades"
+       }
+      ]
+     },
+     {
+      "title": "Atos ilícitos; abuso de direito"
+     },
+     {
+      "title": "Prescrição e decadência"
+     },
+     {
+      "title": "Obrigações",
+      "children": [
+       {
+        "title": "Dos contratos"
+       },
+       {
+        "title": "Modalidades"
+       },
+       {
+        "title": "Transmissão"
+       },
+       {
+        "title": "Adimplemento e extinção"
+       }
+      ]
+     },
+     {
+      "title": "Posse e propriedade: conceito, aquisição e perda"
+     }
+    ]
+   },
+   {
+    "title": "Direito Processual Civil",
+    "children": [
+     {
+      "title": "Jurisdição e ação"
+     },
+     {
+      "title": "Partes e Procuradores",
+      "children": [
+       {
+        "title": "Legitimação para a causa e para o processo"
+       },
+       {
+        "title": "Deveres e substituição das partes e dos procuradores"
+       }
+      ]
+     },
+     {
+      "title": "Do Ministério Público"
+     },
+     {
+      "title": "Competência",
+      "children": [
+       {
+        "title": "Competência em razão do valor e em razão da matéria"
+       },
+       {
+        "title": "Competência funcional"
+       },
+       {
+        "title": "Competência territorial"
+       },
+       {
+        "title": "Modificações da competência e declaração de incompetência"
+       },
+       {
+        "title": "Conflitos de competência"
+       }
+      ]
+     },
+     {
+      "title": "Atos processuais",
+      "children": [
+       {
+        "title": "Conceito"
+       },
+       {
+        "title": "Classificação"
+       },
+       {
+        "title": "Forma"
+       },
+       {
+        "title": "Validade e eficácia"
+       }
+      ]
+     },
+     {
+      "title": "Prova",
+      "children": [
+       {
+        "title": "Conceito"
+       },
+       {
+        "title": "Objeto"
+       },
+       {
+        "title": "Ônus e valoração"
+       }
+      ]
+     },
+     {
+      "title": "Formação, suspensão e extinção do processo"
+     },
+     {
+      "title": "Processo e Procedimento: ordinário e sumário"
+     },
+     {
+      "title": "Coisa julgada"
+     },
+     {
+      "title": "Recursos: disposições gerais e espécies"
+     },
+     {
+      "title": "Dos processos cautelares"
+     },
+     {
+      "title": "Ação Civil Pública"
+     },
+     {
+      "title": "Dos Juizados Especiais Cíveis (Lei Federal n° 9.099/1995)"
+     }
+    ]
+   },
+   {
+    "title": "Direito Penal",
+    "children": [
+     {
+      "title": "Dos crimes contra o patrimônio (do furto/do roubo/da extorsão/do estelionato)"
+     },
+     {
+      "title": "Dos crimes contra a Administração Pública"
+     },
+     {
+      "title": "Abuso de Autoridade (Lei Federal nº 13.869/2019)"
+     },
+     {
+      "title": "Crimes Ambientais (Lei Federal nº 9.605/1998)"
+     },
+     {
+      "title": "Direito Processual Penal Princípios aplicáveis ao Processo Penal"
+     },
+     {
+      "title": "Aplicação da Lei Processual no tempo e no espaço"
+     },
+     {
+      "title": "Inquérito Policial"
+     },
+     {
+      "title": "Ação Penal"
+     },
+     {
+      "title": "Competência"
+     },
+     {
+      "title": "Sujeitos da relação processual"
+     },
+     {
+      "title": "Da prisão (prisão em flagrante e prisão preventiva) e da liberdade provisória"
+     },
+     {
+      "title": "Da prisão temporária"
+     },
+     {
+      "title": "Lei Federal n° 7.960/89"
+     },
+     {
+      "title": "Das citações e intimações"
+     },
+     {
+      "title": "Da forma, lugar e tempo dos atos processuais"
+     },
+     {
+      "title": "Da sentença"
+     },
+     {
+      "title": "Das nulidades"
+     },
+     {
+      "title": "Dos recursos (Apelação/Recurso em Sentido Estrito/Carta Testemunhável)"
+     },
+     {
+      "title": "Do procedimento relativo aos processos da competência do Tribunal do Júri (Lei Federal n° 11.689/08)"
+     },
+     {
+      "title": "Dos Juizados Especiais Criminais (Lei Federal n°9.099/1995)"
+     },
+     {
+      "title": "Da suspensão do processo, emendatio libelli, mutatio libelli e dos procedimentos (Lei Federal nº 11.719/08)"
+     }
+    ]
+   },
+   {
+    "title": "Direito do Trabalho",
+    "children": [
+     {
+      "title": "Dos princípios e fontes do Direito do Trabalho"
+     },
+     {
+      "title": "Dos direitos constitucionais dos trabalhadores (art. 7.º da CF/88)"
+     },
+     {
+      "title": "Da relação de trabalho e da relação de emprego",
+      "children": [
+       {
+        "title": "Requisitos e distinção"
+       },
+       {
+        "title": "Relações de trabalho lato sensu: trabalho autônomo, trabalho eventual, trabalho temporário e trabalho avulso"
+       }
+      ]
+     },
+     {
+      "title": "Dos sujeitos do contrato de trabalho stricto sensu",
+      "children": [
+       {
+        "title": "Do empregado e do empregador: conceito e caracterização"
+       },
+       {
+        "title": "Dos poderes do empregador no contrato de trabalho"
+       }
+      ]
+     },
+     {
+      "title": "Do grupo econômico; da sucessão de empregadores; da responsabilidade solidária"
+     },
+     {
+      "title": "Do contrato individual de trabalho: conceito, classificação e características"
+     },
+     {
+      "title": "Da alteração do contrato de trabalho",
+      "children": [
+       {
+        "title": "Alteração unilateral e bilateral"
+       },
+       {
+        "title": "O jus variandi"
+       }
+      ]
+     },
+     {
+      "title": "Da suspensão e interrupção do contrato de trabalho: caracterização e distinção"
+     },
+     {
+      "title": "Da rescisão do contrato de trabalho",
+      "children": [
+       {
+        "title": "Das justas causas"
+       },
+       {
+        "title": "Da despedida indireta"
+       },
+       {
+        "title": "Da dispensa arbitrária"
+       },
+       {
+        "title": "Da culpa recíproca"
+       },
+       {
+        "title": "Da indenização"
+       }
+      ]
+     },
+     {
+      "title": "Do aviso prévio"
+     },
+     {
+      "title": "Da estabilidade e garantias provisórias de emprego",
+      "children": [
+       {
+        "title": "Das formas de estabilidade"
+       },
+       {
+        "title": "Da despedida e da reintegração de empregado estável"
+       }
+      ]
+     },
+     {
+      "title": "Da duração do trabalho"
+     },
+     {
+      "title": "Da jornada de trabalho"
+     },
+     {
+      "title": "Dos períodos de descanso"
+     },
+     {
+      "title": "Do intervalo para repouso e alimentação"
+     },
+     {
+      "title": "Do descanso semanal remunerado"
+     },
+     {
+      "title": "Do trabalho noturno e do trabalho extraordinário"
+     },
+     {
+      "title": "Do sistema de compensação de horas"
+     },
+     {
+      "title": "Do salário-mínimo: irredutibilidade e garantia"
+     },
+     {
+      "title": "Das férias",
+      "children": [
+       {
+        "title": "Do direito a férias e da sua duração"
+       },
+       {
+        "title": "Da concessão e da época das férias"
+       },
+       {
+        "title": "Da remuneração e do abono de férias"
+       }
+      ]
+     },
+     {
+      "title": "Do salário e da remuneração",
+      "children": [
+       {
+        "title": "Conceito e distinções"
+       },
+       {
+        "title": "Composição do salário"
+       },
+       {
+        "title": "Modalidades de salário"
+       },
+       {
+        "title": "Formas e meios de pagamento do salário"
+       },
+       {
+        "title": "13º salário"
+       }
+      ]
+     },
+     {
+      "title": "Da equiparação salarial; do princípio da igualdade de salário; do desvio de função"
+     },
+     {
+      "title": "Do FGTS"
+     },
+     {
+      "title": "Da prescrição e decadência"
+     },
+     {
+      "title": "Da segurança e medicina no trabalho",
+      "children": [
+       {
+        "title": "Da CIPA"
+       },
+       {
+        "title": "Das atividades insalubres ou perigosas"
+       }
+      ]
+     },
+     {
+      "title": "Da proteção ao trabalho do menor"
+     },
+     {
+      "title": "Da proteção ao trabalho da mulher; da estabilidade da gestante; da licença-maternidade"
+     },
+     {
+      "title": "Do direito coletivo do trabalho",
+      "children": [
+       {
+        "title": "Da liberdade sindical (Convenção n.º 87 da OIT)"
+       },
+       {
+        "title": "Da organização sindical: conceito de categoria"
+       },
+       {
+        "title": "Categoria diferenciada"
+       },
+       {
+        "title": "Das convenções e acordos coletivos de trabalho"
+       }
+      ]
+     },
+     {
+      "title": "Do direito de greve; dos serviços essenciais"
+     },
+     {
+      "title": "Das comissões de Conciliação Prévia"
+     },
+     {
+      "title": "Da renúncia e transação"
+     }
+    ]
+   },
+   {
+    "title": "Direito Processual do Trabalho",
+    "children": [
+     {
+      "title": "Da Justiça do Trabalho: organização e competência"
+     },
+     {
+      "title": "Das Varas do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal Superior do Trabalho: jurisdição e competência"
+     },
+     {
+      "title": "Dos serviços auxiliares da Justiça do Trabalho",
+      "children": [
+       {
+        "title": "Das secretarias das Varas do Trabalho"
+       },
+       {
+        "title": "Dos distribuidores"
+       },
+       {
+        "title": "Dos oficiais de justiça e oficiais de justiça avaliadores"
+       }
+      ]
+     },
+     {
+      "title": "Do Ministério Público do Trabalho: organização"
+     },
+     {
+      "title": "Do processo judiciário do trabalho: princípios gerais do processo trabalhista (aplicação subsidiária do CPC)"
+     },
+     {
+      "title": "Dos atos, termos e prazos processuais"
+     },
+     {
+      "title": "Da distribuição"
+     },
+     {
+      "title": "Das custas e emolumentos"
+     },
+     {
+      "title": "Das partes e procuradores; do jus postulandi; da substituição e representação processuais; da assistência judiciária; dos honorários de advogado"
+     },
+     {
+      "title": "Das nulidades"
+     },
+     {
+      "title": "Das exceções"
+     },
+     {
+      "title": "Das audiências",
+      "children": [
+       {
+        "title": "De conciliação, de instrução e de julgamento"
+       },
+       {
+        "title": "Da notificação das partes"
+       },
+       {
+        "title": "Do arquivamento do processo"
+       },
+       {
+        "title": "Da revelia e confissão"
+       }
+      ]
+     },
+     {
+      "title": "Das provas"
+     },
+     {
+      "title": "Dos dissídios individuais",
+      "children": [
+       {
+        "title": "Da forma de reclamação e notificação"
+       },
+       {
+        "title": "Da reclamação escrita e verbal"
+       },
+       {
+        "title": "Da legitimidade para ajuizar"
+       }
+      ]
+     },
+     {
+      "title": "Do procedimento ordinário e sumaríssimo"
+     },
+     {
+      "title": "Dos procedimentos especiais: inquérito para apuração de falta grave, ação rescisória e mandado de segurança"
+     },
+     {
+      "title": "Da sentença e da coisa julgada; da liquidação da sentença: por cálculo, por artigos e por arbitramento"
+     },
+     {
+      "title": "Dos dissídios coletivos: extensão, cumprimento e revisão da sentença normativa"
+     },
+     {
+      "title": "Da execução",
+      "children": [
+       {
+        "title": "Execução provisória"
+       },
+       {
+        "title": "Execução por prestações sucessivas"
+       },
+       {
+        "title": "Execução contra a Fazenda Pública"
+       },
+       {
+        "title": "Execução contra a massa falida"
+       }
+      ]
+     },
+     {
+      "title": "Da citação"
+     },
+     {
+      "title": "Do depósito da condenação e da nomeação de bens"
+     },
+     {
+      "title": "Do mandado e penhora"
+     },
+     {
+      "title": "Dos bens penhoráveis e impenhoráveis"
+     },
+     {
+      "title": "Da impenhorabilidade do bem de família (Lei nº 8.009/1990)"
+     },
+     {
+      "title": "Dos embargos à execução; da impugnação à sentença; dos embargos de terceiros"
+     },
+     {
+      "title": "Da praça e leilão; da arrematação; da remição; das custas na execução"
+     },
+     {
+      "title": "Dos recursos no processo do trabalho"
+     }
+    ]
+   },
+   {
+    "title": "Direito Comercial",
+    "children": [
+     {
+      "title": "Sociedades comerciais",
+      "children": [
+       {
+        "title": "Conceito"
+       },
+       {
+        "title": "Personalidade jurídica"
+       },
+       {
+        "title": "Tipos"
+       }
+      ]
+     },
+     {
+      "title": "Sociedade anônima",
+      "children": [
+       {
+        "title": "Características, objeto social, companhia aberta e fechada"
+       },
+       {
+        "title": "Capital social e sua modificação"
+       },
+       {
+        "title": "Ações, debêntures"
+       },
+       {
+        "title": "Constituição da companhia"
+       },
+       {
+        "title": "Direitos e deveres dos acionistas, acordos de acionistas, assembleia geral, conselho de administração e diretoria"
+       },
+       {
+        "title": "Conselho fiscal, exercício social e demonstrações financeiras, lucro, reservas e dividendos, dissolução, liquidação e extinção da companhia, transformação, incorporação, fusão e cisão da companhia, sociedade de economia mista, sociedades coligadas, controladoras e controladas"
+       }
+      ]
+     },
+     {
+      "title": "Sociedade por quotas de responsabilidade limitada, registro do comércio, obrigações comerciais: modalidades, efeitos; contratos comerciais: Empresas individuais de responsabilidade limitada"
+     },
+     {
+      "title": "Teoria Geral"
+     },
+     {
+      "title": "Compra e venda mercantil"
+     },
+     {
+      "title": "Mandato mercantil"
+     },
+     {
+      "title": "Comissão mercantil, representação comercial, concessão comercial"
+     },
+     {
+      "title": "Franquia, contratos internacionais, títulos de crédito: conceito, classificação, endosso, aval"
+     },
+     {
+      "title": "Cheque"
+     },
+     {
+      "title": "Letra de câmbio"
+     },
+     {
+      "title": "Nota promissória, duplicata"
+     },
+     {
+      "title": "Falências e concordatas"
+     },
+     {
+      "title": "Lei da Propriedade Industrial (Lei n.º 9279/1996)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 16,
+  "title": "Assessoria Administrativa",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conceitos de Estado, sociedade e mercado"
+   },
+   {
+    "title": "Caracterização das organizações: tipos de estruturas organizacionais, aspectos comportamentais (motivação, clima e cultura)"
+   },
+   {
+    "title": "Gestão da mudança organizacional: ferramentas de mudança organizacional (benchmarking, programa de qualidade, aprendizado organizacional e planejamento estratégico)"
+   },
+   {
+    "title": "Regime jurídico da Licitação e dos contratos administrativos",
+    "children": [
+     {
+      "title": "Obrigatoriedade, dispensa, inexigibilidade e vedação da licitação"
+     },
+     {
+      "title": "Procedimentos, anulação e revogação"
+     },
+     {
+      "title": "Modalidades de licitação"
+     }
+    ]
+   },
+   {
+    "title": "Lei nº 14.133/2021"
+   },
+   {
+    "title": "Funcionamento do Registro de Preços Nacional (RPN)"
+   },
+   {
+    "title": "Inovações do Regime Diferenciado de Contratação (RDC)"
+   },
+   {
+    "title": "Contratos administrativos: conceito, características e interpretação"
+   },
+   {
+    "title": "Reequilíbrio econômico-financeiro"
+   },
+   {
+    "title": "Gestão de convênios e outros instrumentos de cooperação"
+   },
+   {
+    "title": "Gestão operacional de contratos e convênios"
+   },
+   {
+    "title": "Modelos de gestão da qualidade para organizações; Conceitos e requisitos das normas de gestão da qualidade"
+   },
+   {
+    "title": "Conceitos: Modelagem de Processos e Gestão da operação - processos e projetos"
+   },
+   {
+    "title": "Os controles interno e externo"
+   },
+   {
+    "title": "Responsabilização e Prestação de Contas"
+   },
+   {
+    "title": "Política de Desenvolvimento Produtivo"
+   },
+   {
+    "title": "Complexo Industrial de Saúde"
+   },
+   {
+    "title": "Lei Federal nº 12.527/2011"
+   }
+  ]
+ },
+ {
+  "code": 17,
+  "title": "Auditoria Interna",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Auditoria Interna",
+    "children": [
+     {
+      "title": "Propósito e Abrangência da Auditoria Interna Governamental"
+     },
+     {
+      "title": "Sistema de Controle Interno do Poder Executivo Federal: organização e estrutura"
+     },
+     {
+      "title": "Princípios e Requisitos Éticos para o exercício da Profissão"
+     },
+     {
+      "title": "Gerenciamento da Atividade de Auditoria Interna: objetivos do trabalho"
+     },
+     {
+      "title": "Planejamento, Comunicação e Aprovação do Plano de Auditoria Interna"
+     },
+     {
+      "title": "Gestão e Melhoria da Qualidade"
+     },
+     {
+      "title": "Operacionalização das Atividades de Auditoria Interna: Planejamento dos Trabalhos de Auditoria"
+     },
+     {
+      "title": "Desenvolvimento dos Trabalhos de Auditor"
+     },
+     {
+      "title": "Comunicação dos Resultados"
+     },
+     {
+      "title": "Monitoramento"
+     },
+     {
+      "title": "Normas internacionais para Prática de Auditoria Interna : Normas de Atributo e Normas de Desempenho"
+     },
+     {
+      "title": "Normas Brasileiras de Contabilidade: Auditoria Interna e Normas Profissionais do Auditor Interno"
+     },
+     {
+      "title": "Gestão de Riscos: O papel do Auditor Interno no Gerenciamento de Risco"
+     },
+     {
+      "title": "Gerenciamento de Riscos Corporativos integrados com Estratégia e Performance"
+     },
+     {
+      "title": "Gestão de Riscos segundo a ISO 31000:2018"
+     },
+     {
+      "title": "Auditoria Baseada em Riscos"
+     }
+    ]
+   },
+   {
+    "title": "INSTRUÇÃO NORMATIVA CONJUNTA nº 01/MAIO DE 2016 (dispõe sobre controles internos, gestão de riscos e governança)"
+   },
+   {
+    "title": "Controles Internos, Governança e Transparência"
+   },
+   {
+    "title": "Controles Internos segundo o COSO: Definição, objetivos, componentes"
+   },
+   {
+    "title": "Modelo das 3 Linhas do IIA 2020"
+   },
+   {
+    "title": "Controle Social"
+   },
+   {
+    "title": "Governança no Setor Público"
+   },
+   {
+    "title": "Lei da Improbidade Administrativa"
+   },
+   {
+    "title": "Economia: Conhecimento de Macro e Microeconomia no cenário nacional e internacional globalizado"
+   },
+   {
+    "title": "Finanças e Orçamento Públicos",
+    "children": [
+     {
+      "title": "Princípios e ciclo orçamentário, PPA - Plano Plurianual, LDO - Lei das Diretrizes Orçamentárias, LOA - Lei Orçamentária Anual e sua execução"
+     },
+     {
+      "title": "Gestão orçamentária e financeira: receita pública, subvenções e transferências de recursos, estágios da despesa pública e responsabilidades dos gestores"
+     }
+    ]
+   },
+   {
+    "title": "Planejamento e execução orçamentária",
+    "children": [
+     {
+      "title": "CF/88"
+     },
+     {
+      "title": "LRF"
+     },
+     {
+      "title": "Lei n.º 4.320/64"
+     }
+    ]
+   },
+   {
+    "title": "Gestão Tributária: Conhecimento de Tributos (ICMS, ISS, PIS/COFINS, CIDE COMBUSTÍVEL, ROYALTIES E IR): Fato Gerador"
+   },
+   {
+    "title": "Base de Cálculo"
+   },
+   {
+    "title": "Cumulatividade/Não cumulatividade"
+   },
+   {
+    "title": "Incidência/Não Incidência/Isenção"
+   },
+   {
+    "title": "Substituição Tributária"
+   },
+   {
+    "title": "Contabilidade Geral e Societária",
+    "children": [
+     {
+      "title": "Princípios e Normas Brasileiras de Contabilidade"
+     },
+     {
+      "title": "Patrimônio"
+     },
+     {
+      "title": "Plano de Contas"
+     },
+     {
+      "title": "Elaboração de Demonstrações Contábeis"
+     },
+     {
+      "title": "Classificação e Registro Contábil"
+     },
+     {
+      "title": "Demonstração do Fluxo de Caixa (Método Direto e Indireto)"
+     },
+     {
+      "title": "Fusão, Cisão e Incorporação de Empresas"
+     }
+    ]
+   },
+   {
+    "title": "Consolidação de Demonstrações Contábeis; Análise Econômico-Financeira"
+   },
+   {
+    "title": "Avaliação e Contabilização de Investimentos Societários no País e no Exterior"
+   },
+   {
+    "title": "Destinação de Resultado"
+   },
+   {
+    "title": "Custos para Avaliação de Estoques"
+   },
+   {
+    "title": "Princípios Internacionais de Contabilidade"
+   },
+   {
+    "title": "Informática",
+    "children": [
+     {
+      "title": "Conhecimento de sistema operacional (Windows)"
+     },
+     {
+      "title": "Edição de textos, planilhas e apresentações"
+     },
+     {
+      "title": "Segurança da Informação"
+     },
+     {
+      "title": "Análise de Banco de Dados"
+     },
+     {
+      "title": "Gestão e Governança da Tecnologia da Informação"
+     }
+    ]
+   },
+   {
+    "title": "Matemática Financeira",
+    "children": [
+     {
+      "title": "Juros Simples e Compostos: Capitalização e Desconto"
+     },
+     {
+      "title": "Taxas de Juros: Nominal, Efetiva, Equivalentes, Real e Aparente"
+     }
+    ]
+   },
+   {
+    "title": "Rendas Uniformes e Variáveis"
+   },
+   {
+    "title": "Cálculo Financeiro: Custo Real Efetivo de Operações de Financiamento, Empréstimo e Investimento"
+   },
+   {
+    "title": "Avaliação de Alternativas de Investimento"
+   },
+   {
+    "title": "Administração Pública",
+    "children": [
+     {
+      "title": "Estrutura e princípios da Administração Pública Federal, Decreto-Lei 200/67"
+     },
+     {
+      "title": "Legislação que regula as licitações, contratos da Administração Pública e procedimentos administrativos"
+     },
+     {
+      "title": "O processo administrativo"
+     },
+     {
+      "title": "Conhecimento de Direito Administrativo e de Direito Civil aplicados a contratos"
+     },
+     {
+      "title": "Excelência nos serviços públicos"
+     }
+    ]
+   },
+   {
+    "title": "Gestão por resultados na produção de serviços"
+   },
+   {
+    "title": "Gestão de pessoas por competências"
+   },
+   {
+    "title": "Comunicação na gestão pública e gestão de redes organizacionais"
+   }
+  ]
+ },
+ {
+  "code": 18,
+  "title": "Compras Nacionais e Internacionais",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Rotina de Compras",
+    "children": [
+     {
+      "title": "Planejamento na gestão de compras"
+     },
+     {
+      "title": "Tributação incidente em compras"
+     },
+     {
+      "title": "Classificação ABC"
+     },
+     {
+      "title": "Forecast de compras"
+     },
+     {
+      "title": "Follow up de compras"
+     }
+    ]
+   },
+   {
+    "title": "Fornecedor e cliente interno"
+   },
+   {
+    "title": "Compras como área de gestão estratégica no gerenciamento dos custos, preços e margens de lucros da empresa"
+   },
+   {
+    "title": "Compras como área de suporte para o equilíbrio dos estoques e da saúde financeira da empresa"
+   },
+   {
+    "title": "Tipos de Compras",
+    "children": [
+     {
+      "title": "Compras de materiais produtivos e improdutivos"
+     },
+     {
+      "title": "Compras de serviços"
+     },
+     {
+      "title": "Compras técnicas"
+     },
+     {
+      "title": "Compras estratégicas"
+     },
+     {
+      "title": "Compras de produção terceirizada"
+     },
+     {
+      "title": "Compras de itens importados"
+     },
+     {
+      "title": "Compras de terceirização industrial (total e parcial)"
+     },
+     {
+      "title": "DOCUMENTOS DE COMPRAS: Requisição de compras"
+     },
+     {
+      "title": "Cotações- faturas Pró-forma (incoterms utilizados)"
+     },
+     {
+      "title": "Notas fiscais"
+     },
+     {
+      "title": "Planilhas de custos"
+     },
+     {
+      "title": "Controles"
+     },
+     {
+      "title": "Certificados"
+     },
+     {
+      "title": "Especificações técnicas"
+     }
+    ]
+   },
+   {
+    "title": "Propostas - Cotações",
+    "children": [
+     {
+      "title": "Análise da melhor oferta (preços, cronograma de entregas, avaliação do fornecedor e outros itens)"
+     },
+     {
+      "title": "Custos de mercadorias"
+     },
+     {
+      "title": "Prazos de pagamento, Cadastro e análise das informações financeiras do fornecedor, IMPORTAÇÃO: Fluxo operacional de importação"
+     },
+     {
+      "title": "Classificação tarifária, tributos e despesas incidentes"
+     },
+     {
+      "title": "Incoterms"
+     },
+     {
+      "title": "Planilha de custos"
+     }
+    ]
+   },
+   {
+    "title": "Desenvolvimento de Fornecedor",
+    "children": [
+     {
+      "title": "Requisitos fundamentais, Gerenciamento do processo, Auditoria técnica nos fornecedores, Avaliação do fornecedor"
+     },
+     {
+      "title": "Conhecimento de Auditoria em Compras: Auditoria interna e externa, conhecimentos de normas e procedimentos"
+     },
+     {
+      "title": "Técnicas de negociação e Compras"
+     },
+     {
+      "title": "Técnicas Administrativas"
+     },
+     {
+      "title": "Práticas de execução de compras públicas nas diversas modalidades licitatórias"
+     },
+     {
+      "title": "Atributos e etapas da classificação de materiais"
+     },
+     {
+      "title": "Movimentação e armazenamento de materiais"
+     },
+     {
+      "title": "Procedimentos para classificação de materiais"
+     },
+     {
+      "title": "Qualidade, produtividade e normalização de materiais"
+     },
+     {
+      "title": "Normas ISO"
+     },
+     {
+      "title": "Administração patrimonial"
+     },
+     {
+      "title": "Gestão de estoques"
+     },
+     {
+      "title": "Classificação ABC- Activity Based Costing"
+     },
+     {
+      "title": "Inventário periódico e permanente"
+     },
+     {
+      "title": "Custeio e controle dos materiais diretos"
+     },
+     {
+      "title": "Custo de aquisição, inventários, critérios de avaliação e identificação do consumo de materiais e tratamento das perdas"
+     },
+     {
+      "title": "Apuração dos custos de estoque"
+     },
+     {
+      "title": "Métodos para a realização de demanda"
+     },
+     {
+      "title": "Métodos para reposição de estoque"
+     },
+     {
+      "title": "Logística"
+     },
+     {
+      "title": "Conhecimentos de Direito Administrativo: Conceito de Administração Pública"
+     },
+     {
+      "title": "Princípios básicos"
+     },
+     {
+      "title": "Diferenças entre Governo e Administração"
+     },
+     {
+      "title": "Administração Direta e Indireta; Administração Pública Indireta: autarquias, fundações públicas, sociedades de economia mista e empresas públicas"
+     },
+     {
+      "title": "Concessionárias e permissionárias"
+     },
+     {
+      "title": "Agências Executivas e Reguladoras"
+     },
+     {
+      "title": "Parcerias (PPP)"
+     },
+     {
+      "title": "Supremacia do Interesse Público"
+     },
+     {
+      "title": "Princípios Básicos da Administração Pública"
+     },
+     {
+      "title": "Legalidade, impessoalidade, moralidade, publicidade e eficiência"
+     },
+     {
+      "title": "Aplicação dos princípios constitucionais e dos demais princípios norteadores da Administração Pública"
+     },
+     {
+      "title": "Atos Administrativos",
+      "children": [
+       {
+        "title": "Conceito, requisitos, atributos, discricionariedade e vinculação"
+       },
+       {
+        "title": "Classificação"
+       },
+       {
+        "title": "Espécies, motivação, anulação, revogação, extinção, convalidação"
+       }
+      ]
+     },
+     {
+      "title": "Poderes administrativos",
+      "children": [
+       {
+        "title": "Poder hierárquico"
+       },
+       {
+        "title": "Poder disciplinar"
+       },
+       {
+        "title": "Poder regulamentar"
+       },
+       {
+        "title": "Poder de polícia"
+       }
+      ]
+     },
+     {
+      "title": "Agentes públicos"
+     },
+     {
+      "title": "Regime jurídico-constitucional, art. 37 a 41 da Constituição Federal"
+     },
+     {
+      "title": "Processo administrativo",
+      "children": [
+       {
+        "title": "Conceito"
+       },
+       {
+        "title": "Requisitos"
+       },
+       {
+        "title": "Objetivos"
+       },
+       {
+        "title": "Fases"
+       },
+       {
+        "title": "Espécies"
+       },
+       {
+        "title": "Princípios do processo administrativo"
+       }
+      ]
+     },
+     {
+      "title": "Licitação e contratos administrativos"
+     },
+     {
+      "title": "Improbidade Administrativa"
+     },
+     {
+      "title": "Lei Federal n.º 8.429/1992 das sanções aplicáveis a agentes públicos"
+     },
+     {
+      "title": "Lei Federal 13.303/2016, Decreto 8.945/16, Regulamento de Licitações e Contratos da Hemobrás (disponível em www.hemobras.gov.br)"
+     },
+     {
+      "title": "Instrução Normativa do Ministério da Economia nº 73/2020, Instrução Normativa MPDG/SEGES nº 05/2017"
+     },
+     {
+      "title": "Lei Complementar nº 123/2006"
+     },
+     {
+      "title": "Lei de Responsabilidade Fiscal: seus princípios, e sua observância nos procedimentos de compras"
+     },
+     {
+      "title": "Processo administrativo (Lei nº 9.784/1999): das disposições gerais; dos direitos e deveres dos administrados"
+     },
+     {
+      "title": "Lei nº 12.846/2013 (Lei Anticorrupção)"
+     },
+     {
+      "title": "Lei nº 8.429/1992 (Lei de Improbidade Administrativa): das disposições gerais; dos atos de improbidade administrativa"
+     },
+     {
+      "title": "Lei nº 11.079/2004 (Lei das Parcerias Público Privadas)"
+     },
+     {
+      "title": "Jurisprudências relacionadas a compras da Administração Pública, exaradas pelos Órgãos de Controle (TCU e CGU) e do STJ e STF"
+     },
+     {
+      "title": "Inglês técnico com aplicação em compras"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 19,
+  "title": "Contabilidade",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Contabilidade Geral: Princípios fundamentais de contabilidade (aprovados pelo Conselho Federal de Contabilidade, por meio de Resoluções CFC em vigência)"
+   },
+   {
+    "title": "Patrimônio: Componentes Patrimoniais - Ativo, Passivo e Patrimônio Líquido"
+   },
+   {
+    "title": "Fatos contábeis e respectivas variações patrimoniais"
+   },
+   {
+    "title": "Contas patrimoniais e de resultado"
+   },
+   {
+    "title": "Teorias, funções e estrutura das contas"
+   },
+   {
+    "title": "Apuração de resultados; Sistemas de contas e plano de contas; Demonstrações contábeis; Análise das demonstrações contábeis; Lei n.º 6.404/76"
+   },
+   {
+    "title": "Normas Internacionais de contabilidade (IFRS - International Financial Reporting Standards)"
+   },
+   {
+    "title": "Normas emitidas pelo CPC (Comitê de Pronunciamentos contábeis)"
+   },
+   {
+    "title": "Demonstrações Contábeis",
+    "children": [
+     {
+      "title": "Balanço Orçamentário, Balanço Financeiro"
+     },
+     {
+      "title": "Balanço Patrimonial e Demonstração das Variações Patrimoniais"
+     }
+    ]
+   },
+   {
+    "title": "Demonstração dos fluxos de caixa (método direto e indireto)"
+   },
+   {
+    "title": "Demonstração do Valor Adicionado"
+   },
+   {
+    "title": "Demonstração das Mutações do Patrimônio Líquido"
+   },
+   {
+    "title": "Ativo imobilizado"
+   },
+   {
+    "title": "Critérios de avaliação dos ativos"
+   },
+   {
+    "title": "Análise econômico-financeira"
+   },
+   {
+    "title": "Variação cambial de direitos e obrigações"
+   },
+   {
+    "title": "Conhecimentos de importação e exportação"
+   },
+   {
+    "title": "Lei Sarbanes-Oxley"
+   },
+   {
+    "title": "Contabilidade Fiscal: Conhecimentos básicos sobre tributos"
+   },
+   {
+    "title": "Imposto de Renda Pessoa Jurídica"
+   },
+   {
+    "title": "Imposto de Renda Retido na Fonte"
+   },
+   {
+    "title": "Contribuição Social sobre o Lucro"
+   },
+   {
+    "title": "Imposto Sobre a Circulação de Mercadorias"
+   },
+   {
+    "title": "PIS/PASEP"
+   },
+   {
+    "title": "COFINS"
+   },
+   {
+    "title": "CIDE Tecnologia"
+   },
+   {
+    "title": "Legislação do ISS"
+   },
+   {
+    "title": "Sistema Público de Escrituração Digital - SPED"
+   },
+   {
+    "title": "Legislação Previdenciária (Contribuições)"
+   },
+   {
+    "title": "Declaração de Importo de Renda Pessoa Jurídica"
+   },
+   {
+    "title": "Contabilidade de Custos: Custos de Estoque"
+   },
+   {
+    "title": "Custos Industriais"
+   },
+   {
+    "title": "Classificação de Custos"
+   },
+   {
+    "title": "Margem de Contribuição"
+   },
+   {
+    "title": "Definição do preço de venda"
+   },
+   {
+    "title": "Matemática financeira",
+    "children": [
+     {
+      "title": "Juros simples e juros compostos"
+     },
+     {
+      "title": "Equivalência"
+     },
+     {
+      "title": "Descontos"
+     },
+     {
+      "title": "Métodos de amortização"
+     },
+     {
+      "title": "Séries de pagamentos"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 20,
+  "title": "Desenvolvimento de Pessoas",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Modelos de gestão e estruturas organizacionais"
+   },
+   {
+    "title": "Planejamento Organizacional: planejamento estratégico, tático e operacional"
+   },
+   {
+    "title": "Gestão estratégica de pessoas"
+   },
+   {
+    "title": "Recrutamento e seleção"
+   },
+   {
+    "title": "Gestão do conhecimento e inteligência organizacional"
+   },
+   {
+    "title": "Treinamento e desenvolvimento de pessoas",
+    "children": [
+     {
+      "title": "Papel e objetivos"
+     },
+     {
+      "title": "Levantamento de necessidades, planejamento, métodos e técnicas, execução e avaliação"
+     }
+    ]
+   },
+   {
+    "title": "Aprendizagem Organizacional"
+   },
+   {
+    "title": "Educação Corporativa"
+   },
+   {
+    "title": "Comunicação na organização",
+    "children": [
+     {
+      "title": "Mediação"
+     },
+     {
+      "title": "Negociação"
+     },
+     {
+      "title": "Interação grupal"
+     }
+    ]
+   },
+   {
+    "title": "Sistemas de remuneração e benefícios"
+   },
+   {
+    "title": "Gestão de pessoas com base nas competências"
+   },
+   {
+    "title": "Administração de conflitos e tomada de decisão"
+   },
+   {
+    "title": "Motivação",
+    "children": [
+     {
+      "title": "Importância"
+     },
+     {
+      "title": "Teorias"
+     },
+     {
+      "title": "Abordagens contemporâneas"
+     },
+     {
+      "title": "Plataforma motivacional para uma abordagem estratégica"
+     },
+     {
+      "title": "Aplicações do conceito"
+     }
+    ]
+   },
+   {
+    "title": "Liderança",
+    "children": [
+     {
+      "title": "Importância"
+     },
+     {
+      "title": "Teorias"
+     },
+     {
+      "title": "Abordagens contemporâneas"
+     },
+     {
+      "title": "Estilos de liderança e sua influência na gestão de pessoas"
+     }
+    ]
+   },
+   {
+    "title": "Qualidade de vida no trabalho"
+   },
+   {
+    "title": "Trabalho em equipe"
+   },
+   {
+    "title": "Elementos de formação de equipes eficazes"
+   },
+   {
+    "title": "Indicadores estratégicos de gestão de pessoas"
+   },
+   {
+    "title": "Avaliação e mensuração do desempenho"
+   },
+   {
+    "title": "Desenvolvimento de Carreiras: principais ferramentas"
+   },
+   {
+    "title": "Cultura e clima organizacional"
+   },
+   {
+    "title": "Programa de Estágio e a lei nº 11.788/08"
+   },
+   {
+    "title": "Programa de Aprendizagem e a Lei 10.097/2000"
+   },
+   {
+    "title": "Ferramentas da qualidade Excelência no serviço público"
+   },
+   {
+    "title": "Conceitos de eficiência, eficácia e efetividade aplicados à Administração Pública"
+   },
+   {
+    "title": "Instrumentos gerenciais contemporâneos",
+    "children": [
+     {
+      "title": "Gestão de processos"
+     },
+     {
+      "title": "Gestão de projetos"
+     },
+     {
+      "title": "Gestão por resultados"
+     }
+    ]
+   },
+   {
+    "title": "Modelos de Gestão de Pessoas - Evolução dos modelos de gestão de pessoas"
+   },
+   {
+    "title": "Fatores condicionantes de cada modelo"
+   },
+   {
+    "title": "Gestão de processos de mudança organizacional"
+   },
+   {
+    "title": "Estratégias para obter sustentação ao processo de mudança"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 21,
+  "title": "Gestão de Riscos e Conformidade",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "COSO ERM 2017",
+    "children": [
+     {
+      "title": "Gerenciamento de Riscos Corporativos - integrado com Estratégia e Performance"
+     },
+     {
+      "title": "Gestão de Riscos segundo a ISO 31000"
+     },
+     {
+      "title": "Gestão de Riscos: princípios"
+     }
+    ]
+   },
+   {
+    "title": "Processo de Gestão de Riscos",
+    "children": [
+     {
+      "title": "Comunicação"
+     },
+     {
+      "title": "Consulta"
+     },
+     {
+      "title": "Contextualização"
+     },
+     {
+      "title": "Identificação"
+     },
+     {
+      "title": "Análise"
+     },
+     {
+      "title": "Avaliação"
+     },
+     {
+      "title": "Tratamento"
+     },
+     {
+      "title": "Monitoramento e análise crítica"
+     }
+    ]
+   },
+   {
+    "title": "Fundamentos",
+    "children": [
+     {
+      "title": "Probabilidade e impacto"
+     },
+     {
+      "title": "Riscos inerentes e residuais"
+     },
+     {
+      "title": "Matriz de riscos"
+     },
+     {
+      "title": "Apetite a riscos"
+     },
+     {
+      "title": "Tolerância a riscos"
+     },
+     {
+      "title": "Ações preventivas e de contingência"
+     }
+    ]
+   },
+   {
+    "title": "Riscos externos e internos",
+    "children": [
+     {
+      "title": "Riscos de mercado"
+     },
+     {
+      "title": "Risco de liquidez"
+     },
+     {
+      "title": "Risco atuarial"
+     },
+     {
+      "title": "Riscos estratégicos"
+     },
+     {
+      "title": "Riscos operacionais"
+     },
+     {
+      "title": "Risco de imagem"
+     },
+     {
+      "title": "Risco de governança"
+     },
+     {
+      "title": "Risco legal"
+     }
+    ]
+   },
+   {
+    "title": "Economia: Noções de Macro e Microeconomia no cenário nacional e internacional globalizado"
+   },
+   {
+    "title": "Sistema Integrado de Gestão de Compliance (NBR ISO 37301) e Antissuborno (NBR ISO 37001)"
+   },
+   {
+    "title": "Fundamentos da Legislação Anticorrupção Brasileira: Lei nº 12.846/2013 e Decreto 11.129/2022"
+   },
+   {
+    "title": "Prevenção e Gestão de Riscos de Fraude e Corrupção, Princípio de Segregação de Funções"
+   },
+   {
+    "title": "Programa de Integridade: conceitos e princípios aplicáveis"
+   },
+   {
+    "title": "Noções básicas de avaliação de terceiros (Due Diligence e Background Check)"
+   },
+   {
+    "title": "Resoluções da CGPAR (Comissão Interministerial de Governança Corporativa e de Administração de Participações Societárias da União)"
+   },
+   {
+    "title": "Instrução Normativa Conjunta nº 01/maio de 2016 (dispõe sobre controles internos, gestão de riscos e governança)"
+   },
+   {
+    "title": "Controles Internos segundo o COSO: Definição, objetivos, componentes"
+   },
+   {
+    "title": "Modelo das 3 Linhas do IIA 2020"
+   },
+   {
+    "title": "Administração Pública: Estrutura e princípios da Administração Pública Federal, Decreto-Lei 200/67"
+   },
+   {
+    "title": "Governança no Setor Público; 3ª edição do Referencial Básico de Governança Organizacional - TCU"
+   },
+   {
+    "title": "Inovação na gestão pública"
+   },
+   {
+    "title": "Excelência nos serviços públicos"
+   },
+   {
+    "title": "Fundamentos de Continuidade de Negócios"
+   },
+   {
+    "title": "ISO 22301:2019 - Continuidade dos Negócios"
+   },
+   {
+    "title": "Plano de Continuidade de Negócios"
+   },
+   {
+    "title": "IN GSI 03/2021 - Gestão de Segurança da Informação"
+   },
+   {
+    "title": "Fundamentos e conceitos de Business Intelligence, dashboards e soluções de suporte à decisão"
+   },
+   {
+    "title": "Uso de novas tecnologias (Power BI, Inteligência Artificial, Big Data, IoT)"
+   },
+   {
+    "title": "Integração de inovação e sustentabilidade em políticas públicas"
+   },
+   {
+    "title": "Informática",
+    "children": [
+     {
+      "title": "Noções de sistema operacional (Windows)"
+     },
+     {
+      "title": "Edição de textos, planilhas e apresentações"
+     },
+     {
+      "title": "Segurança da Informação"
+     },
+     {
+      "title": "Análise de Banco de Dados"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 22,
+  "title": "Inteligência de Mercado",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Negociação Internacional",
+    "children": [
+     {
+      "title": "Técnicas de negociação em contextos internacionais"
+     },
+     {
+      "title": "Práticas comerciais globais e estratégias de negociação"
+     }
+    ]
+   },
+   {
+    "title": "Regulamentações e Acordos Comerciais: Conhecimento básico de regulamentações aduaneiras e acordos comerciais internacionais"
+   },
+   {
+    "title": "Comércio Internacional e Logística",
+    "children": [
+     {
+      "title": "Processos de importação e exportação"
+     },
+     {
+      "title": "Logística Internacional e gestão de cadeia de suprimentos globais"
+     }
+    ]
+   },
+   {
+    "title": "Economia Internacional",
+    "children": [
+     {
+      "title": "Dinâmicas econômicas globais e seu impacto no comércio internacional"
+     },
+     {
+      "title": "Taxas de câmbio e seu efeito nas transações internacionais"
+     }
+    ]
+   },
+   {
+    "title": "Marketing Internacional",
+    "children": [
+     {
+      "title": "Estratégias de marketing adaptadas a diferentes mercados globais"
+     },
+     {
+      "title": "Pesquisa de mercado internacional"
+     }
+    ]
+   },
+   {
+    "title": "Compliance e Ética Empresarial",
+    "children": [
+     {
+      "title": "Conformidade com regulamentações globais e padrões éticos"
+     },
+     {
+      "title": "Responsabilidade social corporativa em contextos internacionais"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Parcerias Internacionais",
+    "children": [
+     {
+      "title": "Desenvolvimento e gestão de parcerias estratégicas globais"
+     },
+     {
+      "title": "Estratégias para construir e manter relacionamentos internacionais"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 23,
+  "title": "Jornalismo",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Teorias da Comunicação (o objeto da comunicação social. contribuições interdisciplinares para a construção de uma teoria da comunicação. transformações históricas, processos de comunicação e seus inter-relacionamentos)"
+   },
+   {
+    "title": "Comunicação pública, jornalismo público"
+   },
+   {
+    "title": "Atividades jornalísticas no âmbito da comunicação organizacional"
+   },
+   {
+    "title": "Evolução dos meios e tecnologias da comunicação"
+   },
+   {
+    "title": "Mídia e responsabilidade social"
+   },
+   {
+    "title": "Convergência de mídias"
+   },
+   {
+    "title": "Teorias do jornalismo"
+   },
+   {
+    "title": "Gêneros jornalísticos"
+   },
+   {
+    "title": "Técnicas e tipos de entrevistas, reportagem e redação para os mais variados suportes midiáticos"
+   },
+   {
+    "title": "Ética jornalística (Legislação e ética do jornalismo - o direito à informação. leis e deontologia. regulamentação profissional. conceitos de verdade. ética profissional. direitos e deveres de jornalistas, sua responsabilidade social e seu papel histórico no brasil)"
+   },
+   {
+    "title": "Jornalismo e Interesse público"
+   },
+   {
+    "title": "Jornalismo e Cidadania"
+   },
+   {
+    "title": "Critérios de noticiabilidade no jornalismo"
+   },
+   {
+    "title": "Fato jornalístico"
+   },
+   {
+    "title": "Elementos básicos da linguagem jornalística (estrutura, texto, lide, sublide, título, intertítulo)"
+   },
+   {
+    "title": "A produção da notícia: da pauta à edição - titulação e edição: sistemas de fechamento, possibilidades técnicas (selos, tarjas, infografia, fios, olhos, olhos-legenda, textos legenda, ilhas, boxes, quadros)"
+   },
+   {
+    "title": "Redação para os meios de comunicação (roteiros para rádio e TV) Técnicas gráficas e audiovisuais da matéria jornalística para os mais variados meios de comunicação"
+   },
+   {
+    "title": "Fotojornalismo e tratamento de imagens"
+   },
+   {
+    "title": "A linguagem infográfica no jornalismo"
+   },
+   {
+    "title": "Web jornalismo/mídias digitais, jornalismo colaborativo e interação com o público por meio de redes sociais"
+   },
+   {
+    "title": "Produção audiovisual, diagramação e ferramentas de tecnologia da informação aplicadas à comunicação social"
+   },
+   {
+    "title": "Assessoria de Comunicação e Assessoria de Imprensa (funções da assessoria de imprensa; levantamento de dados; Relacionamento e atendimento à imprensa, press release; comunicados e notas oficiais; mailing list; clipping, clipping eletrônico; Técnicas e práticas de media training; entrevistas coletivas e exclusivas; planejamento e organização de eventos e sociabilidade)"
+   },
+   {
+    "title": "Veículos de comunicação internos e externos (boletins, house organ, revista, newsletter)"
+   },
+   {
+    "title": "Meios de divulgação",
+    "children": [
+     {
+      "title": "Entrevista coletiva"
+     },
+     {
+      "title": "Entrevista exclusiva"
+     },
+     {
+      "title": "Press release etc"
+     }
+    ]
+   },
+   {
+    "title": "O texto jornalístico - características",
+    "children": [
+     {
+      "title": "A estrutura da notícia"
+     },
+     {
+      "title": "Números e siglas"
+     },
+     {
+      "title": "Comunicação em ciência, saúde e tecnologia"
+     }
+    ]
+   },
+   {
+    "title": "Saúde e ciência e tecnologia na mídia"
+   },
+   {
+    "title": "Comunicação e políticas públicas em saúde e ciência, tecnologia e inovação em saúde"
+   },
+   {
+    "title": "Novas mídias, configurações e tecnologias de informação e comunicação"
+   },
+   {
+    "title": "Metodologias de planejamento e avaliação da comunicação em uma instituição de ciência e tecnologia"
+   }
+  ]
+ },
+ {
+  "code": 24,
+  "title": "Licitação e Contratos",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conceitos de Estado, sociedade e mercado"
+   },
+   {
+    "title": "Caracterização das organizações: tipos de estruturas organizacionais, aspectos comportamentais (motivação, clima e cultura)"
+   },
+   {
+    "title": "Gestão da mudança organizacional: ferramentas de mudança organizacional (benchmarking, programa de qualidade, aprendizado organizacional e planejamento estratégico)"
+   },
+   {
+    "title": "Regime jurídico da Licitação e dos contratos administrativos",
+    "children": [
+     {
+      "title": "Obrigatoriedade, dispensa, inexigibilidade e vedação da licitação"
+     },
+     {
+      "title": "Procedimentos, anulação e revogação"
+     },
+     {
+      "title": "Modalidades de licitação"
+     }
+    ]
+   },
+   {
+    "title": "Lei nº 14.133/2021"
+   },
+   {
+    "title": "Funcionamento do Registro de Preços Nacional (RPN)"
+   },
+   {
+    "title": "Lei nº 13.303/2016"
+   },
+   {
+    "title": "Decreto nº 8.945/2016"
+   },
+   {
+    "title": "Contratos administrativos: conceito, características e interpretação"
+   },
+   {
+    "title": "Reequilíbrio econômico-financeiro"
+   },
+   {
+    "title": "Gestão de convênios e outros instrumentos de cooperação"
+   },
+   {
+    "title": "Gestão operacional de contratos e convênios"
+   },
+   {
+    "title": "Modelos de gestão da qualidade para organizações; Conceitos e requisitos das normas de gestão da qualidade"
+   },
+   {
+    "title": "Conceitos: Modelagem de Processos e Gestão da operação - processos e projetos"
+   },
+   {
+    "title": "Os controles interno e externo"
+   },
+   {
+    "title": "Responsabilização e Prestação de Contas"
+   },
+   {
+    "title": "Política de Desenvolvimento Produtivo"
+   },
+   {
+    "title": "Complexo Industrial de Saúde"
+   },
+   {
+    "title": "Lei nº 12.527/2011"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 25,
+  "title": "Logística Farmacêutica 2",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": true,
+  "children": [
+   {
+    "title": "Administração Pública",
+    "children": [
+     {
+      "title": "Legislação que regula as licitações e os contratos da administração pública"
+     },
+     {
+      "title": "Estudos técnicos preliminares para contratação de itens e serviços"
+     },
+     {
+      "title": "Fiscalização de contratos públicos"
+     },
+     {
+      "title": "Princípios do processo administrativo"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Estoque e de Armazém",
+    "children": [
+     {
+      "title": "O que é estoque"
+     },
+     {
+      "title": "Razões para surgimento de estoques"
+     },
+     {
+      "title": "Tipos de estoque"
+     },
+     {
+      "title": "Parâmetros para cálculo de estoque"
+     },
+     {
+      "title": "Natureza da demanda dos materiais: demanda independente e demanda dependente"
+     },
+     {
+      "title": "Conceito de Stock Keeping Unit (SKU)"
+     },
+     {
+      "title": "Classificação e codificação de materiais"
+     },
+     {
+      "title": "Padrão Descritivo de Materiais (PDM)"
+     },
+     {
+      "title": "Classificações de estoque",
+      "children": [
+       {
+        "title": "XYZ"
+       },
+       {
+        "title": "PQR"
+       },
+       {
+        "title": "123 e ABC"
+       }
+      ]
+     },
+     {
+      "title": "Nível de serviço para determinar o tamanho do estoque"
+     },
+     {
+      "title": "Controle e gerenciamento de estoques"
+     },
+     {
+      "title": "Estoque de segurança"
+     },
+     {
+      "title": "Lead time"
+     },
+     {
+      "title": "Ponto de reposição"
+     },
+     {
+      "title": "Lote econômico de compra"
+     },
+     {
+      "title": "Armazenagem própria vs terceirizada"
+     },
+     {
+      "title": "Sistema de Gerenciamento de Armazéns (WMS)"
+     },
+     {
+      "title": "Coletor de dados para operações no armazém"
+     },
+     {
+      "title": "Processos de armazenagem",
+      "children": [
+       {
+        "title": "Recebimento"
+       },
+       {
+        "title": "Armazenagem"
+       },
+       {
+        "title": "Separação e expedição"
+       }
+      ]
+     },
+     {
+      "title": "Estratégias de estocagem",
+      "children": [
+       {
+        "title": "Endereçamento"
+       },
+       {
+        "title": "Regras de estocagem"
+       },
+       {
+        "title": "Estocagem fixa e estocagem dinâmica"
+       }
+      ]
+     },
+     {
+      "title": "FIFO, FEFO, LIFO"
+     },
+     {
+      "title": "Processo de inventário"
+     },
+     {
+      "title": "Tipos de inventário: geral e rotativo"
+     },
+     {
+      "title": "Indicadores de desempenho de armazém"
+     },
+     {
+      "title": "Consolidação de cargas e cross-docking"
+     },
+     {
+      "title": "Equipamentos para movimentação interna de materiais"
+     },
+     {
+      "title": "Tipos de estruturas e de sistemas de estocagem de materiais"
+     },
+     {
+      "title": "Administração de materiais na administração pública e legislação pertinente"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Transporte",
+    "children": [
+     {
+      "title": "Órgãos reguladores do transporte de carga nacional"
+     },
+     {
+      "title": "Seleção de modais para transporte"
+     },
+     {
+      "title": "Custos e modalidades de precificação de transportes"
+     },
+     {
+      "title": "Conceito de AD-VALOREM e GRIS"
+     },
+     {
+      "title": "Transporte próprio vs terceirizado"
+     },
+     {
+      "title": "Aplicação de tecnologia da informação na área de transportes"
+     },
+     {
+      "title": "Modelos de transporte (cargas fechadas, cargas fracionadas, milk-run, etc.)"
+     },
+     {
+      "title": "Seguros no transporte de cargas"
+     },
+     {
+      "title": "Tipos de veículos de transporte rodoviário de carga"
+     },
+     {
+      "title": "Tipos de containers para transporte marítimo e aéreo"
+     },
+     {
+      "title": "Noções básicas de tributos inerentes ao processo de transporte"
+     },
+     {
+      "title": "CTRC (Conhecimento de Transporte Rodoviário de Cargas), BL (Bill of Lading), Air Waybill (AWB), MAWB (Master Air Waybill), HAWB (House Air Waybill)"
+     },
+     {
+      "title": "Indicadores de desempenho das atividades de transportes"
+     },
+     {
+      "title": "Acordo de nível de serviço em transportes"
+     },
+     {
+      "title": "Soluções para transporte de cadeia fria: ativo e passivo"
+     },
+     {
+      "title": "Logística reversa e sustentabilidade"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Intralogística",
+    "children": [
+     {
+      "title": "Conceito de intralogística"
+     },
+     {
+      "title": "Otimização da intralogistica"
+     },
+     {
+      "title": "Movimentação manual, mecanizada e automatizada"
+     },
+     {
+      "title": "Unitização de cargas"
+     },
+     {
+      "title": "Mapeamento do fluxo de materiais"
+     }
+    ]
+   },
+   {
+    "title": "Comércio Internacional",
+    "children": [
+     {
+      "title": "Princípios gerais do comércio exterior"
+     },
+     {
+      "title": "Órgãos reguladores no comércio exterior"
+     },
+     {
+      "title": "Noções de NCM (Nomenclatura Comum do Mercosul)"
+     },
+     {
+      "title": "Principais regimes alfandegários"
+     },
+     {
+      "title": "Conceito de exportação temporária para aperfeiçoamento passivo"
+     },
+     {
+      "title": "INCOTERMS"
+     },
+     {
+      "title": "Tipos de seguros de cargas no transporte internacional"
+     },
+     {
+      "title": "Principais tributos na nacionalização das cargas"
+     }
+    ]
+   },
+   {
+    "title": "Afrmm",
+    "children": [
+     {
+      "title": "Taxa da marinha mercante"
+     },
+     {
+      "title": "Conceito de zona primária e zona secundária"
+     },
+     {
+      "title": "Conceito de DTA (Declaração de Trânsito Aduaneiro) e de DTC (Declaração de Trânsito de Container)"
+     },
+     {
+      "title": "Conceito de agente de carga e armador"
+     },
+     {
+      "title": "Etapas do desembaraço aduaneiro"
+     },
+     {
+      "title": "Presença de carga"
+     },
+     {
+      "title": "Licença de importação"
+     },
+     {
+      "title": "Declaração de importação"
+     },
+     {
+      "title": "Declaração Única de Exportação"
+     },
+     {
+      "title": "SISCOMEX - Sistema Integrado de Comércio Exterior e módulo LPCO"
+     }
+    ]
+   },
+   {
+    "title": "Gestão da Cadeia de Suprimentos",
+    "children": [
+     {
+      "title": "Conceito de cadeia de suprimentos"
+     },
+     {
+      "title": "O papel da logística dentro da cadeia de suprimentos"
+     },
+     {
+      "title": "Cadeia de suprimentos sincrônica"
+     },
+     {
+      "title": "Tecnologia da informação na otimização da cadeia de suprimentos"
+     },
+     {
+      "title": "Sustentabilidade na cadeia de suprimentos"
+     }
+    ]
+   },
+   {
+    "title": "Planejamento, Programação e Controle da Produção e dos Materiais",
+    "children": [
+     {
+      "title": "Tipos de sistemas de administração da produção"
+     },
+     {
+      "title": "Os princípios da manufatura enxuta"
+     },
+     {
+      "title": "Noções de planejamento de demanda e S&OP (Sales and Operations Planning)"
+     },
+     {
+      "title": "Planejamento agregado, plano mestre de produção"
+     },
+     {
+      "title": "Sequenciamento, programação e controle da produção"
+     },
+     {
+      "title": "Técnicas de planejamento da produção e de materiais: MRP, JIT-Kanban e OPT"
+     }
+    ]
+   },
+   {
+    "title": "Sistemas de Informação",
+    "children": [
+     {
+      "title": "Conceito de ERP, MRP, MRP II, TMS, WMS"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Fornecedores",
+    "children": [
+     {
+      "title": "Gestão de performance e indicadores de fornecedores logísticos e de materiais (SLA, KPIs de qualidade, contratos, acordos de qualidade)"
+     },
+     {
+      "title": "Programas para desenvolvimento de fornecedores logísticos e de materiais"
+     }
+    ]
+   },
+   {
+    "title": "Melhoria Contínua",
+    "children": [
+     {
+      "title": "PDCA, Kaizen, Lean Manufacturing, Six Sigma, 5S, DMAIC, Gemba, MASP"
+     }
+    ]
+   },
+   {
+    "title": "Gestão da Qualidade",
+    "children": [
+     {
+      "title": "Logística Farmacêutica"
+     },
+     {
+      "title": "Estabilidade de produtos farmacêuticos"
+     },
+     {
+      "title": "Habilitação e licenças de empresas para transporte e armazenagem de produtos farmacêuticos"
+     },
+     {
+      "title": "Conceito de qualificação térmica de equipamentos e instalações"
+     },
+     {
+      "title": "Conceito de mapeamento térmico de rotas"
+     },
+     {
+      "title": "Conceito de controle e monitoramento de temperatura e umidade no transporte e na armazenagem"
+     },
+     {
+      "title": "Boas Práticas de Armazenamento"
+     },
+     {
+      "title": "Transporte e Distribuição de insumos químicos ou farmoquímicos e medicamentos"
+     },
+     {
+      "title": "Incluindo certificações atinentes (BPAD, BPT, BPF)"
+     },
+     {
+      "title": "Conceito de Sistema de Gestão da Qualidade"
+     },
+     {
+      "title": "Auditorias e inspeções: medição, análise e ações para melhoria"
+     },
+     {
+      "title": "Rastreabilidade no transporte e no armazenamento de produtos"
+     },
+     {
+      "title": "Plano de gerenciamento de resíduos"
+     }
+    ]
+   },
+   {
+    "title": "Gestão de Riscos",
+    "children": [
+     {
+      "title": "Conceito de risco e de gestão de riscos"
+     },
+     {
+      "title": "Ishikawa"
+     },
+     {
+      "title": "FMEA - Análise dos Modos de Falha e seus Efeitos"
+     },
+     {
+      "title": "Matriz de probabilidade e impacto"
+     },
+     {
+      "title": "Plano de contingência"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 26,
+  "title": "Orçamento e Finanças",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conhecimentos de Macro e Microeconomia no cenário nacional e internacional globalizado"
+   },
+   {
+    "title": "Finanças públicas",
+    "children": [
+     {
+      "title": "Princípios do orçamento"
+     },
+     {
+      "title": "Evolução do orçamento"
+     },
+     {
+      "title": "Ciclo orçamentário, PPA - Plano Plurianual LDO - Lei das Diretrizes Orçamentárias, LOA - Lei Orçamentária Anual e sua execução"
+     },
+     {
+      "title": "Planejamento, elaboração, acompanhamento e análise orçamentária"
+     },
+     {
+      "title": "Classificação funcional e por programas"
+     }
+    ]
+   },
+   {
+    "title": "Responsabilidades do gestor"
+   },
+   {
+    "title": "Planejamento e orçamento na CF e LRF"
+   },
+   {
+    "title": "Lei n.º 6.404/76 e Lei 13.303/2016"
+   },
+   {
+    "title": "Controle e Gestão Tributária: aspectos Fiscais aplicados em contas a pagar e a receber"
+   },
+   {
+    "title": "Finanças Corporativas",
+    "children": [
+     {
+      "title": "Visão geral de finanças"
+     },
+     {
+      "title": "Análise financeira de investimentos"
+     },
+     {
+      "title": "Risco e retorno"
+     },
+     {
+      "title": "Gestão do fluxo de caixa"
+     },
+     {
+      "title": "Técnicas de controle e análise do fluxo de caixa"
+     }
+    ]
+   },
+   {
+    "title": "Análise econômico financeira",
+    "children": [
+     {
+      "title": "Aspectos gerais da análise econômico-financeira"
+     },
+     {
+      "title": "Análise das demonstrações financeiras"
+     },
+     {
+      "title": "Análise horizontal e vertical"
+     },
+     {
+      "title": "Análise por indicadores"
+     },
+     {
+      "title": "Necessidade de capital de giro"
+     }
+    ]
+   },
+   {
+    "title": "Matemática financeira",
+    "children": [
+     {
+      "title": "Juros simples e juros compostos"
+     },
+     {
+      "title": "Equivalência"
+     },
+     {
+      "title": "Descontos"
+     },
+     {
+      "title": "Métodos de amortização"
+     },
+     {
+      "title": "Séries de pagamentos"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 27,
+  "title": "Planejamento Estratégico",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Gestão Estratégica: Estruturas Organizacionais, Estratégia Organizacional e Planejamento Estratégico Empresarial"
+   },
+   {
+    "title": "Abordagens e métodos de planejamento: Análise SWOT, Matriz BCG"
+   },
+   {
+    "title": "Balanced Scored Card"
+   },
+   {
+    "title": "Planejamento Estratégico Situacional"
+   },
+   {
+    "title": "Gerenciamento Pelas Diretrizes"
+   },
+   {
+    "title": "Análise de cenários"
+   },
+   {
+    "title": "Análise do ambiente interno"
+   },
+   {
+    "title": "Análise da Vantagem Competitiva e Posicionamento Estratégico"
+   },
+   {
+    "title": "Gestão de planos estratégicos e operacionais"
+   },
+   {
+    "title": "Indicadores de Desempenho Organizacional"
+   },
+   {
+    "title": "Gestão da Inovação"
+   },
+   {
+    "title": "Gestão do Conhecimento"
+   },
+   {
+    "title": "Gestão de Riscos"
+   },
+   {
+    "title": "Governança Corporativa e Environmental, Social and Govennance (ESG)"
+   },
+   {
+    "title": "Administração de Sistemas de Informação",
+    "children": [
+     {
+      "title": "Sistemas Operacionais"
+     },
+     {
+      "title": "Sistemas de Apoio à Decisão"
+     },
+     {
+      "title": "Business Intelligence"
+     }
+    ]
+   },
+   {
+    "title": "Administração Financeira e Orçamentária",
+    "children": [
+     {
+      "title": "Matemática Financeira"
+     },
+     {
+      "title": "Valor do Dinheiro no Tempo"
+     },
+     {
+      "title": "Juros Simples e Compostos"
+     },
+     {
+      "title": "Taxa de Juros Nominal"
+     },
+     {
+      "title": "Real"
+     },
+     {
+      "title": "Efetiva e Aparente"
+     }
+    ]
+   },
+   {
+    "title": "Risco x Retorno"
+   },
+   {
+    "title": "Análise de Investimentos"
+   },
+   {
+    "title": "Alavancagem e Endividamento"
+   },
+   {
+    "title": "Planejamento Financeiro e Orçamentário"
+   },
+   {
+    "title": "Contabilidade Geral"
+   },
+   {
+    "title": "Contabilidade de Custos"
+   },
+   {
+    "title": "Contabilidade Gerencial"
+   },
+   {
+    "title": "Administração do Capital de Giro"
+   },
+   {
+    "title": "Fontes de Financiamento à Longo Prazo"
+   },
+   {
+    "title": "Métodos de Avaliação de Fluxos de Caixa (TIR, VPL)"
+   },
+   {
+    "title": "Custo de oportunidade"
+   },
+   {
+    "title": "Estrutura de Capital e Custo de Capital"
+   },
+   {
+    "title": "Modelo de Precificação de Ativos (Capital AssetPricingModel - CAPM)"
+   },
+   {
+    "title": "Custo Médio Ponderado de Capital (WeightedAverageCostofCapital - WACC)"
+   },
+   {
+    "title": "Gestão de Projetos: Gerenciamento de Protfólio"
+   },
+   {
+    "title": "Escritório de Projetos (PMO)"
+   },
+   {
+    "title": "Determinação dos requisitos, Diagrama de Rede, Caminho Crítico, Folgas, Estrutura Analítica do Projeto"
+   },
+   {
+    "title": "Estudo de viabilidade técnica e econômica"
+   },
+   {
+    "title": "O conceito e os objetivos da gerência de projetos"
+   },
+   {
+    "title": "Abertura e definição do escopo de um projeto"
+   },
+   {
+    "title": "Planejamento de um projeto"
+   },
+   {
+    "title": "Execução, acompanhamento e controle de um projeto"
+   },
+   {
+    "title": "Revisão e avaliação de um projeto"
+   },
+   {
+    "title": "Fechamento de um projeto"
+   },
+   {
+    "title": "Metodologias, técnicas e ferramentas da gerência de projetos"
+   },
+   {
+    "title": "Metodologias Ágeis (SCRUM e KANBAN); Gerenciamento das Aquisições do Projeto"
+   },
+   {
+    "title": "PMBOOK 7ª Edição: Princípios de Entrega de Projetos, Domínios de Desempenho do Projeto"
+   },
+   {
+    "title": "Abordagens Preditivas, Adaptativas e Híbridas"
+   },
+   {
+    "title": "Gestão de Processos",
+    "children": [
+     {
+      "title": "Indicadores de desempenho de processos"
+     },
+     {
+      "title": "Conceitos de gestão de processos integrados de negócios (BPM)"
+     },
+     {
+      "title": "Modelagem do processo atual (as is) e futuro (to be)"
+     },
+     {
+      "title": "Processos, subprocessos e atividades"
+     },
+     {
+      "title": "Identificação de processos"
+     },
+     {
+      "title": "Conceitos de Processos e Funções"
+     },
+     {
+      "title": "Eficiência e Eficácia"
+     },
+     {
+      "title": "Técnicas de controle"
+     }
+    ]
+   },
+   {
+    "title": "Macroprocessos, Cadeia de Valor"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   },
+   {
+    "title": "Seis Sigma Green Belt"
+   },
+   {
+    "title": "Conhecimentos de Economia: Contabilidade Nacional"
+   },
+   {
+    "title": "Inflação"
+   },
+   {
+    "title": "Produto Interno Bruto"
+   },
+   {
+    "title": "Desemprego"
+   },
+   {
+    "title": "Déficit Público e Dívida Pública"
+   },
+   {
+    "title": "Balanço de Pagamentos"
+   },
+   {
+    "title": "Política Fiscal"
+   },
+   {
+    "title": "Política Monetária"
+   },
+   {
+    "title": "Política Cambial"
+   },
+   {
+    "title": "Microeconomia: Curva de Demanda: oferta, demanda e elasticidade preço e renda"
+   },
+   {
+    "title": "Externalidades"
+   },
+   {
+    "title": "Economia Industrial"
+   },
+   {
+    "title": "Métodos Quantitativos",
+    "children": [
+     {
+      "title": "Sentido lógico-matemático convencional dos conectivos"
+     },
+     {
+      "title": "Argumentos"
+     },
+     {
+      "title": "A lógica sentencial"
+     },
+     {
+      "title": "A lógica de predicados de primeira ordem"
+     },
+     {
+      "title": "Regras de formação de fórmulas"
+     },
+     {
+      "title": "Sistemas dedutivos"
+     },
+     {
+      "title": "Decidibilidade da lógica sentencial"
+     },
+     {
+      "title": "Valores-verdade"
+     },
+     {
+      "title": "Funções de avaliação"
+     }
+    ]
+   },
+   {
+    "title": "Programação Linear"
+   },
+   {
+    "title": "Estatística descritiva"
+   },
+   {
+    "title": "Medidas de tendência central e medidas de dispersão"
+   },
+   {
+    "title": "Probabilidade"
+   },
+   {
+    "title": "Independência de Eventos"
+   },
+   {
+    "title": "Teorema de Bayes"
+   },
+   {
+    "title": "Principais teoremas da Probabilidade"
+   },
+   {
+    "title": "Variáveis aleatórias"
+   },
+   {
+    "title": "Funções de distribuição e densidade de probabilidade"
+   },
+   {
+    "title": "Esperança matemática, variância, covariância e correlação"
+   },
+   {
+    "title": "Distribuições conjuntas e marginais, distribuições condicionais, independência estatística"
+   },
+   {
+    "title": "Principais distribuições discretas e contínuas"
+   },
+   {
+    "title": "Inferência estatística"
+   },
+   {
+    "title": "Estimação pontual e intervalar"
+   },
+   {
+    "title": "Métodos de estimação Propriedades dos estimadores em pequenas amostras"
+   },
+   {
+    "title": "Propriedades assintóticas"
+   },
+   {
+    "title": "Análise de regressão linear simples"
+   },
+   {
+    "title": "Pressupostos básicos"
+   },
+   {
+    "title": "Intervalos de confiança"
+   },
+   {
+    "title": "Teste de hipóteses"
+   }
+  ]
+ },
+ {
+  "code": 28,
+  "title": "Tecnologia da Informação",
+  "cargo": "Analista Administrativo de Assuntos Corporativos",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Banco de Dados: Tecnologia de banco de dados (Principais características dos SGBDs; Módulos e Componentes)"
+   },
+   {
+    "title": "Bancos de dados distribuídos; Replicação"
+   },
+   {
+    "title": "Arquitetura, modelos lógicos e representação física"
+   },
+   {
+    "title": "Implementação de SGBDs relacionais"
+   },
+   {
+    "title": "Modelagem entidade-relacionamento"
+   },
+   {
+    "title": "Dicionário de dados e normalização de dados"
+   },
+   {
+    "title": "Comandos DDL e DML"
+   },
+   {
+    "title": "Consultas avançadas em SQL"
+   },
+   {
+    "title": "Programação Transact-SQL"
+   },
+   {
+    "title": "Programação PL-SQL"
+   },
+   {
+    "title": "Administração Básica de Banco de Dados Microsoft SQL Server e ORACLE"
+   },
+   {
+    "title": "Conhecimentos de BI (Modelagem de Datamarts e ETL)"
+   },
+   {
+    "title": "Conceitos de Big Data e Analytics"
+   },
+   {
+    "title": "Redes de Computadores e Sistemas distribuídos: Topologias de redes de computadores"
+   },
+   {
+    "title": "Arquitetura e protocolos de redes de comunicação"
+   },
+   {
+    "title": "Tecnologias de redes locais Ethernet/Fast Ethernet/Gigabit Ethernet"
+   },
+   {
+    "title": "Elementos de interconexão de redes de computadores (gateways, hubs, repetidores, bridges, switches, roteadores)"
+   },
+   {
+    "title": "Aplicações de voz e imagem sobre redes"
+   },
+   {
+    "title": "Modelo de referência OSI"
+   },
+   {
+    "title": "Conjunto de Protocolos TCP/IP"
+   },
+   {
+    "title": "Sistemas de telecomunicações; Gerenciamento de redes; Comunicação sem fio e mobilidade; Plataformas e aplicações distribuídas"
+   },
+   {
+    "title": "Sistemas operacionais baseados em Linux"
+   },
+   {
+    "title": "Sistemas operacionais Windows Server 2003 e 2008"
+   },
+   {
+    "title": "Conceitos de virtualização: Hyper-V, VMware e Xen"
+   },
+   {
+    "title": "Infraestrutura de chave pública (PKI)"
+   },
+   {
+    "title": "Soluções de Armazenamento RAID, SAN e NAS"
+   },
+   {
+    "title": "Contingência e continuidade de operação"
+   },
+   {
+    "title": "Conceitos de processamento em Cloud"
+   },
+   {
+    "title": "Segurança da Informação: Gerência de Riscos"
+   },
+   {
+    "title": "Controles de acesso físico e lógico"
+   },
+   {
+    "title": "Plano de Continuidade de Negócio (plano de contingência e de recuperação de desastres) e Alta Disponibilidade"
+   },
+   {
+    "title": "Conceitos de backup e recuperação de dados"
+   },
+   {
+    "title": "Tratamento de incidentes e problemas"
+   },
+   {
+    "title": "Vírus de computador e outros malwares (cavalos de troia, adware, spyware, backdoors, keyloggers, worms, bots, botnets, rootkits)"
+   },
+   {
+    "title": "Ataques e proteções relativos a hardware, software, sistemas operacionais, aplicações, bancos de dados, redes, pessoas e ambiente físico"
+   },
+   {
+    "title": "Segurança de Redes: Arquiteturas de firewalls, Ataques e ameaças da Internet e de redes sem fio (phishing/scam, spoofing, DoS, flood)"
+   },
+   {
+    "title": "Criptografia",
+    "children": [
+     {
+      "title": "Conceitos básicos de criptografia"
+     },
+     {
+      "title": "Sistemas criptográficos simétricos e de chave pública"
+     },
+     {
+      "title": "Certificação e assinatura digital"
+     },
+     {
+      "title": "Características dos principais protocolos criptográficos"
+     }
+    ]
+   },
+   {
+    "title": "NBR ISO/IEC 27001 e 27002: Estrutura, objetivos e conceitos gerais"
+   },
+   {
+    "title": "Conceitos e metodologia de implantação de BYOD (Bring Your Own Device)"
+   },
+   {
+    "title": "Engenharia de Software",
+    "children": [
+     {
+      "title": "Planejamento e gerenciamento do desenvolvimento de software"
+     },
+     {
+      "title": "Engenharia de requisitos e validação de sistemas"
+     },
+     {
+      "title": "Arquitetura de software e padrões de projeto"
+     },
+     {
+      "title": "Conceitos e implementação de linguagens de programação"
+     }
+    ]
+   },
+   {
+    "title": "Orientação a objetos (herança, polimorfismo, encapsulamento, interfaces, pacotes etc.)"
+   },
+   {
+    "title": "Gerência de projetos de software (PMBoK)"
+   },
+   {
+    "title": "Métricas de sistema: métricas de projeto, de implementação e de resultados"
+   },
+   {
+    "title": "Estimativa e planejamento de software"
+   },
+   {
+    "title": "Parâmetros de desempenho e garantia de qualidade de software"
+   },
+   {
+    "title": "Metodologias de desenvolvimento ágeis: SCRUM e XP"
+   },
+   {
+    "title": "Gerenciamento de Configuração e Controle de Versão"
+   },
+   {
+    "title": "Governança de TI",
+    "children": [
+     {
+      "title": "Cobit"
+     },
+     {
+      "title": "Gerenciamento de serviços de TI com ITIL"
+     },
+     {
+      "title": "Gerenciamento de projetos com PMBoK"
+     },
+     {
+      "title": "Aquisições de TI (IN 04/2010)"
+     },
+     {
+      "title": "Gestão de mudanças"
+     },
+     {
+      "title": "Gerenciamento de projetos de implantação de ERPs"
+     }
+    ]
+   },
+   {
+    "title": "Tecnologias Web: Tecnologias para desenvolvimento de aplicações web com Ajax"
+   },
+   {
+    "title": "Framework ágil de desenvolvimento web"
+   },
+   {
+    "title": "APIs Java para processamento de documentos RSS e Atom"
+   },
+   {
+    "title": "Chamada de procedimentos remotos baseados em XML e http"
+   },
+   {
+    "title": "Desenvolvimento e consumo de Web Services REST"
+   },
+   {
+    "title": "Web semântica"
+   },
+   {
+    "title": "Web Ontology Language (OWL); RDF (Resource Description Framework) e RDF Schema"
+   },
+   {
+    "title": "Redes Sociais e Web Analytics"
+   },
+   {
+    "title": "Conhecimento avançado em IoT (internet das coisas) e automação industrial voltado para TIC"
+   },
+   {
+    "title": "Conhecimento em Voz sobre Protocolo de Internet (VOIP)"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 29,
+  "title": "Armazenamento e Distribuição de Medicamentos",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Inspeção de indústrias farmacêuticas"
+   },
+   {
+    "title": "Política nacional de medicamentos"
+   },
+   {
+    "title": "Legislação farmacêutica: Lei Federal n° 5.991/73"
+   },
+   {
+    "title": "RDC n° 625/2022 (Anvisa)"
+   },
+   {
+    "title": "Guia para Qualificação de transporte de produtos biológicos (Anvisa, versão 2, 2017)"
+   },
+   {
+    "title": "Lei Federal n° 6.437/77"
+   },
+   {
+    "title": "Resolução n° 207/2018 (Anvisa)"
+   },
+   {
+    "title": "Instrução Normativa n° 131/2022 (Anvisa)"
+   },
+   {
+    "title": "Instrução Normativa n° 139/2022 (Anvisa)"
+   },
+   {
+    "title": "Resolução n° 430/2020 (Anvisa)"
+   },
+   {
+    "title": "Princípios básicos para controle de estoque",
+    "children": [
+     {
+      "title": "Avaliação"
+     },
+     {
+      "title": "Previsão"
+     },
+     {
+      "title": "Custo e níveis de estoque"
+     }
+    ]
+   },
+   {
+    "title": "Ponto de ressuprimento"
+   },
+   {
+    "title": "Estoque de segurança"
+   },
+   {
+    "title": "Controle informatizado de estoque (WMS - Warehouse Management Systems)"
+   },
+   {
+    "title": "Farmacovigilância e Hemovigilância"
+   },
+   {
+    "title": "Probabilidade e Estatística"
+   },
+   {
+    "title": "Controle de qualidade de medicamentos biológicos"
+   },
+   {
+    "title": "Garantia de qualidade aplicada à indústria farmacêutica"
+   },
+   {
+    "title": "Boas práticas de fabricação aplicadas à indústria farmacêutica"
+   },
+   {
+    "title": "Boas Práticas de Armazenamento e Distribuição de medicamentos"
+   },
+   {
+    "title": "Conhecimentos de Logística Farmacêutica"
+   },
+   {
+    "title": "Gestão de desvios da qualidade e controle de mudança"
+   },
+   {
+    "title": "Gestão de equipamentos (calibração e manutenção)"
+   },
+   {
+    "title": "Padronização de procedimentos"
+   },
+   {
+    "title": "Gestão de fornecedores"
+   },
+   {
+    "title": "A cadeia do frio para armazenamento e transporte de medicamentos/insumos"
+   },
+   {
+    "title": "Qualificação de equipamentos e validação de processos aplicados ao armazenamento e transporte de medicamentos/insumos"
+   },
+   {
+    "title": "Instrumentos para controle/monitoramento de temperatura aplicados ao armazenamento e transporte de medicamentos/insumos"
+   },
+   {
+    "title": "Normas para a conservação de hemoderivados e medicamentos biotecnológicos"
+   },
+   {
+    "title": "Análise e Gerenciamento de Risco na Indústria aplicada às operações logísticas dos medicamentos"
+   },
+   {
+    "title": "Tipos e características dos hemoderivados e dos seus sucedâneos recombinantes"
+   },
+   {
+    "title": "Inglês técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 30,
+  "title": "Assuntos Regulatórios",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Domínio das Legislações e assuntos relacionados a",
+    "children": [
+     {
+      "title": "Registro e pós-registro de medicamentos biológicos"
+     },
+     {
+      "title": "Farmacovigilância Medicamentos"
+     },
+     {
+      "title": "Serviço de Atendimento ao Consumidor (SAC)"
+     },
+     {
+      "title": "Boas Práticas de Fabricação"
+     },
+     {
+      "title": "Rotulagem de Medicamentos"
+     },
+     {
+      "title": "Bulas de Medicamentos"
+     },
+     {
+      "title": "Armazenagem e Distribuição de Medicamentos"
+     },
+     {
+      "title": "Banco de Células Mestre (BCM) e Banco de Células de Trabalho (BCT)"
+     },
+     {
+      "title": "Autorização de Funcionamento"
+     },
+     {
+      "title": "Certificações Sanitárias"
+     }
+    ]
+   },
+   {
+    "title": "Conhecimentos sobre validação de processo, validação de limpeza, validação de métodos analíticos e validação de transporte da cadeia do frio"
+   },
+   {
+    "title": "Conhecimentos sobre produção de medicamentos Hemoderivados e Biotecnológicos; Conhecimentos sobre processo de fabricação de medicamentos injetáveis estéreis"
+   },
+   {
+    "title": "Conhecimento sobre Histórico de Mudança de Produto (HMP)"
+   },
+   {
+    "title": "Conhecimento sobre processos e legislações da Cãmara de Regulação de Mercado de Medicamentos (CMED)"
+   },
+   {
+    "title": "Conhecimentos sobre as atividades administrativas da Anvisa como: peticionamento eletrônico e presencial"
+   },
+   {
+    "title": "Cumprimento de exigências"
+   },
+   {
+    "title": "Canais de comunicação com a agência"
+   },
+   {
+    "title": "Noções sobre Inteligência e Estratégias Regulatórias"
+   },
+   {
+    "title": "Noções sobre Direto Sanitário"
+   },
+   {
+    "title": "Inglês Técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 31,
+  "title": "Controle da Qualidade 1",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Geral",
+    "children": [
+     {
+      "title": "Boas práticas de laboratório: Pipetagem"
+     },
+     {
+      "title": "Diluições"
+     },
+     {
+      "title": "Medições volumétricas"
+     },
+     {
+      "title": "Preparo de soluções"
+     }
+    ]
+   },
+   {
+    "title": "Biossegurança em laboratório",
+    "children": [
+     {
+      "title": "EPI e EPC aplicáveis"
+     },
+     {
+      "title": "Prevenção dos acidentes de laboratório"
+     },
+     {
+      "title": "Condutas de emergência nos acidentes de laboratório"
+     }
+    ]
+   },
+   {
+    "title": "Resíduos: Resolução Anvisa RDC nº 222, de 28 de março de 2018"
+   },
+   {
+    "title": "Boas práticas de fabricação de medicamentos: Resolução Anvisa RDC nº 658/2022"
+   },
+   {
+    "title": "Amostragem: Instrução normativa Anvisa nº 131/2022"
+   },
+   {
+    "title": "Hemoderivados: Instrução normativa Anvisa nº 137/2022"
+   },
+   {
+    "title": "Qualificação e validação: Instrução Normativa Anvisa nº 138/2022"
+   },
+   {
+    "title": "Amostras de referência e retenção: Instrução normativa Anvisa nº 139/2022"
+   },
+   {
+    "title": "Validação analítica: Resolução Anvisa RDC nº 166/2017"
+   },
+   {
+    "title": "Investigação de Resultados Fora de Especificação: Guia nº 8/2017 - Versão 3, de 4 de março de 2022"
+   },
+   {
+    "title": "Biologia molecular",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação de reações de biologia molecular no controle de qualidade de hemoderivados e produtos biológicos: PCR, NASBA/TMA, bDNA"
+     },
+     {
+      "title": "Técnicas de \"poolagem\" para testes NAT"
+     }
+    ]
+   },
+   {
+    "title": "Plataformas automatizadas para realização de testes de biologia molecular"
+   },
+   {
+    "title": "Microbiologia",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade microbiológico de produtos estéreis, água para uso farmacêutico, matérias-primas e áreas limpas: Filtração em membrana e inoculação direta em meio de cultura"
+     },
+     {
+      "title": "Tipos de meio de cultura utilizados na indústria farmacêutica e suas aplicações"
+     },
+     {
+      "title": "Técnicas de repique, incubação e isolamento de micro-organismos"
+     },
+     {
+      "title": "Técnicas automáticas e manuais de identificação de micro-organismos"
+     },
+     {
+      "title": "Teste de esterilidade"
+     },
+     {
+      "title": "Descontaminação, esterilização, desinfecção e antissepsia"
+     },
+     {
+      "title": "Pesquisa de endotoxinas bacterianas"
+     },
+     {
+      "title": "Instrução normativa Anvisa nº 35, de 21 de agosto de 2019"
+     },
+     {
+      "title": "Guia da Qualidade para Sistemas de Tratamento de Ar e Monitoramento Ambiental na Indústria Farmacêutica - Anvisa"
+     }
+    ]
+   },
+   {
+    "title": "Bioquímica e Físico-química",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade físico-químico de produtos biológicos, água para uso farmacêutico e matérias-primas: Espectrofotometria no ultravioleta e visível"
+     },
+     {
+      "title": "Espectrofotometria no infravermelho médio e próximo"
+     },
+     {
+      "title": "Espectrometria de emissão atômica"
+     },
+     {
+      "title": "Cromatografia liquida de alta eficiência (HPLC)"
+     },
+     {
+      "title": "Cromatografia gasosa"
+     },
+     {
+      "title": "Titulação de Karl Fischer"
+     },
+     {
+      "title": "Titulação potenciométrica"
+     },
+     {
+      "title": "PHmetria"
+     },
+     {
+      "title": "Condutivimetria"
+     },
+     {
+      "title": "Alcoometria"
+     },
+     {
+      "title": "Polarimetria"
+     },
+     {
+      "title": "Refratometria"
+     },
+     {
+      "title": "Carbono orgânico total"
+     },
+     {
+      "title": "Nefelometria"
+     },
+     {
+      "title": "Eletroforese de proteínas"
+     },
+     {
+      "title": "Dosagem de fatores da coagulação por técnicas coagulométricas e por substrato cromogênico"
+     }
+    ]
+   },
+   {
+    "title": "Controle de qualidade de materiais de embalagem",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade de materiais de embalagem primária, secundária e de transporte: Inspeção dimensional"
+     },
+     {
+      "title": "Inspeção visual"
+     },
+     {
+      "title": "Determinação da gramatura"
+     },
+     {
+      "title": "Uso e manutenção do paquímetro"
+     },
+     {
+      "title": "Utilização das normas NBR 5426/1985 e NBR 5427/1985 para determinação do número de amostras"
+     }
+    ]
+   },
+   {
+    "title": "Imunologia clínica e imuno-hematologia",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicações da imunologia clínica e imuno-hematologia no controle de qualidade de hemoderivados e produtos biológicos: Diagnóstico sorológico das doenças transmissíveis pelo sangue e hemocomponentes"
+     },
+     {
+      "title": "ELISA"
+     },
+     {
+      "title": "Imunofluorescência"
+     },
+     {
+      "title": "Quimioluminescência"
+     },
+     {
+      "title": "Western Blot"
+     },
+     {
+      "title": "Imunodifusão"
+     },
+     {
+      "title": "Pesquisa, identificação e titulação de anticorpos anti-eritrocitários"
+     },
+     {
+      "title": "Tipagem sanguínea ABO e Rh"
+     },
+     {
+      "title": "Hemoaglutinação"
+     }
+    ]
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 32,
+  "title": "Controle da Qualidade 2",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Geral",
+    "children": [
+     {
+      "title": "Boas práticas de laboratório: Pipetagem"
+     },
+     {
+      "title": "Diluições"
+     },
+     {
+      "title": "Medições volumétricas"
+     },
+     {
+      "title": "Preparo de soluções"
+     }
+    ]
+   },
+   {
+    "title": "Biossegurança em laboratório",
+    "children": [
+     {
+      "title": "EPI e EPC aplicáveis"
+     },
+     {
+      "title": "Prevenção dos acidentes de laboratório"
+     },
+     {
+      "title": "Condutas de emergência nos acidentes de laboratório"
+     }
+    ]
+   },
+   {
+    "title": "Resíduos: Resolução Anvisa RDC nº 222, de 28 de março de 2018"
+   },
+   {
+    "title": "Boas práticas de fabricação de medicamentos: Resolução Anvisa RDC nº 658/2022"
+   },
+   {
+    "title": "Amostragem: Instrução normativa Anvisa nº 131/2022"
+   },
+   {
+    "title": "Hemoderivados: Instrução normativa Anvisa nº 137/2022"
+   },
+   {
+    "title": "Qualificação e validação: Instrução Normativa Anvisa nº 138/2022"
+   },
+   {
+    "title": "Amostras de referência e retenção: Instrução normativa Anvisa nº 139/2022"
+   },
+   {
+    "title": "Validação analítica: Resolução Anvisa RDC nº 166/2017"
+   },
+   {
+    "title": "Investigação de Resultados Fora de Especificação: Guia nº 8/2017 - Versão 3, de 4 de março de 2022"
+   },
+   {
+    "title": "Biologia molecular",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação de reações de biologia molecular no controle de qualidade de hemoderivados e produtos biológicos: PCR, NASBA/TMA, bDNA"
+     },
+     {
+      "title": "Técnicas de \"poolagem\" para testes NAT"
+     }
+    ]
+   },
+   {
+    "title": "Plataformas automatizadas para realização de testes de biologia molecular"
+   },
+   {
+    "title": "Microbiologia",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade microbiológico de produtos estéreis, água para uso farmacêutico, matérias-primas e áreas limpas: Filtração em membrana e inoculação direta em meio de cultura"
+     },
+     {
+      "title": "Tipos de meio de cultura utilizados na indústria farmacêutica e suas aplicações"
+     },
+     {
+      "title": "Técnicas de repique, incubação e isolamento de micro-organismos"
+     },
+     {
+      "title": "Técnicas automáticas e manuais de identificação de micro-organismos"
+     },
+     {
+      "title": "Teste de esterilidade"
+     },
+     {
+      "title": "Descontaminação, esterilização, desinfecção e antissepsia"
+     },
+     {
+      "title": "Pesquisa de endotoxinas bacterianas"
+     },
+     {
+      "title": "Instrução normativa Anvisa nº 35, de 21 de agosto de 2019"
+     },
+     {
+      "title": "Guia da Qualidade para Sistemas de Tratamento de Ar e Monitoramento Ambiental na Indústria Farmacêutica - Anvisa"
+     }
+    ]
+   },
+   {
+    "title": "Bioquímica e Físico-química",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade físico-químico de produtos biológicos, água para uso farmacêutico e matérias-primas: Espectrofotometria no ultravioleta e visível"
+     },
+     {
+      "title": "Espectrofotometria no infravermelho médio e próximo"
+     },
+     {
+      "title": "Espectrometria de emissão atômica"
+     },
+     {
+      "title": "Cromatografia liquida de alta eficiência (HPLC)"
+     },
+     {
+      "title": "Cromatografia gasosa"
+     },
+     {
+      "title": "Titulação de Karl Fischer"
+     },
+     {
+      "title": "Titulação potenciométrica"
+     },
+     {
+      "title": "PHmetria"
+     },
+     {
+      "title": "Condutivimetria"
+     },
+     {
+      "title": "Alcoometria"
+     },
+     {
+      "title": "Polarimetria"
+     },
+     {
+      "title": "Refratometria"
+     },
+     {
+      "title": "Carbono orgânico total"
+     },
+     {
+      "title": "Nefelometria"
+     },
+     {
+      "title": "Eletroforese de proteínas"
+     },
+     {
+      "title": "Dosagem de fatores da coagulação por técnicas coagulométricas e por substrato cromogênico"
+     }
+    ]
+   },
+   {
+    "title": "Controle de qualidade de materiais de embalagem",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicação do controle de qualidade de materiais de embalagem primária, secundária e de transporte: Inspeção dimensional"
+     },
+     {
+      "title": "Inspeção visual"
+     },
+     {
+      "title": "Determinação da gramatura"
+     },
+     {
+      "title": "Uso e manutenção do paquímetro"
+     },
+     {
+      "title": "Utilização das normas NBR 5426/1985 e NBR 5427/1985 para determinação do número de amostras"
+     }
+    ]
+   },
+   {
+    "title": "Imunologia clínica e imuno-hematologia",
+    "children": [
+     {
+      "title": "Fundamentos, técnicas e aplicações da imunologia clínica e imuno-hematologia no controle de qualidade de hemoderivados e produtos biológicos: Diagnóstico sorológico das doenças transmissíveis pelo sangue e hemocomponentes"
+     },
+     {
+      "title": "ELISA"
+     },
+     {
+      "title": "Imunofluorescência"
+     },
+     {
+      "title": "Quimioluminescência"
+     },
+     {
+      "title": "Western Blot"
+     },
+     {
+      "title": "Imunodifusão"
+     },
+     {
+      "title": "Pesquisa, identificação e titulação de anticorpos anti-eritrocitários"
+     },
+     {
+      "title": "Tipagem sanguínea ABO e Rh"
+     },
+     {
+      "title": "Hemoaglutinação"
+     }
+    ]
+   },
+   {
+    "title": "Estudos de estabilidade: Resolução Anvisa RDC nº 412, de 20 de agosto de 2020"
+   },
+   {
+    "title": "Guia Anvisa nº 28/2019"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 33,
+  "title": "Controle da Qualidade 3",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Estatística geral: Análise qualificada de dados"
+   },
+   {
+    "title": "Análise de tendência"
+   },
+   {
+    "title": "Controle estatístico de processo"
+   },
+   {
+    "title": "Análise de regressão"
+   },
+   {
+    "title": "Programa SAS, SPSS, Epi Info e R Project"
+   },
+   {
+    "title": "Análise descritiva de dados"
+   },
+   {
+    "title": "Amostragem"
+   },
+   {
+    "title": "Distribuição de probabilidades"
+   },
+   {
+    "title": "Estimação e teste de hipóteses (paramétricos e não paramétricos)"
+   },
+   {
+    "title": "Tabelas de contingência"
+   },
+   {
+    "title": "Correlação, regressão linear e regressão logística"
+   },
+   {
+    "title": "Análise fatorial e coeficiente alfa de Cronbach"
+   },
+   {
+    "title": "Análise exploratória de dados"
+   },
+   {
+    "title": "Modelos de séries temporais"
+   },
+   {
+    "title": "Estatística aplicada: Planejamento de experimentos"
+   },
+   {
+    "title": "Testes estatísticos aplicados aos estudos de estabilidade de medicamentos (Resolução Anvisa RDC nº 412, de 20 de agosto de 2020, Guia Anvisa nº 28/2019 e ICH Q1E - Evaluation of Stability Data)"
+   },
+   {
+    "title": "Testes estatísticos para validação de métodos analíticos (Resolução Anvisa RDC nº 166 de 24 de julho de 2017, Guia Anvisa nº 10/2017 e ICH Q2 (R1) Validation of analytical procedures: text and methodology)"
+   },
+   {
+    "title": "Estatística aplicada à metrologia"
+   }
+  ]
+ },
+ {
+  "code": 34,
+  "title": "Engenharia Ambiental",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Legislação que regula as licitações sustentáveis e contratos da Administração Pública"
+   },
+   {
+    "title": "Sistemas de Gestão Ambiental"
+   },
+   {
+    "title": "Auditoria e avaliação de desempenho ambiental"
+   },
+   {
+    "title": "Programa Esplanada Sustentável e Agenda Ambiental na Administração Pública"
+   },
+   {
+    "title": "Desenvolvimento da Cadeia de Valor"
+   },
+   {
+    "title": "Poluição hídrica e tecnologias de tratamento dos efluentes"
+   },
+   {
+    "title": "Conhecimentos de geologia, conservação de solos e prevenção e manejo de erosões"
+   },
+   {
+    "title": "Balanços de massa e energia, produção mais limpa e estratégias de prevenção à poluição"
+   },
+   {
+    "title": "Poluição atmosférica e controle de emissões"
+   },
+   {
+    "title": "Gerenciamento de resíduos sólidos industriais"
+   },
+   {
+    "title": "Legislação ambiental atinentes às atividades-fim da Hemobrás"
+   },
+   {
+    "title": "Economia ambiental"
+   },
+   {
+    "title": "Política ambiental e desenvolvimento sustentável"
+   },
+   {
+    "title": "Licenciamento ambiental, avaliação de impactos ambientais"
+   },
+   {
+    "title": "Construções sustentáveis e certificações ambientais"
+   },
+   {
+    "title": "Riscos ambientais e estratégias de mitigação e redução"
+   },
+   {
+    "title": "Educação ambiental"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 35,
+  "title": "Engenharia de Automação e Controle",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Eletrônica digital"
+   },
+   {
+    "title": "Circuitos elétricos"
+   },
+   {
+    "title": "Instrumentação e medidas elétricas usadas em sistemas de telecomunicações e eletrônicos"
+   },
+   {
+    "title": "Sistemas lineares, não-lineares e digitais"
+   },
+   {
+    "title": "Microprocessadores e microcomputadores"
+   },
+   {
+    "title": "Instalações de segurança"
+   },
+   {
+    "title": "Sistemas digitais"
+   },
+   {
+    "title": "Princípios de comunicação"
+   },
+   {
+    "title": "Sistemas de comunicação digital"
+   },
+   {
+    "title": "Comunicações ópticas e rádio-enlaces"
+   },
+   {
+    "title": "Sistemas de som e vídeo"
+   },
+   {
+    "title": "Circuitos de sinalização e monitoramento"
+   },
+   {
+    "title": "Automação industrial",
+    "children": [
+     {
+      "title": "Controladores lógicos programáveis - CLP, Variável manipulada e variável controlada e programação"
+     },
+     {
+      "title": "Simbologia de instrumentos e equipamentos"
+     },
+     {
+      "title": "Instrumentação eletrônica e processamento de sinais"
+     },
+     {
+      "title": "Arquitetura e protocolos de redes de comunicação industrial"
+     }
+    ]
+   },
+   {
+    "title": "Redes de comunicação de dados",
+    "children": [
+     {
+      "title": "Fundamentos de redes de comunicação de dados"
+     },
+     {
+      "title": "Infraestrutura elétrica"
+     },
+     {
+      "title": "Elementos de interconexão de redes de computadores"
+     }
+    ]
+   },
+   {
+    "title": "Redes de telecomunicações",
+    "children": [
+     {
+      "title": "Fundamentos de redes de telecomunicações"
+     },
+     {
+      "title": "Infraestrutura elétrica"
+     },
+     {
+      "title": "Elementos de redes de telecomunicações"
+     }
+    ]
+   },
+   {
+    "title": "Gerenciamento de redes industriais"
+   },
+   {
+    "title": "Conceitos de virtualização: Hiper-V, VMware e Zen"
+   },
+   {
+    "title": "Soluções de Armazenamento RAID, SAN e NAS"
+   },
+   {
+    "title": "Contingência e continuidade de operação"
+   },
+   {
+    "title": "Conceitos de Segurança de redes"
+   },
+   {
+    "title": "16 Sistemas supervisórios (SCADA)"
+   },
+   {
+    "title": "Controle predial (CFTV, controle de acesso)"
+   },
+   {
+    "title": "Controle de servomecanismos"
+   },
+   {
+    "title": "Validação de Sistemas Computadorizados (GUIA ANVISA)"
+   },
+   {
+    "title": "Planejamento (fases do planejamento), orçamento e composição de custos unitários, parciais e totais, BDI e encargos sociais - levantamento de quantidades; cronograma físico-financeiro, caminho crítico, PERT-CPM e histograma de mão de obra, critérios para comparação de preços"
+   },
+   {
+    "title": "Manipulação em software MS Project"
+   },
+   {
+    "title": "Conhecimentos de Administração Pública: Legislação que regula as licitações e contratos da Administração Pública"
+   },
+   {
+    "title": "Lei nº 13.303/2016"
+   },
+   {
+    "title": "Identificação de riscos no ambiente predial"
+   },
+   {
+    "title": "Conhecimentos de saúde e segurança do trabalho"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 36,
+  "title": "Engenharia Mecânica",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Conhecimentos de Administração Pública: Legislação que regula as licitações e contratos da Administração Pública"
+   },
+   {
+    "title": "Identificação de riscos no ambiente predial"
+   },
+   {
+    "title": "Conhecimentos de saúde e segurança do trabalho"
+   },
+   {
+    "title": "Fundamentos de Computação Digital aplicada à Engenharia Mecânica"
+   },
+   {
+    "title": "Mecânica dos fluidos: Propriedades e natureza dos fluidos"
+   },
+   {
+    "title": "Hidrostática"
+   },
+   {
+    "title": "Máquinas de Fluxo",
+    "children": [
+     {
+      "title": "Funcionamento e operação de bombas centrífugas"
+     },
+     {
+      "title": "Compressores alternativos"
+     },
+     {
+      "title": "Compressores centrífugas"
+     },
+     {
+      "title": "Compressores axiais"
+     }
+    ]
+   },
+   {
+    "title": "Corrosão"
+   },
+   {
+    "title": "Seleção de Materiais: Fatores gerais de influência na seleção de materiais"
+   },
+   {
+    "title": "Propriedades mecânicas dos materiais"
+   },
+   {
+    "title": "Automação",
+    "children": [
+     {
+      "title": "Princípios de controle automático de processos"
+     },
+     {
+      "title": "Instrumentação básica"
+     }
+    ]
+   },
+   {
+    "title": "Trocadores de calor"
+   },
+   {
+    "title": "Bombas de alimentação",
+    "children": [
+     {
+      "title": "Caldeiras"
+     },
+     {
+      "title": "Superaquecedores e economizadores"
+     },
+     {
+      "title": "Condensadores"
+     },
+     {
+      "title": "Ejetores"
+     },
+     {
+      "title": "Bombas de circulação de água de resfriamento"
+     }
+    ]
+   },
+   {
+    "title": "Instalações de Refrigeração e Ar Condicionado: Cálculo de carga térmica para ambientes condicionados"
+   },
+   {
+    "title": "Dimensionamento de unidades evaporadoras e condensadoras do tipo expansão direta e indireta"
+   },
+   {
+    "title": "Cálculo de vazão e dimensionamento de dutos de distribuição de ar"
+   },
+   {
+    "title": "Dimensionamento de isolação térmica"
+   },
+   {
+    "title": "Dimensionamento de câmaras frigorífica"
+   },
+   {
+    "title": "Em conformidade com as Normas da ABNT NBR (Norma Brasileira) 16401-1"
+   },
+   {
+    "title": "16401-2 e 16401- 3"
+   },
+   {
+    "title": "Leitura e interpretação de projetos e plantas, incluindo manipulação de arquivos em software AUTOCAD"
+   },
+   {
+    "title": "Geração e distribuição de fluidos industriais",
+    "children": [
+     {
+      "title": "Vapor industrial e condensado"
+     },
+     {
+      "title": "Vapor purificado"
+     },
+     {
+      "title": "Água purificada"
+     },
+     {
+      "title": "Água para produtos injetáveis"
+     },
+     {
+      "title": "Água abrandada"
+     }
+    ]
+   },
+   {
+    "title": "Controle e inspeção de soldas orbitais em aço inox"
+   },
+   {
+    "title": "Passivação de tubulações"
+   },
+   {
+    "title": "Planejamento (fases do planejamento), orçamento e composição de custos unitários, parciais e totais, BDI e encargos sociais - levantamento de quantidades; cronograma físico financeiro, caminho crítico, PERT-CPM e histograma de mão de obra, critérios para comparação de preços"
+   },
+   {
+    "title": "Manipulação em software MS Project"
+   },
+   {
+    "title": "Inglês técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 38,
+  "title": "Fracionamento Industrial do Plasma 1",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Ambientes na indústria farmacêutica: Características de uma unidade fabril para produção de medicamentos injetáveis"
+   },
+   {
+    "title": "Utilidades industriais farmacêuticas",
+    "children": [
+     {
+      "title": "Produção e controle de águas, vapor puro, ar comprimido e químicos para uso farmacêutico"
+     },
+     {
+      "title": "Princípios e Processos de esterilização industrial: esterilização por calor úmido e despirogenização por calor seco"
+     }
+    ]
+   },
+   {
+    "title": "Produção de hemoderivados",
+    "children": [
+     {
+      "title": "Tipos e características dos principais hemoderivados"
+     },
+     {
+      "title": "Plasma para fracionamento industrial: tipos e características"
+     },
+     {
+      "title": "Principais métodos de purificação de proteínas plasmáticas: Precipitação pelo etanol, sais inorgânicos e polietilenoglicol"
+     }
+    ]
+   },
+   {
+    "title": "Cromatografia Líquida preparativa para purificação de biomoléculas"
+   },
+   {
+    "title": "Conceitos e aplicações de microfiltração, filtração tangencial e ultrafiltração em produtos biológicos injetáveis"
+   },
+   {
+    "title": "Métodos de inativação e eliminação viral aplicados à produção de hemoderivados: Mistura solvente/detergente, aquecimento do produto acabado, nanofiltração"
+   },
+   {
+    "title": "Envase asséptico de medicamentos injetáveis"
+   },
+   {
+    "title": "Liofilização de medicamentos"
+   },
+   {
+    "title": "Rotulagem e condicionamento secundário e terciário de medicamentos"
+   },
+   {
+    "title": "Farmacovigilância e hemovigilância"
+   },
+   {
+    "title": "Boas Práticas de Fabricação aplicadas à produção de medicamentos biológicos"
+   },
+   {
+    "title": "Conhecimentos de controle de qualidade aplicadas aos insumos farmacêuticos, ambientes fabris, processo produtivo e produto acabado dos medicamentos biológicos"
+   },
+   {
+    "title": "Normas de Biossegurança aplicadas à produção de medicamentos biológicos"
+   },
+   {
+    "title": "Produção e Controle de Qualidade de Medicamentos Biológicos Armazenamento e Transporte de insumos e produtos farmacêuticos termolábeis"
+   },
+   {
+    "title": "Legislação sanitária aplicada à indústria de medicamentos parenterais e biológicos"
+   },
+   {
+    "title": "PCP (Planejamento e Controle da Produção)"
+   },
+   {
+    "title": "Lean Manufacturing"
+   },
+   {
+    "title": "Conhecimentos de gerenciamento de projetos PMBOK"
+   },
+   {
+    "title": "Sistemas de HVAC em ambientes farmacêuticos"
+   },
+   {
+    "title": "Biotecnologia Farmacêutica: tipos de produtos"
+   },
+   {
+    "title": "Processos de produção e sistemas de expressão"
+   },
+   {
+    "title": "Cultivo de células animais para produção de produtos biológicos"
+   },
+   {
+    "title": "Biorreatores"
+   },
+   {
+    "title": "Processos de purificação e caracterização de biomoléculas"
+   },
+   {
+    "title": "Qualificação de equipamentos e instalações"
+   },
+   {
+    "title": "Validações aplicadas à indústria farmacêutica"
+   },
+   {
+    "title": "Quality by Design aplicado à produção farmacêutica"
+   },
+   {
+    "title": "Biossegurança"
+   },
+   {
+    "title": "Inglês técnico Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 39,
+  "title": "Fracionamento Industrial do Plasma 2",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Ambientes na indústria farmacêutica: Características de uma unidade fabril para produção de medicamentos injetáveis"
+   },
+   {
+    "title": "Utilidades industriais farmacêuticas limpas",
+    "children": [
+     {
+      "title": "Produção e conservação de controle de águas, vapor puro, ar comprimido e químicos para uso farmacêutico segundo o Guia de Qualidade para Sistemas de Purificação de Água para Uso Farmacêutico - Anvisa"
+     },
+     {
+      "title": "Princípios e Processos de esterilização industrial: esterilização por calor úmido e despirogenização por calor seco"
+     }
+    ]
+   },
+   {
+    "title": "Produção de hemoderivados",
+    "children": [
+     {
+      "title": "Tipos e características dos principais hemoderivados"
+     },
+     {
+      "title": "Plasma para fracionamento industrial: tipos e características"
+     },
+     {
+      "title": "Principais métodos de purificação de proteínas plasmáticas: Precipitação pelo etanol, sais inorgânicos e polietilenoglicol"
+     }
+    ]
+   },
+   {
+    "title": "Cromatografia Líquida preparativa para purificação de biomoléculas"
+   },
+   {
+    "title": "Conceitos e aplicações de microfiltração, filtração tangencial e ultrafiltração em produtos biológicos injetáveis"
+   },
+   {
+    "title": "Métodos de inativação e eliminação viral aplicados à produção de hemoderivados: Mistura solvente/detergente, aquecimento do produto acabado, nanofiltração"
+   },
+   {
+    "title": "Envase asséptico de medicamentos injetáveis"
+   },
+   {
+    "title": "Liofilização de medicamentos"
+   },
+   {
+    "title": "Rotulagem e condicionamento secundário e terciário de medicamentos"
+   },
+   {
+    "title": "Farmacovigilância e hemovigilância"
+   },
+   {
+    "title": "Boas Práticas de Fabricação aplicadas à produção de medicamentos biológicos"
+   },
+   {
+    "title": "Conhecimentos de controle de qualidade aplicadas aos insumos farmacêuticos, ambientes fabris, processo produtivo e produto acabado dos medicamentos biológicos"
+   },
+   {
+    "title": "Normas de Biossegurança aplicadas à produção de medicamentos biológicos"
+   },
+   {
+    "title": "RDC 318/2019 - Estabelece os critérios para a realização de Estudos de Estabilidade de insumos farmacêuticos ativos e medicamentos"
+   },
+   {
+    "title": "Exceto biológicos"
+   },
+   {
+    "title": "Dá outras providências"
+   },
+   {
+    "title": "Sistema da qualidade em Indústria Farmacêutica",
+    "children": [
+     {
+      "title": "Manual da Qualidade, procedimentos operacionais padrão, registros de processo, ordem de produção, ordem de embalagem, aprovação/liberação de lote, laudo analítico de controle de qualidade"
+     },
+     {
+      "title": "Sistema de Tratamento de não conformidades: Registro de Não conformidades, Plano de ação corretiva e preventiva"
+     },
+     {
+      "title": "Controle de Mudanças"
+     },
+     {
+      "title": "Revisão Periódica de Produtos (RPP), Liberação de lotes"
+     }
+    ]
+   },
+   {
+    "title": "Inglês Técnico"
+   },
+   {
+    "title": "Legislação sanitária aplicada à indústria de medicamentos parenterais e biológicos"
+   },
+   {
+    "title": "PCP (Planejamento e Controle da Produção)"
+   },
+   {
+    "title": "Lean Manufacturing"
+   },
+   {
+    "title": "Conhecimentos de gerenciamento de projetos PMBOK"
+   },
+   {
+    "title": "Sistemas de HVAC em ambientes farmacêuticos"
+   },
+   {
+    "title": "Biotecnologia Farmacêutica: tipos de produtos"
+   },
+   {
+    "title": "Processos de produção e sistemas de expressão"
+   },
+   {
+    "title": "Cultivo de células animais para produção de produtos biológicos"
+   },
+   {
+    "title": "Biorreatores"
+   },
+   {
+    "title": "Processos de purificação e caracterização de biomoléculas"
+   },
+   {
+    "title": "Qualificação de equipamentos e Instalações"
+   },
+   {
+    "title": "Validações aplicadas à indústria farmacêutica"
+   },
+   {
+    "title": "Quality by Design aplicado à produção farmacêutica"
+   },
+   {
+    "title": "Biossegurança"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 40,
+  "title": "Garantia da Qualidade",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Ambientes na indústria farmacêutica: Características de uma unidade fabril para produção de medicamentos injetáveis"
+   },
+   {
+    "title": "Utilidades industriais farmacêuticas limpas",
+    "children": [
+     {
+      "title": "Produção e conservação de controle de águas, vapor puro, ar comprimido e químicos para uso farmacêutico segundo o Guia de Qualidade para Sistemas de Purificação de Água para Uso Farmacêutico - Anvisa"
+     },
+     {
+      "title": "Princípios e Processos de esterilização industrial: esterilização por calor úmido e despirogenização por calor seco"
+     }
+    ]
+   },
+   {
+    "title": "Produção de hemoderivados",
+    "children": [
+     {
+      "title": "Tipos e características dos principais hemoderivados"
+     },
+     {
+      "title": "Sistema da Qualidade Farmacêutica com foco na produção de medicamentos: Princípios e Políticas"
+     },
+     {
+      "title": "Documentação da Garantia de Qualidade: Manual da Qualidade, procedimentos operacionais padrão, registros de processo, ordem de produção, ordem de embalagem, aprovação/liberação de lote"
+     },
+     {
+      "title": "Sistema de Tratamento de não conformidades: Registro de não conformidades, Plano de ação corretiva e preventiva"
+     },
+     {
+      "title": "Controle de Mudanças"
+     },
+     {
+      "title": "Revisão Periódica de Produtos (RPP)"
+     },
+     {
+      "title": "Plano de Auditorias - Auditorias Internas e externas, autoinspeções"
+     },
+     {
+      "title": "Gerenciamento de Risco da Qualidade"
+     },
+     {
+      "title": "Qualificação de Fornecedores"
+     },
+     {
+      "title": "Recolhimento, Reclamação, Treinamento de pessoal, requisitos para instalações farmacêuticas"
+     },
+     {
+      "title": "Higiene de Pessoal"
+     },
+     {
+      "title": "Atividades Terceirizadas"
+     },
+     {
+      "title": "Requisitos de Boas Práticas de Fabricação para Operações de fabricação e controle de Qualidade"
+     },
+     {
+      "title": "Validação e Qualificação: Documentação de Validação e Qualificação"
+     },
+     {
+      "title": "Plano Mestre de Validação"
+     },
+     {
+      "title": "Validação de Limpeza, Qualificação de Sistemas utilidades industriais, Validação de Processos com Ênfase nos Processos Assépticos"
+     },
+     {
+      "title": "Análise de riscos em validação e qualificação, Qualificação de Equipamentos"
+     },
+     {
+      "title": "Qualificação de Transporte"
+     },
+     {
+      "title": "Qualificação de Sistemas Computadorizados"
+     },
+     {
+      "title": "Todos os guias da ANVISA válidos para os temas de validação e qualificação"
+     },
+     {
+      "title": "Envase asséptico de medicamentos injetáveis"
+     }
+    ]
+   },
+   {
+    "title": "Liofilização de medicamentos"
+   },
+   {
+    "title": "Rotulagem e condicionamento secundário e terciário de medicamentos"
+   },
+   {
+    "title": "Farmacovigilância e hemovigilância"
+   },
+   {
+    "title": "Conhecimentos de controle de qualidade aplicadas aos insumos farmacêuticos, ambientes fabris, processo produtivo e produto acabado dos medicamentos biológicos"
+   },
+   {
+    "title": "Legislações: RDC nº 658/2022 - Diretrizes Gerais de Boas Práticas de Fabricação de Medicamentos e todas as INs vinculadas à norma"
+   },
+   {
+    "title": "RDC nº 669/2022 - Dispõe sobre os requisitos mínimos para garantir a qualidade dos produtos biológicos importados"
+   },
+   {
+    "title": "RDC nº 47/2009 - Estabelece regras para elaboração"
+   },
+   {
+    "title": "Harmonização"
+   },
+   {
+    "title": "Atualização"
+   },
+   {
+    "title": "Publicação e disponibilização de bulas de medicamentos para pacientes e para profissionais de saúde"
+   },
+   {
+    "title": "RDC nº 768/2022 - Estabelece regras para a rotulagem de medicamentos"
+   },
+   {
+    "title": "RDC nº 412/2020 Estabilidade de Medicamentos Biológicos; Inglês técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 41,
+  "title": "Planejamento e Controle de Produção",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Introdução ao PCP e o PCP na visão estratégica industrial"
+   },
+   {
+    "title": "Previsão de demanda"
+   },
+   {
+    "title": "S&Op"
+   },
+   {
+    "title": "Planejamento agregado da produção"
+   },
+   {
+    "title": "Planejamento mestre da produção"
+   },
+   {
+    "title": "Planejamento das necessidades de materiais (MRP)"
+   },
+   {
+    "title": "Planejamento da capacidade de produção e Recursos de manufatura (MRP2)"
+   },
+   {
+    "title": "Ferramentas estatísticas aplicadas ao controle da produção"
+   },
+   {
+    "title": "Produção Enxuta x Produção Puxada"
+   },
+   {
+    "title": "Programação e sequenciamento de produção"
+   },
+   {
+    "title": "Sistemas Integrados de Manufatura",
+    "children": [
+     {
+      "title": "Sistemas de produção industrial e suas variações"
+     },
+     {
+      "title": "Introdução a automação industrial"
+     },
+     {
+      "title": "Tecnologia de grupo"
+     },
+     {
+      "title": "DFMA - Design for Manufacturing and Assembly"
+     },
+     {
+      "title": "Células de manufatura"
+     },
+     {
+      "title": "Engenharia simultânea e concorrente"
+     },
+     {
+      "title": "Engenharia robusta"
+     },
+     {
+      "title": "Sistemas flexíveis de manufatura"
+     },
+     {
+      "title": "Ferramentas (Kanban)"
+     }
+    ]
+   },
+   {
+    "title": "Logistica",
+    "children": [
+     {
+      "title": "Fundamentos; Conceito; Cadeia de suprimentos e Supply Chain Management; Princípios logísticos"
+     },
+     {
+      "title": "Nível de serviço logístico"
+     },
+     {
+      "title": "Logística e globalização"
+     },
+     {
+      "title": "Funções logísticas na cadeia de suprimentos"
+     },
+     {
+      "title": "Suprimento físico"
+     },
+     {
+      "title": "Gestão. de transportes Gestão de estoques"
+     },
+     {
+      "title": "Logística e tecnologia"
+     }
+    ]
+   },
+   {
+    "title": "Pesquisa Operacional",
+    "children": [
+     {
+      "title": "Formulação de Modelos"
+     },
+     {
+      "title": "Programação Linear"
+     },
+     {
+      "title": "Método Simplex"
+     },
+     {
+      "title": "Problemas de Transporte"
+     },
+     {
+      "title": "Programação Inteira"
+     },
+     {
+      "title": "Modelos de Rede"
+     },
+     {
+      "title": "Simulação Computacional"
+     },
+     {
+      "title": "Introdução a Pesquisa Operacional"
+     },
+     {
+      "title": "Programação Linear; Programação Linear Inteira; Programação Não Linear; Programação Dinâmica; Método Simplex"
+     },
+     {
+      "title": "Problemas de Transporte"
+     },
+     {
+      "title": "Teoria das Filas; Softwares; Análise de sensibilidade"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": 42,
+  "title": "Plasma e Hemocomponentes",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Farmacovigilância e Hemovigilância"
+   },
+   {
+    "title": "Probabilidade e Estatística"
+   },
+   {
+    "title": "Estatística Aplicada"
+   },
+   {
+    "title": "Controle de qualidade de plasma"
+   },
+   {
+    "title": "Garantia de qualidade aplicada à indústria farmacêutica e à Hemoterapia"
+   },
+   {
+    "title": "Boas práticas de fabricação (cGMP) aplicadas à indústria farmacêutica"
+   },
+   {
+    "title": "Planejamento e controle de produção"
+   },
+   {
+    "title": "Gestão de erros, desvios e não-conformidades"
+   },
+   {
+    "title": "Plasma para fracionamento industrial: tipos e características"
+   },
+   {
+    "title": "Controle de qualidade de plasma e de hemocomponentes"
+   },
+   {
+    "title": "Fatores que influenciam na qualidade do plasma"
+   },
+   {
+    "title": "Controle de qualidade de insumos"
+   },
+   {
+    "title": "Biossegurança - esterilização e desinfecção"
+   },
+   {
+    "title": "Desinfetantes"
+   },
+   {
+    "title": "Níveis de biossegurança"
+   },
+   {
+    "title": "Descarte de material biológico"
+   },
+   {
+    "title": "Manuseio e transporte de amostras"
+   },
+   {
+    "title": "Equipamentos de contenção"
+   },
+   {
+    "title": "Equipamento de proteção individual e coletivo"
+   },
+   {
+    "title": "Portaria de Consolidação nº 5 de 28 de Setembro de 2017, Anexo IV, Ministério da Saúde"
+   },
+   {
+    "title": "RDC ANVISA nº 658/2022"
+   },
+   {
+    "title": "RDC/ANVISA nº 34/2014"
+   },
+   {
+    "title": "Doenças infecciosas transmissíveis pelo sangue"
+   },
+   {
+    "title": "Controle de qualidade de produtos biológicos, incluindo hemoderivados"
+   },
+   {
+    "title": "Produção de hemoderivados"
+   },
+   {
+    "title": "Tipos e características dos hemoderivados"
+   },
+   {
+    "title": "Cadeia do frio em Hemoterapia"
+   },
+   {
+    "title": "Técnicas para auditorias de laboratórios e serviços de Hemoterapia"
+   },
+   {
+    "title": "Testes sorológicos e moleculares para triagem de doenças infecciosas em doadores de sangue"
+   },
+   {
+    "title": "Imuno-hematologia eritrocitária básica: tipagem ABO e Rh, pesquisa e identificação de anticorpos irregulares"
+   },
+   {
+    "title": "Filtração de leucócitos em hemocomponentes"
+   },
+   {
+    "title": "Conservação e transporte de hemocomponentes"
+   },
+   {
+    "title": "Normas para triagem de doadores de sangue"
+   },
+   {
+    "title": "Garantia de qualidade aplicadas a serviços de Hemoterapia"
+   },
+   {
+    "title": "Rastreabilidade de hemocomponentes"
+   },
+   {
+    "title": "Inglês técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 43,
+  "title": "Segurança do Trabalho",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Higiene Ocupacional"
+   },
+   {
+    "title": "Riscos ambientais",
+    "children": [
+     {
+      "title": "Riscos físicos"
+     },
+     {
+      "title": "Químicos"
+     },
+     {
+      "title": "Biológicos e ergonômicos"
+     }
+    ]
+   },
+   {
+    "title": "Programa de prevenção de riscos ambientais"
+   },
+   {
+    "title": "Noções do Programa de Controle Médico Saúde Ocupacional"
+   },
+   {
+    "title": "Laudo Técnico de Condições Ambientais do Trabalho"
+   },
+   {
+    "title": "Perfil Profissiográfico Previdenciário"
+   },
+   {
+    "title": "Programa de Conservação auditiva, Programa de proteção respiratória"
+   },
+   {
+    "title": "Tecnologia e prevenção no combate a incêndio, explosão e outros sinistros"
+   },
+   {
+    "title": "Segurança do trabalho: legislação e normatização"
+   },
+   {
+    "title": "Acidentes de trabalho",
+    "children": [
+     {
+      "title": "Conceito legal"
+     },
+     {
+      "title": "CAT - Comunicação de Acidente do Trabalho"
+     },
+     {
+      "title": "Benefícios"
+     },
+     {
+      "title": "Responsabilidade civil pelo acidente do trabalho"
+     },
+     {
+      "title": "Conceito prevencionista"
+     },
+     {
+      "title": "Estatística de acidentes do trabalho"
+     },
+     {
+      "title": "Investigação e análise de acidentes"
+     }
+    ]
+   },
+   {
+    "title": "Controle de Perdas acidentais"
+   },
+   {
+    "title": "Segurança em eletricidade, caldeiras e vasos sob pressão"
+   },
+   {
+    "title": "Segurança em máquinas e equipamentos, transporte e armazenagem"
+   },
+   {
+    "title": "Ventilação Industrial"
+   },
+   {
+    "title": "Serviço Especializado em engenharia de Segurança e Medicina do Trabalho e Comissão de Prevenção de Acidentes do Trabalho"
+   },
+   {
+    "title": "Equipamentos de proteção individual e coletiva - EPI/EPC"
+   },
+   {
+    "title": "Inspeções de segurança"
+   },
+   {
+    "title": "Segurança de processo"
+   },
+   {
+    "title": "Riscos biológicos em laboratórios"
+   },
+   {
+    "title": "Classificação de risco dos agentes biológicos"
+   },
+   {
+    "title": "Insalubridade, Periculosidade com normatização relativa"
+   },
+   {
+    "title": "Segurança e Saúde do Trabalho em Serviços de Saúde e normatização relativa"
+   },
+   {
+    "title": "Normas Regulamentadoras (atualizadas) da Portaria do MTE nº 3.214/1978"
+   },
+   {
+    "title": "Inglês técnico"
+   },
+   {
+    "title": "Método de Análise e Solução de Problemas (MASP)"
+   }
+  ]
+ },
+ {
+  "code": 44,
+  "title": "Tecnologia da Informação e Operação",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": false,
+  "children": [
+   {
+    "title": "Princípios básicos de controladores lógicos programáveis - CLP, Variável manipulada e variável controlada"
+   },
+   {
+    "title": "Simbologia de instrumentos e equipamentos"
+   },
+   {
+    "title": "Instrumentos de medição"
+   },
+   {
+    "title": "Microprocessadores e micro controladores"
+   },
+   {
+    "title": "Eletrônica industrial, eletrônica analógica e digital"
+   },
+   {
+    "title": "Dispositivos semicondutores"
+   },
+   {
+    "title": "Microeletrônica, instrumentação eletrônica e processamento de sinais"
+   },
+   {
+    "title": "Automação e controle automático de processos de comunicação de dados"
+   },
+   {
+    "title": "Normas de segurança do trabalho e proteções na área de instalações elétricas"
+   },
+   {
+    "title": "Automação industrial",
+    "children": [
+     {
+      "title": "Instrumentação industrial"
+     },
+     {
+      "title": "Experimentos de instrumentação industrial"
+     },
+     {
+      "title": "Sensor de deformação"
+     },
+     {
+      "title": "Medição de temperatura"
+     },
+     {
+      "title": "Padrões de calibração dos instrumentos"
+     },
+     {
+      "title": "Pressão e vácuo"
+     },
+     {
+      "title": "Termômetros"
+     },
+     {
+      "title": "Pirometria"
+     },
+     {
+      "title": "Instrumentação de nível para sólidos e fluídos"
+     },
+     {
+      "title": "Instrumentação e medição de vazões"
+     },
+     {
+      "title": "Instrumentação industrial analítica"
+     }
+    ]
+   },
+   {
+    "title": "Fundamentos de computação"
+   },
+   {
+    "title": "Organização e arquitetura de computadores"
+   },
+   {
+    "title": "Componentes de um computador (hardware e software)"
+   },
+   {
+    "title": "Sistemas de entrada, saída e armazenamento"
+   },
+   {
+    "title": "Aplicações de informática e microinformática"
+   },
+   {
+    "title": "Ambiente Windows e Linux"
+   },
+   {
+    "title": "Conceitos de Bancos de Dados"
+   },
+   {
+    "title": "Banco de Dados textuais"
+   },
+   {
+    "title": "Linguagens de programação"
+   },
+   {
+    "title": "Tipos de dados elementares e estruturados"
+   },
+   {
+    "title": "Funções e procedimentos"
+   },
+   {
+    "title": "Estruturas de controle de fluxo"
+   },
+   {
+    "title": "Caracterização das linguagens de programação Java, PHP, DotNet e Delphi"
+   },
+   {
+    "title": "Ambientes de desenvolvimento visual (Delphi, DotNet, PHP e Java)"
+   },
+   {
+    "title": "Linguagens de programação orientada a objetos (Delphi, DotNet, PHP e Java)"
+   },
+   {
+    "title": "Programação PHP (ambiente Joomla)"
+   },
+   {
+    "title": "Portais corporativos",
+    "children": [
+     {
+      "title": "Conceitos básicos e aplicações"
+     },
+     {
+      "title": "Portlets"
+     },
+     {
+      "title": "RSS"
+     }
+    ]
+   },
+   {
+    "title": "Redes de computadores"
+   },
+   {
+    "title": "Fundamentos de comunicação de dados"
+   },
+   {
+    "title": "Meios físicos de transmissão"
+   },
+   {
+    "title": "Redes de Computadores e Sistemas distribuídos: Topologias de redes de computadores"
+   },
+   {
+    "title": "Arquitetura e protocolos de redes de comunicação"
+   },
+   {
+    "title": "Tecnologias de redes locais Ethernet/Fast Ethernet/Gigabit Ethernet"
+   },
+   {
+    "title": "Elementos de interconexão de redes de computadores (gateways, hubs, repetidores, bridges, switches, roteadores)"
+   },
+   {
+    "title": "Estações e servidores"
+   },
+   {
+    "title": "Tecnologias de redes locais e de longa distância"
+   },
+   {
+    "title": "Arquitetura, protocolos e serviços de redes industriais"
+   },
+   {
+    "title": "Gerenciamento de redes industriais; Conceitos de virtualização: Hiper-V, VMware e Zen"
+   },
+   {
+    "title": "Soluções de Armazenamento RAID, SAN e NAS"
+   },
+   {
+    "title": "Contingência e continuidade de operação"
+   },
+   {
+    "title": "Conceitos de Segurança de redes"
+   },
+   {
+    "title": "Instalação de cabeamento e painéis de PLC"
+   },
+   {
+    "title": "Manutenção preventiva e corretiva em equipamentos industriais automatizados"
+   },
+   {
+    "title": "Qualidade"
+   },
+   {
+    "title": "Saúde"
+   },
+   {
+    "title": "Meio Ambiente e Segurança do Trabalho"
+   },
+   {
+    "title": "Princípios de Validação de Sistemas Informatizados"
+   },
+   {
+    "title": "Arquitetura TCP/IP"
+   },
+   {
+    "title": "Arquitetura cliente-servidor"
+   },
+   {
+    "title": "Conceitos de Internet e Intranet, conhecimento básico em IoT (internet das coisas)"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 45,
+  "title": "Engenharia Civil",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": true,
+  "children": [
+   {
+    "title": "Noções de Administração Pública: Legislação que regula as licitações e contratos da Administração Pública"
+   },
+   {
+    "title": "Identificação de riscos no ambiente predial"
+   },
+   {
+    "title": "Noções de saúde e segurança do trabalho"
+   },
+   {
+    "title": "Planejamento (fases do planejamento), orçamento e composição de custos unitários, parciais e totais, BDI e encargos sociais - levantamento de quantidades; cronograma físico-financeiro, caminho crítico, PERT-CPM e histograma de mão de obra, critérios para comparação de preços"
+   },
+   {
+    "title": "Manipulação em software MS Project"
+   },
+   {
+    "title": "Avaliação de Imóveis: metodologia e procedimentos"
+   },
+   {
+    "title": "Projetos de obras civis",
+    "children": [
+     {
+      "title": "Arquitetônico"
+     },
+     {
+      "title": "Estruturais (concreto, aço e madeira)"
+     },
+     {
+      "title": "Fundações"
+     },
+     {
+      "title": "Instalações elétricas e hidrossanitárias"
+     }
+    ]
+   },
+   {
+    "title": "Projetos Complementares básicos",
+    "children": [
+     {
+      "title": "Elevadores"
+     },
+     {
+      "title": "Ventilação-exaustão"
+     },
+     {
+      "title": "Climatização"
+     },
+     {
+      "title": "Telefonia e rede estruturada"
+     },
+     {
+      "title": "Prevenção contra incêndio - compatibilização de projetos"
+     }
+    ]
+   },
+   {
+    "title": "Especificação de materiais e serviços - Caderno de encargos"
+   },
+   {
+    "title": "Topografia",
+    "children": [
+     {
+      "title": "Dados técnicos para o projeto: levantamento planialtimétrico, poligonais"
+     },
+     {
+      "title": "Levantamento altimétrico, perfis e curvas de nível"
+     }
+    ]
+   },
+   {
+    "title": "Operação e controle de obra, procedimentos gerenciais e acompanhamento de obras"
+   },
+   {
+    "title": "Construção",
+    "children": [
+     {
+      "title": "Organização do canteiro de obras Execução de: Fundações (sapatas, estacas e tubulões)"
+     },
+     {
+      "title": "Alvenaria, estruturas de concreto, aço e madeira, coberturas e impermeabilização, esquadrias, pisos e revestimentos, pinturas, instalações (água, esgoto, eletricidade e telefonia/dados), isolamento térmico e acústico"
+     }
+    ]
+   },
+   {
+    "title": "Recebimento e armazenamento de materiais"
+   },
+   {
+    "title": "Materiais da Construção Civil"
+   },
+   {
+    "title": "Aglomerantes - gesso, cal, cimento Portland"
+   },
+   {
+    "title": "Agregados"
+   },
+   {
+    "title": "Argamassa"
+   },
+   {
+    "title": "Concreto: dosagem, tecnologia do concreto"
+   },
+   {
+    "title": "Aço"
+   },
+   {
+    "title": "Madeira"
+   },
+   {
+    "title": "Materiais Cerâmicos"
+   },
+   {
+    "title": "Vidros"
+   },
+   {
+    "title": "Tintas e vernizes"
+   },
+   {
+    "title": "Sondagens de Reconhecimento do Subsolo, tipos e apresentações; tipos de solo: características e classificação geral"
+   },
+   {
+    "title": "Muros de arrimo: tipos e cálculo"
+   },
+   {
+    "title": "Concepção estrutural adequada ao projeto arquitetônico; cargas atuantes; carregamento"
+   },
+   {
+    "title": "Conforto ambiental"
+   },
+   {
+    "title": "Saneamento básico - tratamento de água e esgoto"
+   },
+   {
+    "title": "Computação gráfica aplicada à engenharia - CAD, em conformidade com as Normas da ABNT"
+   },
+   {
+    "title": "Legislação pertinente às edificações, inclusive às normas técnicas para elaboração, execução e fiscalização de projetos, obras e serviços de engenharia"
+   },
+   {
+    "title": "Norma Regulamentadora nº17 e Portaria nº 3.214/77 do Ministério do Trabalho"
+   },
+   {
+    "title": "Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos, ABNT NBR 9050/2004"
+   },
+   {
+    "title": "Legislação aplicada à economia de recursos naturais e sustentabilidade nas edificações"
+   },
+   {
+    "title": "Normas de segurança do trabalho aplicadas à construção civil"
+   },
+   {
+    "title": "Resoluções do CNJ e CSJT aplicadas à obras e serviços de engenharia"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ },
+ {
+  "code": 46,
+  "title": "Engenharia Elétrica",
+  "cargo": "Analista Industrial de Hemoderivados e Biotecnologia",
+  "nivel": "superior",
+  "retificado": true,
+  "children": [
+   {
+    "title": "Noções de Administração Pública: Legislação que regula as licitações e contratos da Administração Pública"
+   },
+   {
+    "title": "Identificação de riscos no ambiente predial"
+   },
+   {
+    "title": "Noções de saúde e segurança do trabalho"
+   },
+   {
+    "title": "Fundamentos de Computação Digital aplicada à Engenharia Elétrica"
+   },
+   {
+    "title": "Conceitos básicos de Circuitos Elétricos"
+   },
+   {
+    "title": "Circuitos de Corrente Contínua"
+   },
+   {
+    "title": "Circuitos de Corrente Alternada"
+   },
+   {
+    "title": "Leis Fundamentais"
+   },
+   {
+    "title": "Elementos de Circuitos"
+   },
+   {
+    "title": "Grandezas fasoriais: tensão e corrente"
+   },
+   {
+    "title": "Impedância"
+   },
+   {
+    "title": "Potências ativa, reativa e aparente"
+   },
+   {
+    "title": "Fator de potência"
+   },
+   {
+    "title": "Energia"
+   },
+   {
+    "title": "Medição de grandezas elétricas"
+   },
+   {
+    "title": "Conceitos básicos de sistemas trifásicos"
+   },
+   {
+    "title": "Grandezas de linha e de fase"
+   },
+   {
+    "title": "Potência Trifásica"
+   },
+   {
+    "title": "Fator de potência e compensação de potência reativa"
+   },
+   {
+    "title": "Conexões trifásicas de geradores, cargas e transformadores"
+   },
+   {
+    "title": "Modelagem de sistemas elétricos de potência"
+   },
+   {
+    "title": "Geradores"
+   },
+   {
+    "title": "Transformadores"
+   },
+   {
+    "title": "Linhas de transmissão"
+   },
+   {
+    "title": "Cargas"
+   },
+   {
+    "title": "Conversão Eletromecânica de Energia"
+   },
+   {
+    "title": "Circuitos Magnéticos, Transformadores, máquinas de corrente contínua, motores de indução e máquinas síncronas"
+   },
+   {
+    "title": "Análise de sistemas elétricos de potências"
+   },
+   {
+    "title": "Geração, transmissão e distribuição"
+   },
+   {
+    "title": "Sistemas trifásicos equilibrados e desequilibrados"
+   },
+   {
+    "title": "Valores por Unidade"
+   },
+   {
+    "title": "Componentes simétricas"
+   },
+   {
+    "title": "Cálculo de Curto-circuito simétricos e assimétricos"
+   },
+   {
+    "title": "Fluxo de carga"
+   },
+   {
+    "title": "Matriz de admitância nodal"
+   },
+   {
+    "title": "Noções de estabilidade"
+   },
+   {
+    "title": "Instalações Elétricas"
+   },
+   {
+    "title": "Características de cargas elétricas"
+   },
+   {
+    "title": "Fator de demanda e de carga"
+   },
+   {
+    "title": "Cálculo e correção do fator de potência"
+   },
+   {
+    "title": "Proteção de sistemas elétricos: Relés e Disjuntores"
+   },
+   {
+    "title": "Acionamento Elétrico"
+   },
+   {
+    "title": "Conservação de Energia"
+   },
+   {
+    "title": "Conservação de energia elétrica"
+   },
+   {
+    "title": "Aplicações"
+   },
+   {
+    "title": "Fontes alternativas de energia"
+   },
+   {
+    "title": "Programas governamentais e legislação"
+   },
+   {
+    "title": "Usos finais de energia"
+   },
+   {
+    "title": "Conceitos, panorama e estrutura do setor eletroenergético brasileiro"
+   },
+   {
+    "title": "Eletrônica de potência: elos de corrente contínua e noções de FACTS"
+   },
+   {
+    "title": "Sistemas de controle",
+    "children": [
+     {
+      "title": "Função de transferência"
+     },
+     {
+      "title": "Diagramas de blocos"
+     },
+     {
+      "title": "Realimentação e análise de estabilidade"
+     }
+    ]
+   },
+   {
+    "title": "NRs atinentes à área de atuação"
+   },
+   {
+    "title": "Planejamento (fases do planejamento), orçamento e composição de custos unitários, parciais e totais, BDI e encargos sociais - levantamento de quantidades; cronograma físico-financeiro, caminho crítico, PERT-CPM e histograma de mão de obra, critérios para comparação de preços"
+   },
+   {
+    "title": "Manipulação em software MS Project"
+   },
+   {
+    "title": "Inglês técnico"
+   }
+  ]
+ }
+]
