@@ -87,3 +87,8 @@ export function completeReview(
     },
   }
 }
+
+export function counts(node: TreeNode, progress: Progress): { done: number; total: number } {
+  const ls = leaves(node)
+  return { done: ls.filter((l) => progress[l.id]?.done).length, total: ls.length }
+}
