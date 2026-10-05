@@ -1,6 +1,8 @@
 export interface Prefs {
   lastConcurso?: string
   empregoByConcurso: Record<string, string>
+  /** quando o emprego escolhido mudou pela última vez (para o sync entre aparelhos) */
+  updatedAt?: number
 }
 
 const KEY = 'trilha:prefs'

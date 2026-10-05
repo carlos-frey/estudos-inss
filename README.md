@@ -31,15 +31,26 @@ npm run build
 ```
 
 ## Sync com o Google Drive (configuração única)
-1. No Google Cloud Console crie um projeto e ative a **Google Drive API**.
-2. Tela de consentimento OAuth: tipo Externo, adicione seu e-mail como usuário de teste.
-3. Credenciais → ID do cliente OAuth → Aplicativo da Web, com as origens
-   `http://localhost:5173` e `https://carlos-frey.github.io`.
-4. Local: `echo VITE_GOOGLE_CLIENT_ID=<id> > .env.local`. Deploy: variável do repositório
-   `VITE_GOOGLE_CLIENT_ID` (Settings → Secrets and variables → Actions → Variables).
+O app grava um `progress.json` na pasta oculta do app no Drive de cada usuário (escopo `drive.appdata`,
+classificado pelo Google como **não sensível**: o app não enxerga nenhum outro arquivo).
+Sem o Client ID, o botão de nuvem não aparece e o app funciona só com o navegador.
 
-O app usa só o escopo `drive.appdata` (pasta oculta do app, sem acesso aos seus outros arquivos).
-Sem o Client ID o botão do Drive não aparece.
+1. Em https://console.cloud.google.com crie um projeto (ex.: "Trilha do Edital").
+2. **APIs e serviços → Biblioteca**: ative a **Google Drive API**.
+3. **Google Auth Platform → Branding/Público** (tela de consentimento): tipo **Externo**, nome do app,
+   e-mail de suporte. Em **Acesso a dados**, adicione o escopo `.../auth/drive.appdata`.
+   - Para só você usar: deixe em **Teste** e adicione seu e-mail em usuários de teste.
+   - Para qualquer pessoa usar: **Publicar app** (em produção). Por ser um escopo não sensível, não exige a verificação completa do Google.
+4. **Clientes → Criar cliente → Aplicativo da Web**, com origens JavaScript autorizadas
+   `https://carlos-frey.github.io` e `http://localhost:5173`. Copie o **ID do cliente**
+   (termina em `.apps.googleusercontent.com`; não é segredo, vai no código do site).
+5. Deploy: `gh variable set VITE_GOOGLE_CLIENT_ID -R carlos-frey/estudos-inss --body "<id>"` e rode o
+   workflow de novo. Local: `echo VITE_GOOGLE_CLIENT_ID=<id> > .env.local`.
+
+Como funciona: o login abre um popup do Google; a sessão dura 1 hora (fica guardada só na aba). Mudanças
+sobem 4 s depois da última edição e ao sair da aba; ao abrir em outro aparelho, o merge é por tópico
+(vence a alteração mais recente). Quando a sessão expira, o ícone de nuvem fica amarelo e um clique reconecta.
+O emprego escolhido na Hemobrás também é sincronizado.
 
 ## Deploy
 Settings → Pages → Source: **GitHub Actions**. Cada push na `main` roda `.github/workflows/deploy.yml`.

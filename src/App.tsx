@@ -40,8 +40,12 @@ export default function App() {
   const [tab, setTab] = useState(0)
   const [status, setStatus] = useState<SyncStatus>('off')
   const [toast, setToast] = useState('')
+  const [lastSync, setLastSync] = useState<number>()
   const progressRef = useRef(progress)
+  const prefsRef = useRef(prefs)
   const syncTimer = useRef<number>(undefined)
+  const syncing = useRef(false)
+  const syncAgain = useRef(false)
 
   // sem hash: abre o último concurso usado (ou a tela inicial)
   useEffect(() => {
@@ -63,24 +67,49 @@ export default function App() {
     saveProgress(progress)
   }, [progress])
   useEffect(() => saveExpanded([...expanded]), [expanded])
-  useEffect(() => savePrefs(prefs), [prefs])
+  useEffect(() => {
+    prefsRef.current = prefs
+    savePrefs(prefs)
+  }, [prefs])
 
-  const runSync = useCallback(async () => {
+  /** interactive = veio de um clique, então pode abrir o popup do Google se o token expirou. */
+  const runSync = useCallback(async (interactive = false): Promise<boolean> => {
+    if (syncing.current) {
+      syncAgain.current = true
+      return false
+    }
+    syncing.current = true
     setStatus('syncing')
     try {
-      const merged = await drive.sync(progressRef.current)
-      setProgress((cur) => mergeProgress(cur, merged))
+      do {
+        syncAgain.current = false
+        const res = await drive.sync({ progress: progressRef.current, prefs: prefsRef.current }, interactive)
+        setProgress((cur) => mergeProgress(cur, res.progress))
+        if ((res.prefs.updatedAt ?? 0) > (prefsRef.current.updatedAt ?? 0)) {
+          setPrefs((p) => ({ ...p, empregoByConcurso: res.prefs.empregoByConcurso, updatedAt: res.prefs.updatedAt }))
+        }
+      } while (syncAgain.current)
       setStatus('idle')
+      setLastSync(Date.now())
+      return true
     } catch (e) {
-      console.error(e)
-      setStatus('error')
+      if (e instanceof drive.NeedsAuthError) {
+        setStatus('reauth')
+      } else {
+        console.error(e)
+        setStatus('error')
+        if (interactive) setToast(`Erro ao sincronizar: ${(e as Error).message}`)
+      }
+      return false
+    } finally {
+      syncing.current = false
     }
   }, [])
 
   const scheduleSync = useCallback(() => {
     if (status === 'off') return
     window.clearTimeout(syncTimer.current)
-    syncTimer.current = window.setTimeout(runSync, 5000)
+    syncTimer.current = window.setTimeout(() => runSync(), 4000)
   }, [status, runSync])
 
   const update = useCallback(
@@ -91,22 +120,17 @@ export default function App() {
     [scheduleSync],
   )
 
-  // reconecta sozinho se o usuário já autorizou antes (o script do GIS carrega async)
+  // ao abrir: se já estava conectado, sincroniza com o token da sessão; sem token, pede um clique para reconectar
   useEffect(() => {
     if (!drive.CLIENT_ID || !drive.wasConnected()) return
-    let tries = 0
-    const t = window.setInterval(() => {
-      if (window.google?.accounts || ++tries > 20) {
-        window.clearInterval(t)
-        if (window.google?.accounts) runSync()
-      }
-    }, 250)
-    return () => window.clearInterval(t)
+    if (drive.hasValidToken()) runSync()
+    else setStatus('reauth')
   }, [runSync])
 
+  // ao sair da aba (ou fechar), envia o que mudou
   useEffect(() => {
     const onHide = () => {
-      if (document.visibilityState === 'hidden' && status !== 'off') runSync()
+      if (document.visibilityState === 'hidden' && status !== 'off' && drive.hasValidToken()) runSync()
     }
     document.addEventListener('visibilitychange', onHide)
     return () => document.removeEventListener('visibilitychange', onHide)
@@ -206,10 +230,11 @@ export default function App() {
           <ThemeToggle />
           <SyncControls
             status={status}
+            lastSync={lastSync}
             onConnect={async () => {
               try {
                 await drive.connect()
-                await runSync()
+                if (await runSync(true)) setToast('Progresso sincronizado com o Google Drive')
               } catch (e) {
                 setToast(`Não foi possível conectar ao Google: ${(e as Error).message}`)
               }
@@ -218,7 +243,7 @@ export default function App() {
               drive.disconnect()
               setStatus('off')
             }}
-            onSyncNow={runSync}
+            onSyncNow={() => runSync(true)}
             onExport={() => exportProgress(progress)}
             onImport={async (f) => {
               try {
@@ -239,14 +264,15 @@ export default function App() {
             key={concurso.id}
             concurso={concurso}
             empregoId={empregoId}
-            onEmprego={(id) =>
+            onEmprego={(id) => {
               setPrefs((p) => {
                 const empregoByConcurso = { ...p.empregoByConcurso }
                 if (id) empregoByConcurso[concurso.id] = id
                 else delete empregoByConcurso[concurso.id]
-                return { ...p, empregoByConcurso }
+                return { ...p, empregoByConcurso, updatedAt: Date.now() }
               })
-            }
+              scheduleSync()
+            }}
             tab={tab}
             progress={progress}
             expanded={expanded}
