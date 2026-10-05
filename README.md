@@ -12,7 +12,7 @@ React + Vite + MUI, publicado no GitHub Pages.
 ## Desenvolvimento
 ```
 npm install
-npm run dev     # http://localhost:5173/inss-tracker/
+npm run dev     # http://localhost:5173/estudos-inss/
 npm test
 npm run build
 ```
